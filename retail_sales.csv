@@ -1,0 +1,1001 @@
+﻿Order_ID,Customer_ID,Order_Date,Customer_Name,City,State,Region,Product,Category,Salesperson,Quantity,Unit_Price,Cost_Price,Discount_%,Total_Sales,Total_Cost,Profit,Payment_Mode,Delivery_Status
+ORD0001,CUST0001,2025-10-13,Nikhil Jain,Surat,Gujarat,West,Monitor,Office,Arjun Rao,5,18000,14000,4,86400,70000,16400,Credit Card,Delivered
+ORD0002,CUST0002,2025-06-04,Divya Menon,Mumbai,Maharashtra,West,Keyboard,Accessories,Arjun Rao,3,1500,900,8,4140,2700,1440,Debit Card,Cancelled
+ORD0003,CUST0003,2025-12-19,Sneha Nair,Mysuru,Karnataka,South,Smartphone,Electronics,Arjun Rao,3,35000,28000,22,81900,84000,-2100,Net Banking,Cancelled
+ORD0004,CUST0004,2025-03-22,Arjun Mehta,Jaipur,Rajasthan,North,Tablet,Electronics,Neha Gupta,1,25000,20000,29,17750,20000,-2250,Credit Card,In Transit
+ORD0005,CUST0005,2024-03-20,Deepika Roy,Bengaluru,Karnataka,South,Smartwatch,Wearables,Neha Gupta,6,12000,8500,21,56880,51000,5880,UPI,In Transit
+ORD0006,CUST0006,2024-02-21,Priya Patel,Pune,Maharashtra,West,Smartwatch,Wearables,Pooja Das,6,12000,8500,7,66960,51000,15960,Net Banking,Returned
+ORD0007,CUST0007,2025-07-15,Vikram Singh,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Rahul Verma,10,25000,20000,27,182500,200000,-17500,UPI,Cancelled
+ORD0008,CUST0008,2025-03-24,Rohit Verma,Hyderabad,Telangana,South,Smartwatch,Wearables,Sneha Patil,7,12000,8500,13,73080,59500,13580,Debit Card,Delivered
+ORD0009,CUST0009,2025-11-14,Anjali Rao,Jaipur,Rajasthan,North,Speaker,Electronics,Amit Sharma,9,5000,3200,7,41850,28800,13050,Cash,Cancelled
+ORD0010,CUST0010,2024-07-02,Rohan Kulkarni,New Delhi,Delhi,North,Keyboard,Accessories,Sneha Patil,8,1500,900,0,12000,7200,4800,Net Banking,In Transit
+ORD0011,CUST0011,2025-11-30,Anjali Rao,Jaipur,Rajasthan,North,Smartphone,Electronics,Rahul Verma,8,35000,28000,26,207200,224000,-16800,Credit Card,Returned
+ORD0012,CUST0012,2024-06-06,Karan Joshi,Pune,Maharashtra,West,Headphones,Accessories,Arjun Rao,7,3000,1800,8,19320,12600,6720,UPI,Cancelled
+ORD0013,CUST0013,2025-01-20,Rohan Kulkarni,Jaipur,Rajasthan,North,Laptop,Electronics,Amit Sharma,9,65000,52000,19,473850,468000,5850,Net Banking,In Transit
+ORD0014,CUST0014,2025-03-05,Amit Kumar,Kolkata,West Bengal,East,Headphones,Accessories,Arjun Rao,1,3000,1800,17,2490,1800,690,Credit Card,Delivered
+ORD0015,CUST0015,2024-12-29,Divya Menon,Kolkata,West Bengal,East,Headphones,Accessories,Karan Singh,7,3000,1800,22,16380,12600,3780,Cash,Cancelled
+ORD0016,CUST0016,2025-03-12,Vikram Singh,Warangal,Telangana,South,Tablet,Electronics,Priya Nair,4,25000,20000,15,85000,80000,5000,Net Banking,In Transit
+ORD0017,CUST0017,2025-04-28,Kavya Reddy,Mumbai,Maharashtra,West,Printer,Office,Sneha Patil,6,15000,11500,22,70200,69000,1200,Credit Card,In Transit
+ORD0018,CUST0018,2024-04-24,Neha Gupta,Pune,Maharashtra,West,Speaker,Electronics,Rahul Verma,10,5000,3200,21,39500,32000,7500,Cash,Returned
+ORD0019,CUST0019,2024-02-09,Karan Joshi,Mysuru,Karnataka,South,Keyboard,Accessories,Arjun Rao,10,1500,900,4,14400,9000,5400,Cash,In Transit
+ORD0020,CUST0020,2024-06-22,Anjali Rao,Mysuru,Karnataka,South,Headphones,Accessories,Arjun Rao,5,3000,1800,4,14400,9000,5400,UPI,Delivered
+ORD0021,CUST0021,2024-09-09,Pooja Das,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Sneha Patil,9,12000,8500,3,104760,76500,28260,Credit Card,Delivered
+ORD0022,CUST0022,2024-08-09,Rahul Sharma,Warangal,Telangana,South,Printer,Office,Rahul Verma,7,15000,11500,6,98700,80500,18200,Debit Card,Delivered
+ORD0023,CUST0023,2024-02-05,Priya Patel,Kolkata,West Bengal,East,Smartwatch,Wearables,Rahul Verma,10,12000,8500,21,94800,85000,9800,Debit Card,Returned
+ORD0024,CUST0024,2024-01-31,Neha Gupta,Kolkata,West Bengal,East,Headphones,Accessories,Amit Sharma,10,3000,1800,7,27900,18000,9900,Debit Card,In Transit
+ORD0025,CUST0025,2024-02-06,Neha Gupta,Chennai,Tamil Nadu,South,Printer,Office,Sneha Patil,4,15000,11500,13,52200,46000,6200,Credit Card,Returned
+ORD0026,CUST0026,2025-12-23,Priya Patel,Chennai,Tamil Nadu,South,Tablet,Electronics,Anjali Mehta,8,25000,20000,22,156000,160000,-4000,Net Banking,Returned
+ORD0027,CUST0027,2024-02-28,Rahul Sharma,Chennai,Tamil Nadu,South,Laptop,Electronics,Neha Gupta,9,65000,52000,19,473850,468000,5850,Debit Card,Delivered
+ORD0028,CUST0028,2025-01-10,Vikram Singh,Hyderabad,Telangana,South,Monitor,Office,Anjali Mehta,6,18000,14000,8,99360,84000,15360,Cash,Returned
+ORD0029,CUST0029,2025-10-14,Priya Patel,Hyderabad,Telangana,South,Laptop,Electronics,Rahul Verma,7,65000,52000,13,395850,364000,31850,Credit Card,Delivered
+ORD0030,CUST0030,2025-11-25,Meera Shah,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Neha Gupta,5,12000,8500,14,51600,42500,9100,Debit Card,Cancelled
+ORD0031,CUST0031,2025-05-13,Priya Patel,Jaipur,Rajasthan,North,Headphones,Accessories,Amit Sharma,9,3000,1800,3,26190,16200,9990,Debit Card,Delivered
+ORD0032,CUST0032,2024-02-19,Neha Gupta,Pune,Maharashtra,West,Smartphone,Electronics,Priya Nair,8,35000,28000,9,254800,224000,30800,Net Banking,Cancelled
+ORD0033,CUST0033,2025-09-12,Sneha Nair,Ahmedabad,Gujarat,West,Tablet,Electronics,Arjun Rao,7,25000,20000,17,145250,140000,5250,UPI,Cancelled
+ORD0034,CUST0034,2024-09-18,Deepika Roy,New Delhi,Delhi,North,Printer,Office,Rahul Verma,10,15000,11500,12,132000,115000,17000,Debit Card,Delivered
+ORD0035,CUST0035,2024-08-12,Rahul Sharma,Hyderabad,Telangana,South,Headphones,Accessories,Arjun Rao,9,3000,1800,25,20250,16200,4050,Net Banking,Returned
+ORD0036,CUST0036,2025-04-17,Rohit Verma,Kolkata,West Bengal,East,Tablet,Electronics,Neha Gupta,2,25000,20000,27,36500,40000,-3500,Debit Card,In Transit
+ORD0037,CUST0037,2024-08-09,Aisha Khan,Coimbatore,Tamil Nadu,South,Monitor,Office,Neha Gupta,10,18000,14000,1,178200,140000,38200,Debit Card,Cancelled
+ORD0038,CUST0038,2025-08-28,Sneha Nair,Chennai,Tamil Nadu,South,Speaker,Electronics,Karan Singh,1,5000,3200,27,3650,3200,450,Cash,Returned
+ORD0039,CUST0039,2025-11-19,Aditya Mishra,Mumbai,Maharashtra,West,Tablet,Electronics,Priya Nair,5,25000,20000,21,98750,100000,-1250,Net Banking,Delivered
+ORD0040,CUST0040,2024-04-22,Deepika Roy,Ahmedabad,Gujarat,West,Headphones,Accessories,Rahul Verma,5,3000,1800,24,11400,9000,2400,UPI,In Transit
+ORD0041,CUST0041,2024-08-09,Kavya Reddy,Ahmedabad,Gujarat,West,Headphones,Accessories,Pooja Das,1,3000,1800,29,2130,1800,330,Credit Card,Cancelled
+ORD0042,CUST0042,2025-12-13,Karan Joshi,Hyderabad,Telangana,South,Printer,Office,Neha Gupta,5,15000,11500,24,57000,57500,-500,Cash,In Transit
+ORD0043,CUST0043,2024-02-27,Sneha Nair,Kolkata,West Bengal,East,Speaker,Electronics,Arjun Rao,1,5000,3200,16,4200,3200,1000,Cash,In Transit
+ORD0044,CUST0044,2024-05-21,Aditya Mishra,Pune,Maharashtra,West,Keyboard,Accessories,Priya Nair,1,1500,900,17,1245,900,345,UPI,Delivered
+ORD0045,CUST0045,2025-04-05,Karan Joshi,Bengaluru,Karnataka,South,Printer,Office,Karan Singh,3,15000,11500,5,42750,34500,8250,Credit Card,In Transit
+ORD0046,CUST0046,2025-03-27,Suresh Iyer,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Neha Gupta,7,800,450,16,4704,3150,1554,UPI,Delivered
+ORD0047,CUST0047,2025-08-18,Karan Joshi,Surat,Gujarat,West,Smartwatch,Wearables,Priya Nair,2,12000,8500,27,17520,17000,520,Cash,Returned
+ORD0048,CUST0048,2025-07-07,Deepika Roy,Surat,Gujarat,West,Monitor,Office,Pooja Das,3,18000,14000,15,45900,42000,3900,Net Banking,In Transit
+ORD0049,CUST0049,2025-10-26,Karan Joshi,Bengaluru,Karnataka,South,Smartphone,Electronics,Sneha Patil,8,35000,28000,7,260400,224000,36400,UPI,Delivered
+ORD0050,CUST0050,2025-11-15,Vikram Singh,Kolkata,West Bengal,East,Monitor,Office,Amit Sharma,5,18000,14000,19,72900,70000,2900,Net Banking,Delivered
+ORD0051,CUST0051,2024-05-27,Kavya Reddy,Mysuru,Karnataka,South,Keyboard,Accessories,Sneha Patil,5,1500,900,30,5250,4500,750,Credit Card,Returned
+ORD0052,CUST0052,2025-08-18,Kavya Reddy,Ahmedabad,Gujarat,West,Monitor,Office,Sneha Patil,9,18000,14000,6,152280,126000,26280,Credit Card,In Transit
+ORD0053,CUST0053,2025-06-14,Anjali Rao,Mysuru,Karnataka,South,Printer,Office,Arjun Rao,4,15000,11500,5,57000,46000,11000,Cash,Delivered
+ORD0054,CUST0054,2024-01-10,Aisha Khan,Chennai,Tamil Nadu,South,Mouse,Accessories,Amit Sharma,5,800,450,23,3080,2250,830,Credit Card,In Transit
+ORD0055,CUST0055,2024-10-16,Rohan Kulkarni,New Delhi,Delhi,North,Smartphone,Electronics,Anjali Mehta,5,35000,28000,21,138250,140000,-1750,Net Banking,Delivered
+ORD0056,CUST0056,2024-05-22,Deepika Roy,Warangal,Telangana,South,Smartwatch,Wearables,Pooja Das,3,12000,8500,4,34560,25500,9060,Net Banking,In Transit
+ORD0057,CUST0057,2024-12-24,Vikram Singh,Pune,Maharashtra,West,Smartphone,Electronics,Pooja Das,6,35000,28000,18,172200,168000,4200,Debit Card,Cancelled
+ORD0058,CUST0058,2025-12-13,Divya Menon,Bengaluru,Karnataka,South,Smartphone,Electronics,Pooja Das,8,35000,28000,11,249200,224000,25200,UPI,In Transit
+ORD0059,CUST0059,2024-05-22,Vikram Singh,Warangal,Telangana,South,Monitor,Office,Arjun Rao,4,18000,14000,25,54000,56000,-2000,UPI,Returned
+ORD0060,CUST0060,2024-07-30,Divya Menon,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Amit Sharma,4,35000,28000,29,99400,112000,-12600,Debit Card,Returned
+ORD0061,CUST0061,2024-06-28,Neha Gupta,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Karan Singh,3,12000,8500,6,33840,25500,8340,Credit Card,Delivered
+ORD0062,CUST0062,2025-12-31,Rohan Kulkarni,Hyderabad,Telangana,South,Laptop,Electronics,Vikram Joshi,4,65000,52000,6,244400,208000,36400,Cash,In Transit
+ORD0063,CUST0063,2025-09-29,Pooja Das,Pune,Maharashtra,West,Tablet,Electronics,Priya Nair,8,25000,20000,28,144000,160000,-16000,Credit Card,In Transit
+ORD0064,CUST0064,2024-01-20,Divya Menon,Mysuru,Karnataka,South,Smartphone,Electronics,Neha Gupta,9,35000,28000,4,302400,252000,50400,Cash,In Transit
+ORD0065,CUST0065,2025-06-26,Deepika Roy,Ahmedabad,Gujarat,West,Monitor,Office,Neha Gupta,4,18000,14000,20,57600,56000,1600,Net Banking,Delivered
+ORD0066,CUST0066,2025-12-21,Nikhil Jain,Mumbai,Maharashtra,West,Printer,Office,Amit Sharma,8,15000,11500,5,114000,92000,22000,Net Banking,Returned
+ORD0067,CUST0067,2024-01-22,Nikhil Jain,Jaipur,Rajasthan,North,Keyboard,Accessories,Neha Gupta,9,1500,900,2,13230,8100,5130,UPI,Cancelled
+ORD0068,CUST0068,2025-07-21,Aditya Mishra,Hyderabad,Telangana,South,Headphones,Accessories,Amit Sharma,5,3000,1800,20,12000,9000,3000,Cash,Delivered
+ORD0069,CUST0069,2025-03-14,Rohan Kulkarni,Mumbai,Maharashtra,West,Keyboard,Accessories,Sneha Patil,10,1500,900,20,12000,9000,3000,UPI,Returned
+ORD0070,CUST0070,2024-09-16,Aisha Khan,Mysuru,Karnataka,South,Headphones,Accessories,Arjun Rao,8,3000,1800,17,19920,14400,5520,Cash,Delivered
+ORD0071,CUST0071,2025-05-24,Anjali Rao,Bengaluru,Karnataka,South,Headphones,Accessories,Pooja Das,8,3000,1800,5,22800,14400,8400,Cash,Delivered
+ORD0072,CUST0072,2025-03-14,Arjun Mehta,Hyderabad,Telangana,South,Monitor,Office,Sneha Patil,10,18000,14000,18,147600,140000,7600,Debit Card,Returned
+ORD0073,CUST0073,2025-04-06,Kavya Reddy,Hyderabad,Telangana,South,Mouse,Accessories,Rahul Verma,2,800,450,3,1552,900,652,Credit Card,Cancelled
+ORD0074,CUST0074,2025-10-17,Nikhil Jain,New Delhi,Delhi,North,Laptop,Electronics,Arjun Rao,3,65000,52000,29,138450,156000,-17550,Cash,In Transit
+ORD0075,CUST0075,2024-12-21,Kavya Reddy,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Neha Gupta,1,1500,900,25,1125,900,225,UPI,Returned
+ORD0076,CUST0076,2024-05-02,Suresh Iyer,Hyderabad,Telangana,South,Keyboard,Accessories,Karan Singh,8,1500,900,10,10800,7200,3600,UPI,Delivered
+ORD0077,CUST0077,2025-12-18,Vikram Singh,Kolkata,West Bengal,East,Headphones,Accessories,Karan Singh,6,3000,1800,3,17460,10800,6660,Debit Card,Cancelled
+ORD0078,CUST0078,2024-09-22,Rohan Kulkarni,Surat,Gujarat,West,Printer,Office,Sneha Patil,1,15000,11500,2,14700,11500,3200,Credit Card,Delivered
+ORD0079,CUST0079,2025-09-07,Divya Menon,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Vikram Joshi,2,800,450,6,1504,900,604,Cash,Returned
+ORD0080,CUST0080,2025-06-19,Priya Patel,Coimbatore,Tamil Nadu,South,Printer,Office,Priya Nair,5,15000,11500,12,66000,57500,8500,Cash,Returned
+ORD0081,CUST0081,2025-06-11,Neha Gupta,Pune,Maharashtra,West,Smartwatch,Wearables,Rahul Verma,4,12000,8500,25,36000,34000,2000,UPI,Returned
+ORD0082,CUST0082,2024-10-07,Divya Menon,Mysuru,Karnataka,South,Mouse,Accessories,Amit Sharma,5,800,450,9,3640,2250,1390,Net Banking,In Transit
+ORD0083,CUST0083,2024-01-14,Amit Kumar,Hyderabad,Telangana,South,Monitor,Office,Vikram Joshi,4,18000,14000,10,64800,56000,8800,Debit Card,In Transit
+ORD0084,CUST0084,2024-04-11,Divya Menon,Mysuru,Karnataka,South,Mouse,Accessories,Anjali Mehta,7,800,450,14,4816,3150,1666,Cash,Cancelled
+ORD0085,CUST0085,2025-11-10,Sneha Nair,Mumbai,Maharashtra,West,Smartphone,Electronics,Vikram Joshi,4,35000,28000,16,117600,112000,5600,Net Banking,Returned
+ORD0086,CUST0086,2024-05-12,Priya Patel,Hyderabad,Telangana,South,Mouse,Accessories,Amit Sharma,9,800,450,10,6480,4050,2430,Net Banking,Cancelled
+ORD0087,CUST0087,2024-04-20,Divya Menon,Hyderabad,Telangana,South,Monitor,Office,Vikram Joshi,3,18000,14000,11,48060,42000,6060,Credit Card,Delivered
+ORD0088,CUST0088,2024-05-10,Vikram Singh,Hyderabad,Telangana,South,Smartphone,Electronics,Neha Gupta,1,35000,28000,1,34650,28000,6650,Net Banking,Cancelled
+ORD0089,CUST0089,2024-08-30,Arjun Mehta,Warangal,Telangana,South,Mouse,Accessories,Neha Gupta,3,800,450,20,1920,1350,570,Cash,In Transit
+ORD0090,CUST0090,2025-04-03,Aditya Mishra,Pune,Maharashtra,West,Tablet,Electronics,Amit Sharma,2,25000,20000,6,47000,40000,7000,Net Banking,Delivered
+ORD0091,CUST0091,2025-03-09,Aisha Khan,Mysuru,Karnataka,South,Keyboard,Accessories,Pooja Das,1,1500,900,11,1335,900,435,UPI,Cancelled
+ORD0092,CUST0092,2024-05-17,Suresh Iyer,Jaipur,Rajasthan,North,Keyboard,Accessories,Amit Sharma,5,1500,900,9,6825,4500,2325,Cash,Delivered
+ORD0093,CUST0093,2024-07-04,Kavya Reddy,Kolkata,West Bengal,East,Mouse,Accessories,Vikram Joshi,8,800,450,21,5056,3600,1456,Cash,In Transit
+ORD0094,CUST0094,2025-04-16,Arjun Mehta,Jaipur,Rajasthan,North,Tablet,Electronics,Neha Gupta,1,25000,20000,4,24000,20000,4000,Debit Card,In Transit
+ORD0095,CUST0095,2025-10-24,Priya Patel,New Delhi,Delhi,North,Speaker,Electronics,Anjali Mehta,6,5000,3200,11,26700,19200,7500,Credit Card,Delivered
+ORD0096,CUST0096,2025-01-12,Aisha Khan,Pune,Maharashtra,West,Laptop,Electronics,Arjun Rao,9,65000,52000,25,438750,468000,-29250,Debit Card,Cancelled
+ORD0097,CUST0097,2025-10-14,Pooja Das,Kolkata,West Bengal,East,Smartwatch,Wearables,Priya Nair,9,12000,8500,25,81000,76500,4500,Credit Card,Returned
+ORD0098,CUST0098,2025-09-16,Pooja Das,Bengaluru,Karnataka,South,Headphones,Accessories,Pooja Das,8,3000,1800,0,24000,14400,9600,Net Banking,Cancelled
+ORD0099,CUST0099,2024-04-04,Pooja Das,Jaipur,Rajasthan,North,Mouse,Accessories,Vikram Joshi,4,800,450,4,3072,1800,1272,Debit Card,Cancelled
+ORD0100,CUST0100,2025-01-29,Kavya Reddy,Warangal,Telangana,South,Smartwatch,Wearables,Arjun Rao,6,12000,8500,17,59760,51000,8760,UPI,Cancelled
+ORD0101,CUST0101,2024-08-19,Rohit Verma,New Delhi,Delhi,North,Tablet,Electronics,Anjali Mehta,8,25000,20000,8,184000,160000,24000,UPI,In Transit
+ORD0102,CUST0102,2024-01-03,Divya Menon,Hyderabad,Telangana,South,Keyboard,Accessories,Pooja Das,7,1500,900,15,8925,6300,2625,Credit Card,In Transit
+ORD0103,CUST0103,2024-11-17,Priya Patel,Pune,Maharashtra,West,Printer,Office,Priya Nair,6,15000,11500,11,80100,69000,11100,Credit Card,In Transit
+ORD0104,CUST0104,2025-01-25,Meera Shah,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Anjali Mehta,8,35000,28000,4,268800,224000,44800,UPI,Returned
+ORD0105,CUST0105,2025-04-14,Deepika Roy,Surat,Gujarat,West,Mouse,Accessories,Karan Singh,5,800,450,26,2960,2250,710,Cash,Cancelled
+ORD0106,CUST0106,2024-10-15,Neha Gupta,Bengaluru,Karnataka,South,Monitor,Office,Priya Nair,4,18000,14000,16,60480,56000,4480,UPI,Delivered
+ORD0107,CUST0107,2025-10-15,Rohan Kulkarni,Surat,Gujarat,West,Mouse,Accessories,Anjali Mehta,5,800,450,16,3360,2250,1110,Credit Card,Cancelled
+ORD0108,CUST0108,2024-07-01,Pooja Das,Bengaluru,Karnataka,South,Smartwatch,Wearables,Sneha Patil,1,12000,8500,10,10800,8500,2300,Cash,Delivered
+ORD0109,CUST0109,2025-02-06,Meera Shah,New Delhi,Delhi,North,Laptop,Electronics,Karan Singh,1,65000,52000,16,54600,52000,2600,Cash,Returned
+ORD0110,CUST0110,2025-10-12,Nikhil Jain,Bengaluru,Karnataka,South,Monitor,Office,Rahul Verma,3,18000,14000,0,54000,42000,12000,Debit Card,Delivered
+ORD0111,CUST0111,2025-01-03,Vikram Singh,Hyderabad,Telangana,South,Printer,Office,Amit Sharma,9,15000,11500,16,113400,103500,9900,Credit Card,Returned
+ORD0112,CUST0112,2025-04-13,Rohan Kulkarni,Mumbai,Maharashtra,West,Speaker,Electronics,Pooja Das,3,5000,3200,2,14700,9600,5100,Net Banking,Delivered
+ORD0113,CUST0113,2025-05-11,Meera Shah,Kolkata,West Bengal,East,Tablet,Electronics,Neha Gupta,6,25000,20000,5,142500,120000,22500,Debit Card,Cancelled
+ORD0114,CUST0114,2024-12-27,Rahul Sharma,Kolkata,West Bengal,East,Mouse,Accessories,Arjun Rao,7,800,450,0,5600,3150,2450,Credit Card,Returned
+ORD0115,CUST0115,2025-03-28,Arjun Mehta,Pune,Maharashtra,West,Printer,Office,Rahul Verma,8,15000,11500,5,114000,92000,22000,Credit Card,Delivered
+ORD0116,CUST0116,2024-10-16,Pooja Das,Jaipur,Rajasthan,North,Speaker,Electronics,Anjali Mehta,6,5000,3200,23,23100,19200,3900,Cash,Returned
+ORD0117,CUST0117,2024-05-30,Arjun Mehta,Jaipur,Rajasthan,North,Tablet,Electronics,Neha Gupta,2,25000,20000,24,38000,40000,-2000,Debit Card,In Transit
+ORD0118,CUST0118,2024-04-12,Rohit Verma,Kolkata,West Bengal,East,Headphones,Accessories,Priya Nair,6,3000,1800,14,15480,10800,4680,Net Banking,Returned
+ORD0119,CUST0119,2025-09-06,Divya Menon,Mumbai,Maharashtra,West,Headphones,Accessories,Neha Gupta,3,3000,1800,22,7020,5400,1620,UPI,Returned
+ORD0120,CUST0120,2024-10-13,Pooja Das,New Delhi,Delhi,North,Tablet,Electronics,Neha Gupta,9,25000,20000,6,211500,180000,31500,Credit Card,Delivered
+ORD0121,CUST0121,2024-02-14,Deepika Roy,Warangal,Telangana,South,Smartwatch,Wearables,Pooja Das,9,12000,8500,2,105840,76500,29340,Credit Card,Delivered
+ORD0122,CUST0122,2024-01-07,Rahul Sharma,Hyderabad,Telangana,South,Printer,Office,Rahul Verma,10,15000,11500,7,139500,115000,24500,Cash,Returned
+ORD0123,CUST0123,2024-11-12,Priya Patel,Kolkata,West Bengal,East,Headphones,Accessories,Sneha Patil,6,3000,1800,1,17820,10800,7020,Debit Card,Returned
+ORD0124,CUST0124,2025-04-30,Kavya Reddy,Surat,Gujarat,West,Mouse,Accessories,Neha Gupta,1,800,450,11,712,450,262,Net Banking,Returned
+ORD0125,CUST0125,2024-04-06,Rohan Kulkarni,Mysuru,Karnataka,South,Speaker,Electronics,Priya Nair,9,5000,3200,16,37800,28800,9000,Net Banking,Cancelled
+ORD0126,CUST0126,2024-02-23,Rahul Sharma,Mysuru,Karnataka,South,Keyboard,Accessories,Amit Sharma,6,1500,900,25,6750,5400,1350,Debit Card,In Transit
+ORD0127,CUST0127,2024-11-17,Aditya Mishra,Kolkata,West Bengal,East,Monitor,Office,Neha Gupta,7,18000,14000,21,99540,98000,1540,Net Banking,Delivered
+ORD0128,CUST0128,2025-12-09,Aditya Mishra,Jaipur,Rajasthan,North,Speaker,Electronics,Arjun Rao,5,5000,3200,10,22500,16000,6500,Cash,Delivered
+ORD0129,CUST0129,2025-12-31,Aditya Mishra,Warangal,Telangana,South,Keyboard,Accessories,Priya Nair,4,1500,900,1,5940,3600,2340,Credit Card,Returned
+ORD0130,CUST0130,2024-06-09,Rohit Verma,Pune,Maharashtra,West,Tablet,Electronics,Vikram Joshi,7,25000,20000,30,122500,140000,-17500,Debit Card,Returned
+ORD0131,CUST0131,2025-07-02,Kavya Reddy,Mumbai,Maharashtra,West,Smartwatch,Wearables,Priya Nair,9,12000,8500,25,81000,76500,4500,Cash,Delivered
+ORD0132,CUST0132,2024-04-18,Pooja Das,New Delhi,Delhi,North,Monitor,Office,Karan Singh,7,18000,14000,20,100800,98000,2800,UPI,Delivered
+ORD0133,CUST0133,2025-08-23,Divya Menon,Coimbatore,Tamil Nadu,South,Monitor,Office,Amit Sharma,5,18000,14000,23,69300,70000,-700,Debit Card,Cancelled
+ORD0134,CUST0134,2024-09-27,Amit Kumar,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Priya Nair,6,12000,8500,16,60480,51000,9480,Net Banking,In Transit
+ORD0135,CUST0135,2025-08-06,Rahul Sharma,Mumbai,Maharashtra,West,Headphones,Accessories,Rahul Verma,7,3000,1800,6,19740,12600,7140,Net Banking,Returned
+ORD0136,CUST0136,2025-07-12,Rohan Kulkarni,New Delhi,Delhi,North,Laptop,Electronics,Rahul Verma,4,65000,52000,22,202800,208000,-5200,UPI,Delivered
+ORD0137,CUST0137,2024-03-30,Pooja Das,Mysuru,Karnataka,South,Smartwatch,Wearables,Vikram Joshi,4,12000,8500,4,46080,34000,12080,UPI,Delivered
+ORD0138,CUST0138,2024-09-20,Suresh Iyer,Kolkata,West Bengal,East,Smartwatch,Wearables,Rahul Verma,4,12000,8500,27,35040,34000,1040,UPI,Delivered
+ORD0139,CUST0139,2025-02-21,Vikram Singh,Mumbai,Maharashtra,West,Speaker,Electronics,Rahul Verma,10,5000,3200,24,38000,32000,6000,Net Banking,In Transit
+ORD0140,CUST0140,2024-10-27,Priya Patel,Jaipur,Rajasthan,North,Monitor,Office,Sneha Patil,6,18000,14000,0,108000,84000,24000,Net Banking,Delivered
+ORD0141,CUST0141,2024-05-30,Sneha Nair,Bengaluru,Karnataka,South,Laptop,Electronics,Rahul Verma,8,65000,52000,0,520000,416000,104000,Debit Card,Returned
+ORD0142,CUST0142,2025-07-03,Karan Joshi,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Amit Sharma,1,12000,8500,4,11520,8500,3020,UPI,Delivered
+ORD0143,CUST0143,2024-05-30,Priya Patel,Mumbai,Maharashtra,West,Monitor,Office,Arjun Rao,1,18000,14000,19,14580,14000,580,Credit Card,Cancelled
+ORD0144,CUST0144,2025-04-19,Neha Gupta,Coimbatore,Tamil Nadu,South,Printer,Office,Rahul Verma,7,15000,11500,27,76650,80500,-3850,UPI,Delivered
+ORD0145,CUST0145,2025-06-04,Kavya Reddy,Surat,Gujarat,West,Smartwatch,Wearables,Arjun Rao,6,12000,8500,15,61200,51000,10200,Debit Card,Delivered
+ORD0146,CUST0146,2024-04-05,Kavya Reddy,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Pooja Das,3,25000,20000,19,60750,60000,750,Debit Card,Delivered
+ORD0147,CUST0147,2024-05-20,Meera Shah,Ahmedabad,Gujarat,West,Printer,Office,Vikram Joshi,2,15000,11500,11,26700,23000,3700,Net Banking,Delivered
+ORD0148,CUST0148,2025-10-31,Suresh Iyer,Hyderabad,Telangana,South,Speaker,Electronics,Sneha Patil,1,5000,3200,16,4200,3200,1000,UPI,In Transit
+ORD0149,CUST0149,2024-05-28,Amit Kumar,Chennai,Tamil Nadu,South,Headphones,Accessories,Pooja Das,4,3000,1800,22,9360,7200,2160,UPI,Cancelled
+ORD0150,CUST0150,2025-10-31,Kavya Reddy,Coimbatore,Tamil Nadu,South,Printer,Office,Priya Nair,3,15000,11500,28,32400,34500,-2100,Credit Card,Returned
+ORD0151,CUST0151,2024-03-05,Karan Joshi,Pune,Maharashtra,West,Smartphone,Electronics,Amit Sharma,8,35000,28000,27,204400,224000,-19600,UPI,Returned
+ORD0152,CUST0152,2024-06-22,Nikhil Jain,Bengaluru,Karnataka,South,Laptop,Electronics,Vikram Joshi,2,65000,52000,3,126100,104000,22100,UPI,Returned
+ORD0153,CUST0153,2025-11-25,Anjali Rao,Mumbai,Maharashtra,West,Tablet,Electronics,Pooja Das,9,25000,20000,8,207000,180000,27000,Debit Card,Returned
+ORD0154,CUST0154,2025-07-01,Anjali Rao,Kolkata,West Bengal,East,Headphones,Accessories,Karan Singh,3,3000,1800,22,7020,5400,1620,Debit Card,In Transit
+ORD0155,CUST0155,2025-10-05,Rahul Sharma,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Sneha Patil,5,12000,8500,13,52200,42500,9700,Credit Card,Returned
+ORD0156,CUST0156,2025-10-01,Anjali Rao,Pune,Maharashtra,West,Printer,Office,Anjali Mehta,3,15000,11500,20,36000,34500,1500,Net Banking,Delivered
+ORD0157,CUST0157,2025-05-19,Aditya Mishra,Bengaluru,Karnataka,South,Laptop,Electronics,Rahul Verma,9,65000,52000,0,585000,468000,117000,Debit Card,Delivered
+ORD0158,CUST0158,2025-11-04,Kavya Reddy,Hyderabad,Telangana,South,Smartphone,Electronics,Priya Nair,10,35000,28000,1,346500,280000,66500,Debit Card,In Transit
+ORD0159,CUST0159,2025-12-31,Meera Shah,Chennai,Tamil Nadu,South,Printer,Office,Neha Gupta,8,15000,11500,2,117600,92000,25600,Net Banking,Cancelled
+ORD0160,CUST0160,2025-03-27,Nikhil Jain,Jaipur,Rajasthan,North,Headphones,Accessories,Amit Sharma,5,3000,1800,2,14700,9000,5700,Cash,Delivered
+ORD0161,CUST0161,2025-02-09,Neha Gupta,Mumbai,Maharashtra,West,Keyboard,Accessories,Karan Singh,3,1500,900,19,3645,2700,945,Net Banking,Cancelled
+ORD0162,CUST0162,2025-07-07,Amit Kumar,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Anjali Mehta,8,800,450,6,6016,3600,2416,Credit Card,Cancelled
+ORD0163,CUST0163,2025-08-14,Karan Joshi,Kolkata,West Bengal,East,Smartphone,Electronics,Karan Singh,9,35000,28000,10,283500,252000,31500,Credit Card,Delivered
+ORD0164,CUST0164,2025-12-25,Neha Gupta,Surat,Gujarat,West,Mouse,Accessories,Anjali Mehta,5,800,450,13,3480,2250,1230,Debit Card,Delivered
+ORD0165,CUST0165,2025-09-12,Karan Joshi,Surat,Gujarat,West,Monitor,Office,Priya Nair,9,18000,14000,5,153900,126000,27900,Credit Card,Delivered
+ORD0166,CUST0166,2025-07-22,Anjali Rao,Chennai,Tamil Nadu,South,Speaker,Electronics,Neha Gupta,10,5000,3200,10,45000,32000,13000,Credit Card,Cancelled
+ORD0167,CUST0167,2024-01-14,Arjun Mehta,Jaipur,Rajasthan,North,Laptop,Electronics,Vikram Joshi,8,65000,52000,19,421200,416000,5200,Net Banking,In Transit
+ORD0168,CUST0168,2025-11-23,Suresh Iyer,Bengaluru,Karnataka,South,Mouse,Accessories,Neha Gupta,10,800,450,4,7680,4500,3180,Net Banking,In Transit
+ORD0169,CUST0169,2024-11-12,Rahul Sharma,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Pooja Das,9,35000,28000,21,248850,252000,-3150,Cash,In Transit
+ORD0170,CUST0170,2025-03-30,Nikhil Jain,Mumbai,Maharashtra,West,Printer,Office,Sneha Patil,3,15000,11500,30,31500,34500,-3000,Net Banking,Delivered
+ORD0171,CUST0171,2024-07-26,Priya Patel,Warangal,Telangana,South,Printer,Office,Neha Gupta,6,15000,11500,24,68400,69000,-600,Cash,In Transit
+ORD0172,CUST0172,2024-06-09,Meera Shah,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Priya Nair,5,12000,8500,2,58800,42500,16300,Credit Card,Returned
+ORD0173,CUST0173,2025-05-21,Aisha Khan,Mysuru,Karnataka,South,Laptop,Electronics,Pooja Das,8,65000,52000,8,478400,416000,62400,Debit Card,In Transit
+ORD0174,CUST0174,2025-05-09,Nikhil Jain,Warangal,Telangana,South,Speaker,Electronics,Pooja Das,5,5000,3200,7,23250,16000,7250,Cash,Returned
+ORD0175,CUST0175,2024-01-06,Amit Kumar,Jaipur,Rajasthan,North,Laptop,Electronics,Karan Singh,2,65000,52000,11,115700,104000,11700,Net Banking,Cancelled
+ORD0176,CUST0176,2025-02-24,Kavya Reddy,Mumbai,Maharashtra,West,Keyboard,Accessories,Vikram Joshi,8,1500,900,24,9120,7200,1920,Cash,In Transit
+ORD0177,CUST0177,2024-05-11,Arjun Mehta,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Rahul Verma,7,1500,900,1,10395,6300,4095,Credit Card,Cancelled
+ORD0178,CUST0178,2024-03-25,Suresh Iyer,Ahmedabad,Gujarat,West,Speaker,Electronics,Karan Singh,3,5000,3200,7,13950,9600,4350,Debit Card,Cancelled
+ORD0179,CUST0179,2025-03-03,Neha Gupta,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Rahul Verma,4,25000,20000,0,100000,80000,20000,Cash,Cancelled
+ORD0180,CUST0180,2024-08-04,Amit Kumar,Pune,Maharashtra,West,Tablet,Electronics,Karan Singh,4,25000,20000,7,93000,80000,13000,Net Banking,Delivered
+ORD0181,CUST0181,2024-07-19,Amit Kumar,Surat,Gujarat,West,Mouse,Accessories,Pooja Das,2,800,450,10,1440,900,540,Debit Card,Cancelled
+ORD0182,CUST0182,2025-07-29,Aisha Khan,Bengaluru,Karnataka,South,Smartphone,Electronics,Karan Singh,7,35000,28000,19,198450,196000,2450,Net Banking,Returned
+ORD0183,CUST0183,2025-02-24,Amit Kumar,Kolkata,West Bengal,East,Mouse,Accessories,Pooja Das,4,800,450,21,2528,1800,728,UPI,Delivered
+ORD0184,CUST0184,2024-10-30,Divya Menon,Pune,Maharashtra,West,Laptop,Electronics,Priya Nair,3,65000,52000,2,191100,156000,35100,Net Banking,In Transit
+ORD0185,CUST0185,2024-12-30,Kavya Reddy,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Pooja Das,6,1500,900,10,8100,5400,2700,UPI,Delivered
+ORD0186,CUST0186,2025-04-13,Rahul Sharma,Jaipur,Rajasthan,North,Headphones,Accessories,Vikram Joshi,9,3000,1800,2,26460,16200,10260,Cash,Returned
+ORD0187,CUST0187,2025-03-03,Rohit Verma,Bengaluru,Karnataka,South,Tablet,Electronics,Vikram Joshi,7,25000,20000,21,138250,140000,-1750,Net Banking,In Transit
+ORD0188,CUST0188,2024-07-01,Anjali Rao,New Delhi,Delhi,North,Keyboard,Accessories,Vikram Joshi,4,1500,900,5,5700,3600,2100,Net Banking,Cancelled
+ORD0189,CUST0189,2025-07-10,Pooja Das,Ahmedabad,Gujarat,West,Smartphone,Electronics,Pooja Das,7,35000,28000,16,205800,196000,9800,Cash,Returned
+ORD0190,CUST0190,2025-04-03,Arjun Mehta,Bengaluru,Karnataka,South,Smartwatch,Wearables,Neha Gupta,10,12000,8500,22,93600,85000,8600,UPI,Returned
+ORD0191,CUST0191,2025-11-05,Kavya Reddy,Chennai,Tamil Nadu,South,Smartphone,Electronics,Vikram Joshi,3,35000,28000,10,94500,84000,10500,Credit Card,In Transit
+ORD0192,CUST0192,2024-05-12,Pooja Das,Ahmedabad,Gujarat,West,Keyboard,Accessories,Anjali Mehta,8,1500,900,26,8880,7200,1680,UPI,In Transit
+ORD0193,CUST0193,2024-12-17,Pooja Das,Warangal,Telangana,South,Speaker,Electronics,Pooja Das,4,5000,3200,17,16600,12800,3800,UPI,Cancelled
+ORD0194,CUST0194,2024-08-11,Rohan Kulkarni,Warangal,Telangana,South,Headphones,Accessories,Karan Singh,4,3000,1800,17,9960,7200,2760,UPI,In Transit
+ORD0195,CUST0195,2025-10-16,Aditya Mishra,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Anjali Mehta,1,800,450,6,752,450,302,Credit Card,Cancelled
+ORD0196,CUST0196,2024-04-08,Kavya Reddy,Coimbatore,Tamil Nadu,South,Printer,Office,Priya Nair,4,15000,11500,25,45000,46000,-1000,UPI,Returned
+ORD0197,CUST0197,2024-01-08,Nikhil Jain,Kolkata,West Bengal,East,Tablet,Electronics,Amit Sharma,5,25000,20000,17,103750,100000,3750,Credit Card,Cancelled
+ORD0198,CUST0198,2025-08-10,Vikram Singh,Jaipur,Rajasthan,North,Keyboard,Accessories,Neha Gupta,6,1500,900,5,8550,5400,3150,Debit Card,Delivered
+ORD0199,CUST0199,2024-08-08,Rohit Verma,Jaipur,Rajasthan,North,Monitor,Office,Pooja Das,6,18000,14000,30,75600,84000,-8400,Debit Card,Cancelled
+ORD0200,CUST0200,2025-12-19,Priya Patel,Kolkata,West Bengal,East,Mouse,Accessories,Rahul Verma,2,800,450,19,1296,900,396,Credit Card,In Transit
+ORD0201,CUST0201,2025-07-10,Vikram Singh,Mysuru,Karnataka,South,Monitor,Office,Rahul Verma,10,18000,14000,17,149400,140000,9400,UPI,In Transit
+ORD0202,CUST0202,2024-12-10,Suresh Iyer,Mumbai,Maharashtra,West,Printer,Office,Sneha Patil,3,15000,11500,26,33300,34500,-1200,Credit Card,Delivered
+ORD0203,CUST0203,2025-07-27,Rahul Sharma,Hyderabad,Telangana,South,Tablet,Electronics,Neha Gupta,2,25000,20000,23,38500,40000,-1500,Net Banking,Returned
+ORD0204,CUST0204,2025-02-21,Sneha Nair,Mysuru,Karnataka,South,Speaker,Electronics,Priya Nair,3,5000,3200,8,13800,9600,4200,Debit Card,Delivered
+ORD0205,CUST0205,2025-11-18,Suresh Iyer,Pune,Maharashtra,West,Laptop,Electronics,Neha Gupta,2,65000,52000,1,128700,104000,24700,Debit Card,Delivered
+ORD0206,CUST0206,2025-04-13,Sneha Nair,Jaipur,Rajasthan,North,Smartphone,Electronics,Karan Singh,7,35000,28000,17,203350,196000,7350,Cash,Delivered
+ORD0207,CUST0207,2024-01-21,Aisha Khan,Coimbatore,Tamil Nadu,South,Printer,Office,Vikram Joshi,2,15000,11500,9,27300,23000,4300,Credit Card,Returned
+ORD0208,CUST0208,2025-04-30,Aisha Khan,Warangal,Telangana,South,Speaker,Electronics,Pooja Das,3,5000,3200,5,14250,9600,4650,Cash,Returned
+ORD0209,CUST0209,2024-04-26,Kavya Reddy,Hyderabad,Telangana,South,Smartwatch,Wearables,Neha Gupta,1,12000,8500,1,11880,8500,3380,Cash,Returned
+ORD0210,CUST0210,2025-08-16,Nikhil Jain,Jaipur,Rajasthan,North,Tablet,Electronics,Anjali Mehta,4,25000,20000,21,79000,80000,-1000,Credit Card,Cancelled
+ORD0211,CUST0211,2024-07-15,Priya Patel,Chennai,Tamil Nadu,South,Monitor,Office,Priya Nair,9,18000,14000,19,131220,126000,5220,UPI,Delivered
+ORD0212,CUST0212,2025-05-09,Kavya Reddy,Pune,Maharashtra,West,Smartwatch,Wearables,Rahul Verma,3,12000,8500,6,33840,25500,8340,Cash,Returned
+ORD0213,CUST0213,2024-08-26,Aditya Mishra,Mumbai,Maharashtra,West,Keyboard,Accessories,Anjali Mehta,2,1500,900,18,2460,1800,660,Cash,Delivered
+ORD0214,CUST0214,2025-01-23,Meera Shah,Warangal,Telangana,South,Speaker,Electronics,Neha Gupta,5,5000,3200,18,20500,16000,4500,Debit Card,Cancelled
+ORD0215,CUST0215,2025-09-03,Arjun Mehta,Surat,Gujarat,West,Smartwatch,Wearables,Neha Gupta,10,12000,8500,18,98400,85000,13400,Net Banking,Delivered
+ORD0216,CUST0216,2024-08-06,Vikram Singh,Surat,Gujarat,West,Mouse,Accessories,Karan Singh,8,800,450,16,5376,3600,1776,Debit Card,In Transit
+ORD0217,CUST0217,2025-03-25,Nikhil Jain,Surat,Gujarat,West,Laptop,Electronics,Vikram Joshi,8,65000,52000,22,405600,416000,-10400,UPI,Cancelled
+ORD0218,CUST0218,2025-12-08,Rahul Sharma,New Delhi,Delhi,North,Speaker,Electronics,Rahul Verma,1,5000,3200,4,4800,3200,1600,Credit Card,Returned
+ORD0219,CUST0219,2025-12-07,Amit Kumar,Ahmedabad,Gujarat,West,Tablet,Electronics,Amit Sharma,7,25000,20000,30,122500,140000,-17500,Net Banking,Returned
+ORD0220,CUST0220,2025-10-27,Rohit Verma,Surat,Gujarat,West,Mouse,Accessories,Sneha Patil,5,800,450,13,3480,2250,1230,Cash,In Transit
+ORD0221,CUST0221,2025-11-24,Rahul Sharma,Mysuru,Karnataka,South,Smartphone,Electronics,Priya Nair,3,35000,28000,14,90300,84000,6300,Net Banking,Cancelled
+ORD0222,CUST0222,2024-04-11,Kavya Reddy,Bengaluru,Karnataka,South,Laptop,Electronics,Arjun Rao,3,65000,52000,21,154050,156000,-1950,Debit Card,Cancelled
+ORD0223,CUST0223,2025-01-21,Amit Kumar,Mysuru,Karnataka,South,Laptop,Electronics,Amit Sharma,4,65000,52000,25,195000,208000,-13000,Debit Card,Cancelled
+ORD0224,CUST0224,2025-11-18,Aisha Khan,Bengaluru,Karnataka,South,Monitor,Office,Pooja Das,2,18000,14000,6,33840,28000,5840,Credit Card,Delivered
+ORD0225,CUST0225,2024-12-15,Priya Patel,Warangal,Telangana,South,Monitor,Office,Neha Gupta,10,18000,14000,15,153000,140000,13000,Net Banking,Cancelled
+ORD0226,CUST0226,2024-12-29,Meera Shah,Hyderabad,Telangana,South,Mouse,Accessories,Neha Gupta,2,800,450,16,1344,900,444,Credit Card,In Transit
+ORD0227,CUST0227,2025-11-01,Nikhil Jain,New Delhi,Delhi,North,Tablet,Electronics,Amit Sharma,6,25000,20000,6,141000,120000,21000,UPI,Delivered
+ORD0228,CUST0228,2024-07-14,Divya Menon,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Priya Nair,6,3000,1800,23,13860,10800,3060,Cash,In Transit
+ORD0229,CUST0229,2025-11-01,Amit Kumar,Coimbatore,Tamil Nadu,South,Printer,Office,Sneha Patil,6,15000,11500,11,80100,69000,11100,Net Banking,Returned
+ORD0230,CUST0230,2025-02-12,Sneha Nair,Mumbai,Maharashtra,West,Speaker,Electronics,Priya Nair,2,5000,3200,14,8600,6400,2200,UPI,Cancelled
+ORD0231,CUST0231,2025-02-24,Pooja Das,Kolkata,West Bengal,East,Speaker,Electronics,Arjun Rao,6,5000,3200,8,27600,19200,8400,Net Banking,Delivered
+ORD0232,CUST0232,2024-08-15,Pooja Das,Surat,Gujarat,West,Printer,Office,Sneha Patil,10,15000,11500,14,129000,115000,14000,UPI,In Transit
+ORD0233,CUST0233,2025-05-05,Divya Menon,Mumbai,Maharashtra,West,Laptop,Electronics,Vikram Joshi,5,65000,52000,3,315250,260000,55250,Credit Card,Delivered
+ORD0234,CUST0234,2025-03-18,Karan Joshi,Ahmedabad,Gujarat,West,Mouse,Accessories,Karan Singh,10,800,450,5,7600,4500,3100,Cash,In Transit
+ORD0235,CUST0235,2025-05-10,Rohit Verma,Jaipur,Rajasthan,North,Smartwatch,Wearables,Neha Gupta,3,12000,8500,10,32400,25500,6900,Net Banking,Delivered
+ORD0236,CUST0236,2025-07-29,Aditya Mishra,Bengaluru,Karnataka,South,Monitor,Office,Vikram Joshi,8,18000,14000,2,141120,112000,29120,Net Banking,Delivered
+ORD0237,CUST0237,2025-11-26,Amit Kumar,Mysuru,Karnataka,South,Keyboard,Accessories,Anjali Mehta,2,1500,900,25,2250,1800,450,Cash,Delivered
+ORD0238,CUST0238,2024-04-06,Aditya Mishra,Jaipur,Rajasthan,North,Mouse,Accessories,Pooja Das,10,800,450,12,7040,4500,2540,UPI,In Transit
+ORD0239,CUST0239,2025-07-21,Amit Kumar,Bengaluru,Karnataka,South,Keyboard,Accessories,Sneha Patil,1,1500,900,13,1305,900,405,Net Banking,Returned
+ORD0240,CUST0240,2024-02-24,Nikhil Jain,Chennai,Tamil Nadu,South,Printer,Office,Pooja Das,5,15000,11500,0,75000,57500,17500,Debit Card,In Transit
+ORD0241,CUST0241,2024-12-31,Suresh Iyer,Ahmedabad,Gujarat,West,Laptop,Electronics,Karan Singh,6,65000,52000,30,273000,312000,-39000,Credit Card,Cancelled
+ORD0242,CUST0242,2025-09-01,Amit Kumar,Mysuru,Karnataka,South,Mouse,Accessories,Karan Singh,3,800,450,30,1680,1350,330,Cash,Returned
+ORD0243,CUST0243,2024-06-25,Anjali Rao,Hyderabad,Telangana,South,Smartphone,Electronics,Rahul Verma,1,35000,28000,24,26600,28000,-1400,UPI,Delivered
+ORD0244,CUST0244,2025-09-03,Meera Shah,Warangal,Telangana,South,Headphones,Accessories,Arjun Rao,4,3000,1800,13,10440,7200,3240,Net Banking,Returned
+ORD0245,CUST0245,2024-06-29,Priya Patel,Hyderabad,Telangana,South,Headphones,Accessories,Sneha Patil,6,3000,1800,15,15300,10800,4500,Cash,In Transit
+ORD0246,CUST0246,2024-03-23,Amit Kumar,Pune,Maharashtra,West,Speaker,Electronics,Karan Singh,2,5000,3200,16,8400,6400,2000,Net Banking,Returned
+ORD0247,CUST0247,2024-05-29,Aditya Mishra,Warangal,Telangana,South,Smartwatch,Wearables,Anjali Mehta,2,12000,8500,23,18480,17000,1480,Debit Card,In Transit
+ORD0248,CUST0248,2025-10-24,Nikhil Jain,Kolkata,West Bengal,East,Smartwatch,Wearables,Arjun Rao,1,12000,8500,13,10440,8500,1940,Net Banking,Delivered
+ORD0249,CUST0249,2025-10-28,Arjun Mehta,Surat,Gujarat,West,Smartphone,Electronics,Vikram Joshi,4,35000,28000,5,133000,112000,21000,Cash,Delivered
+ORD0250,CUST0250,2025-04-22,Sneha Nair,Ahmedabad,Gujarat,West,Monitor,Office,Rahul Verma,1,18000,14000,1,17820,14000,3820,Net Banking,In Transit
+ORD0251,CUST0251,2025-10-03,Kavya Reddy,Kolkata,West Bengal,East,Mouse,Accessories,Sneha Patil,6,800,450,25,3600,2700,900,UPI,Returned
+ORD0252,CUST0252,2024-02-19,Divya Menon,Bengaluru,Karnataka,South,Smartwatch,Wearables,Amit Sharma,1,12000,8500,29,8520,8500,20,Cash,In Transit
+ORD0253,CUST0253,2025-06-03,Karan Joshi,New Delhi,Delhi,North,Printer,Office,Sneha Patil,9,15000,11500,4,129600,103500,26100,Credit Card,Delivered
+ORD0254,CUST0254,2024-01-16,Karan Joshi,Pune,Maharashtra,West,Tablet,Electronics,Arjun Rao,8,25000,20000,18,164000,160000,4000,Credit Card,Returned
+ORD0255,CUST0255,2024-12-11,Anjali Rao,Surat,Gujarat,West,Mouse,Accessories,Priya Nair,5,800,450,26,2960,2250,710,Net Banking,Delivered
+ORD0256,CUST0256,2024-03-10,Priya Patel,Mysuru,Karnataka,South,Laptop,Electronics,Priya Nair,9,65000,52000,12,514800,468000,46800,Net Banking,Returned
+ORD0257,CUST0257,2024-06-06,Kavya Reddy,Chennai,Tamil Nadu,South,Smartphone,Electronics,Karan Singh,4,35000,28000,7,130200,112000,18200,Debit Card,Returned
+ORD0258,CUST0258,2024-10-14,Amit Kumar,Pune,Maharashtra,West,Monitor,Office,Sneha Patil,1,18000,14000,2,17640,14000,3640,Debit Card,Returned
+ORD0259,CUST0259,2024-02-09,Nikhil Jain,Hyderabad,Telangana,South,Smartwatch,Wearables,Vikram Joshi,3,12000,8500,6,33840,25500,8340,UPI,In Transit
+ORD0260,CUST0260,2025-06-16,Deepika Roy,New Delhi,Delhi,North,Smartwatch,Wearables,Rahul Verma,7,12000,8500,13,73080,59500,13580,Cash,Cancelled
+ORD0261,CUST0261,2024-08-12,Deepika Roy,Pune,Maharashtra,West,Keyboard,Accessories,Arjun Rao,3,1500,900,5,4275,2700,1575,Credit Card,Delivered
+ORD0262,CUST0262,2024-03-12,Sneha Nair,Mumbai,Maharashtra,West,Mouse,Accessories,Vikram Joshi,4,800,450,23,2464,1800,664,UPI,In Transit
+ORD0263,CUST0263,2025-05-10,Rohan Kulkarni,Jaipur,Rajasthan,North,Keyboard,Accessories,Karan Singh,6,1500,900,5,8550,5400,3150,Net Banking,Cancelled
+ORD0264,CUST0264,2024-12-14,Amit Kumar,Surat,Gujarat,West,Headphones,Accessories,Rahul Verma,7,3000,1800,24,15960,12600,3360,Debit Card,Returned
+ORD0265,CUST0265,2024-07-29,Anjali Rao,Ahmedabad,Gujarat,West,Headphones,Accessories,Karan Singh,10,3000,1800,22,23400,18000,5400,Credit Card,Returned
+ORD0266,CUST0266,2024-05-10,Neha Gupta,Warangal,Telangana,South,Headphones,Accessories,Neha Gupta,6,3000,1800,20,14400,10800,3600,Credit Card,Returned
+ORD0267,CUST0267,2024-05-12,Vikram Singh,Kolkata,West Bengal,East,Keyboard,Accessories,Priya Nair,1,1500,900,3,1455,900,555,Credit Card,Delivered
+ORD0268,CUST0268,2025-02-02,Meera Shah,Pune,Maharashtra,West,Printer,Office,Pooja Das,4,15000,11500,21,47400,46000,1400,Credit Card,Cancelled
+ORD0269,CUST0269,2025-08-04,Anjali Rao,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Vikram Joshi,9,3000,1800,9,24570,16200,8370,Debit Card,In Transit
+ORD0270,CUST0270,2024-09-03,Pooja Das,Kolkata,West Bengal,East,Smartphone,Electronics,Karan Singh,4,35000,28000,7,130200,112000,18200,Debit Card,Returned
+ORD0271,CUST0271,2024-10-24,Kavya Reddy,Ahmedabad,Gujarat,West,Headphones,Accessories,Karan Singh,8,3000,1800,20,19200,14400,4800,Debit Card,Delivered
+ORD0272,CUST0272,2025-07-24,Nikhil Jain,Surat,Gujarat,West,Smartphone,Electronics,Amit Sharma,2,35000,28000,4,67200,56000,11200,Cash,Returned
+ORD0273,CUST0273,2024-01-05,Sneha Nair,New Delhi,Delhi,North,Printer,Office,Pooja Das,3,15000,11500,2,44100,34500,9600,UPI,Cancelled
+ORD0274,CUST0274,2024-03-05,Divya Menon,Warangal,Telangana,South,Mouse,Accessories,Anjali Mehta,3,800,450,20,1920,1350,570,UPI,In Transit
+ORD0275,CUST0275,2024-01-25,Amit Kumar,Bengaluru,Karnataka,South,Mouse,Accessories,Rahul Verma,2,800,450,15,1360,900,460,UPI,Cancelled
+ORD0276,CUST0276,2025-06-11,Divya Menon,Mumbai,Maharashtra,West,Smartphone,Electronics,Sneha Patil,6,35000,28000,2,205800,168000,37800,Debit Card,In Transit
+ORD0277,CUST0277,2025-08-30,Karan Joshi,Warangal,Telangana,South,Headphones,Accessories,Arjun Rao,2,3000,1800,10,5400,3600,1800,Cash,Cancelled
+ORD0278,CUST0278,2024-08-13,Pooja Das,New Delhi,Delhi,North,Speaker,Electronics,Amit Sharma,6,5000,3200,19,24300,19200,5100,Credit Card,Cancelled
+ORD0279,CUST0279,2025-07-12,Pooja Das,Pune,Maharashtra,West,Speaker,Electronics,Rahul Verma,7,5000,3200,1,34650,22400,12250,UPI,In Transit
+ORD0280,CUST0280,2024-06-27,Meera Shah,Kolkata,West Bengal,East,Smartphone,Electronics,Karan Singh,10,35000,28000,2,343000,280000,63000,Cash,Delivered
+ORD0281,CUST0281,2024-02-26,Suresh Iyer,Coimbatore,Tamil Nadu,South,Printer,Office,Arjun Rao,5,15000,11500,9,68250,57500,10750,UPI,In Transit
+ORD0282,CUST0282,2025-08-13,Suresh Iyer,New Delhi,Delhi,North,Monitor,Office,Vikram Joshi,9,18000,14000,7,150660,126000,24660,UPI,In Transit
+ORD0283,CUST0283,2024-01-19,Priya Patel,Mysuru,Karnataka,South,Smartwatch,Wearables,Pooja Das,7,12000,8500,10,75600,59500,16100,Credit Card,Cancelled
+ORD0284,CUST0284,2024-04-24,Divya Menon,Chennai,Tamil Nadu,South,Speaker,Electronics,Sneha Patil,10,5000,3200,24,38000,32000,6000,UPI,Returned
+ORD0285,CUST0285,2024-01-18,Neha Gupta,Surat,Gujarat,West,Smartwatch,Wearables,Neha Gupta,10,12000,8500,15,102000,85000,17000,UPI,In Transit
+ORD0286,CUST0286,2025-10-01,Pooja Das,Chennai,Tamil Nadu,South,Laptop,Electronics,Rahul Verma,2,65000,52000,21,102700,104000,-1300,Cash,Cancelled
+ORD0287,CUST0287,2024-08-01,Suresh Iyer,Hyderabad,Telangana,South,Laptop,Electronics,Vikram Joshi,4,65000,52000,30,182000,208000,-26000,UPI,Delivered
+ORD0288,CUST0288,2025-12-05,Rohit Verma,Mumbai,Maharashtra,West,Smartwatch,Wearables,Amit Sharma,5,12000,8500,24,45600,42500,3100,Credit Card,Cancelled
+ORD0289,CUST0289,2025-03-24,Rahul Sharma,Surat,Gujarat,West,Mouse,Accessories,Rahul Verma,1,800,450,29,568,450,118,Debit Card,Cancelled
+ORD0290,CUST0290,2025-10-25,Divya Menon,Coimbatore,Tamil Nadu,South,Speaker,Electronics,Arjun Rao,10,5000,3200,26,37000,32000,5000,Debit Card,In Transit
+ORD0291,CUST0291,2024-10-17,Aisha Khan,Surat,Gujarat,West,Mouse,Accessories,Rahul Verma,4,800,450,17,2656,1800,856,Cash,Delivered
+ORD0292,CUST0292,2025-03-24,Suresh Iyer,Pune,Maharashtra,West,Keyboard,Accessories,Arjun Rao,9,1500,900,22,10530,8100,2430,Debit Card,Delivered
+ORD0293,CUST0293,2025-04-29,Aisha Khan,Kolkata,West Bengal,East,Tablet,Electronics,Anjali Mehta,2,25000,20000,23,38500,40000,-1500,Credit Card,Delivered
+ORD0294,CUST0294,2025-09-18,Neha Gupta,New Delhi,Delhi,North,Monitor,Office,Pooja Das,4,18000,14000,10,64800,56000,8800,Net Banking,Delivered
+ORD0295,CUST0295,2024-08-24,Rohit Verma,Jaipur,Rajasthan,North,Laptop,Electronics,Karan Singh,8,65000,52000,11,462800,416000,46800,UPI,In Transit
+ORD0296,CUST0296,2025-05-03,Rahul Sharma,New Delhi,Delhi,North,Laptop,Electronics,Vikram Joshi,6,65000,52000,15,331500,312000,19500,Net Banking,Cancelled
+ORD0297,CUST0297,2024-10-22,Suresh Iyer,Bengaluru,Karnataka,South,Keyboard,Accessories,Rahul Verma,6,1500,900,15,7650,5400,2250,Credit Card,Returned
+ORD0298,CUST0298,2024-07-08,Karan Joshi,Kolkata,West Bengal,East,Keyboard,Accessories,Priya Nair,3,1500,900,15,3825,2700,1125,Cash,Delivered
+ORD0299,CUST0299,2025-10-09,Arjun Mehta,Hyderabad,Telangana,South,Headphones,Accessories,Karan Singh,9,3000,1800,30,18900,16200,2700,UPI,Cancelled
+ORD0300,CUST0300,2025-12-19,Rohit Verma,Jaipur,Rajasthan,North,Headphones,Accessories,Arjun Rao,7,3000,1800,22,16380,12600,3780,UPI,Delivered
+ORD0301,CUST0301,2024-04-14,Rahul Sharma,Pune,Maharashtra,West,Mouse,Accessories,Neha Gupta,3,800,450,18,1968,1350,618,Debit Card,Cancelled
+ORD0302,CUST0302,2024-05-17,Aditya Mishra,Jaipur,Rajasthan,North,Speaker,Electronics,Amit Sharma,6,5000,3200,19,24300,19200,5100,Credit Card,In Transit
+ORD0303,CUST0303,2024-03-03,Aditya Mishra,Surat,Gujarat,West,Monitor,Office,Sneha Patil,10,18000,14000,12,158400,140000,18400,Credit Card,Delivered
+ORD0304,CUST0304,2025-06-04,Divya Menon,Jaipur,Rajasthan,North,Mouse,Accessories,Anjali Mehta,2,800,450,29,1136,900,236,Debit Card,Delivered
+ORD0305,CUST0305,2025-05-27,Amit Kumar,Jaipur,Rajasthan,North,Speaker,Electronics,Anjali Mehta,1,5000,3200,6,4700,3200,1500,Cash,Returned
+ORD0306,CUST0306,2025-04-16,Divya Menon,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Neha Gupta,9,800,450,21,5688,4050,1638,Net Banking,Returned
+ORD0307,CUST0307,2024-04-06,Neha Gupta,Mumbai,Maharashtra,West,Keyboard,Accessories,Vikram Joshi,2,1500,900,2,2940,1800,1140,UPI,Returned
+ORD0308,CUST0308,2025-11-12,Kavya Reddy,Surat,Gujarat,West,Mouse,Accessories,Pooja Das,7,800,450,9,5096,3150,1946,Debit Card,In Transit
+ORD0309,CUST0309,2025-08-29,Sneha Nair,Mumbai,Maharashtra,West,Speaker,Electronics,Vikram Joshi,1,5000,3200,25,3750,3200,550,Debit Card,Delivered
+ORD0310,CUST0310,2024-05-10,Pooja Das,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Neha Gupta,7,3000,1800,15,17850,12600,5250,Credit Card,Delivered
+ORD0311,CUST0311,2024-03-30,Rohit Verma,Warangal,Telangana,South,Smartphone,Electronics,Priya Nair,3,35000,28000,2,102900,84000,18900,Debit Card,Returned
+ORD0312,CUST0312,2025-03-06,Kavya Reddy,Surat,Gujarat,West,Smartphone,Electronics,Pooja Das,6,35000,28000,15,178500,168000,10500,Cash,In Transit
+ORD0313,CUST0313,2025-11-13,Suresh Iyer,Bengaluru,Karnataka,South,Headphones,Accessories,Karan Singh,9,3000,1800,30,18900,16200,2700,Debit Card,Returned
+ORD0314,CUST0314,2024-12-21,Arjun Mehta,Hyderabad,Telangana,South,Printer,Office,Rahul Verma,6,15000,11500,23,69300,69000,300,Cash,Delivered
+ORD0315,CUST0315,2025-07-27,Aditya Mishra,Mumbai,Maharashtra,West,Tablet,Electronics,Rahul Verma,3,25000,20000,5,71250,60000,11250,Debit Card,Cancelled
+ORD0316,CUST0316,2024-07-18,Vikram Singh,Bengaluru,Karnataka,South,Keyboard,Accessories,Arjun Rao,4,1500,900,13,5220,3600,1620,Net Banking,In Transit
+ORD0317,CUST0317,2024-07-12,Kavya Reddy,Ahmedabad,Gujarat,West,Monitor,Office,Rahul Verma,8,18000,14000,9,131040,112000,19040,Debit Card,In Transit
+ORD0318,CUST0318,2025-03-08,Rohan Kulkarni,Ahmedabad,Gujarat,West,Printer,Office,Rahul Verma,9,15000,11500,10,121500,103500,18000,UPI,Delivered
+ORD0319,CUST0319,2025-02-10,Vikram Singh,Kolkata,West Bengal,East,Headphones,Accessories,Arjun Rao,2,3000,1800,4,5760,3600,2160,Credit Card,Cancelled
+ORD0320,CUST0320,2025-01-15,Pooja Das,Pune,Maharashtra,West,Keyboard,Accessories,Neha Gupta,4,1500,900,12,5280,3600,1680,UPI,In Transit
+ORD0321,CUST0321,2025-09-25,Divya Menon,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Priya Nair,9,12000,8500,19,87480,76500,10980,Cash,In Transit
+ORD0322,CUST0322,2025-11-27,Aisha Khan,Surat,Gujarat,West,Headphones,Accessories,Sneha Patil,9,3000,1800,25,20250,16200,4050,Credit Card,Cancelled
+ORD0323,CUST0323,2025-09-01,Rahul Sharma,Jaipur,Rajasthan,North,Smartwatch,Wearables,Arjun Rao,8,12000,8500,29,68160,68000,160,Net Banking,Delivered
+ORD0324,CUST0324,2024-01-15,Sneha Nair,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Vikram Joshi,5,1500,900,29,5325,4500,825,Net Banking,Returned
+ORD0325,CUST0325,2024-03-02,Aisha Khan,Coimbatore,Tamil Nadu,South,Speaker,Electronics,Anjali Mehta,1,5000,3200,5,4750,3200,1550,Credit Card,Delivered
+ORD0326,CUST0326,2025-07-01,Aisha Khan,New Delhi,Delhi,North,Laptop,Electronics,Vikram Joshi,7,65000,52000,21,359450,364000,-4550,Credit Card,In Transit
+ORD0327,CUST0327,2024-03-01,Aditya Mishra,Kolkata,West Bengal,East,Tablet,Electronics,Anjali Mehta,9,25000,20000,9,204750,180000,24750,Debit Card,Delivered
+ORD0328,CUST0328,2025-08-30,Kavya Reddy,Warangal,Telangana,South,Speaker,Electronics,Arjun Rao,7,5000,3200,12,30800,22400,8400,Cash,Cancelled
+ORD0329,CUST0329,2024-01-30,Rohan Kulkarni,Jaipur,Rajasthan,North,Mouse,Accessories,Neha Gupta,3,800,450,24,1824,1350,474,Net Banking,Delivered
+ORD0330,CUST0330,2024-11-19,Rohan Kulkarni,Pune,Maharashtra,West,Monitor,Office,Pooja Das,5,18000,14000,27,65700,70000,-4300,Cash,Delivered
+ORD0331,CUST0331,2024-06-08,Kavya Reddy,Ahmedabad,Gujarat,West,Smartphone,Electronics,Vikram Joshi,6,35000,28000,23,161700,168000,-6300,Credit Card,Cancelled
+ORD0332,CUST0332,2025-05-14,Anjali Rao,Surat,Gujarat,West,Tablet,Electronics,Sneha Patil,6,25000,20000,18,123000,120000,3000,Credit Card,Returned
+ORD0333,CUST0333,2024-06-14,Suresh Iyer,Mumbai,Maharashtra,West,Tablet,Electronics,Neha Gupta,2,25000,20000,5,47500,40000,7500,Credit Card,Returned
+ORD0334,CUST0334,2025-12-30,Aisha Khan,New Delhi,Delhi,North,Headphones,Accessories,Rahul Verma,8,3000,1800,18,19680,14400,5280,UPI,Cancelled
+ORD0335,CUST0335,2024-01-10,Sneha Nair,Surat,Gujarat,West,Printer,Office,Vikram Joshi,1,15000,11500,3,14550,11500,3050,Net Banking,Delivered
+ORD0336,CUST0336,2025-09-23,Amit Kumar,Bengaluru,Karnataka,South,Keyboard,Accessories,Vikram Joshi,4,1500,900,14,5160,3600,1560,Net Banking,Delivered
+ORD0337,CUST0337,2025-10-04,Divya Menon,Pune,Maharashtra,West,Smartwatch,Wearables,Neha Gupta,1,12000,8500,18,9840,8500,1340,Net Banking,Returned
+ORD0338,CUST0338,2024-10-05,Deepika Roy,Kolkata,West Bengal,East,Smartwatch,Wearables,Arjun Rao,9,12000,8500,3,104760,76500,28260,Net Banking,Delivered
+ORD0339,CUST0339,2025-08-17,Suresh Iyer,Surat,Gujarat,West,Keyboard,Accessories,Karan Singh,2,1500,900,8,2760,1800,960,UPI,Delivered
+ORD0340,CUST0340,2024-07-27,Arjun Mehta,Jaipur,Rajasthan,North,Laptop,Electronics,Neha Gupta,2,65000,52000,25,97500,104000,-6500,UPI,Delivered
+ORD0341,CUST0341,2024-02-05,Divya Menon,New Delhi,Delhi,North,Printer,Office,Karan Singh,3,15000,11500,25,33750,34500,-750,Debit Card,Returned
+ORD0342,CUST0342,2025-07-18,Pooja Das,Coimbatore,Tamil Nadu,South,Printer,Office,Neha Gupta,3,15000,11500,11,40050,34500,5550,UPI,In Transit
+ORD0343,CUST0343,2025-07-15,Arjun Mehta,Surat,Gujarat,West,Smartphone,Electronics,Arjun Rao,7,35000,28000,29,173950,196000,-22050,Debit Card,Delivered
+ORD0344,CUST0344,2025-03-04,Neha Gupta,Surat,Gujarat,West,Printer,Office,Amit Sharma,6,15000,11500,14,77400,69000,8400,UPI,Delivered
+ORD0345,CUST0345,2025-08-09,Aditya Mishra,Ahmedabad,Gujarat,West,Keyboard,Accessories,Arjun Rao,4,1500,900,12,5280,3600,1680,Debit Card,Returned
+ORD0346,CUST0346,2024-03-11,Aisha Khan,Jaipur,Rajasthan,North,Laptop,Electronics,Karan Singh,7,65000,52000,24,345800,364000,-18200,Debit Card,Cancelled
+ORD0347,CUST0347,2024-05-15,Sneha Nair,Chennai,Tamil Nadu,South,Printer,Office,Vikram Joshi,9,15000,11500,29,95850,103500,-7650,UPI,Cancelled
+ORD0348,CUST0348,2025-09-05,Nikhil Jain,Jaipur,Rajasthan,North,Speaker,Electronics,Anjali Mehta,6,5000,3200,19,24300,19200,5100,Cash,Delivered
+ORD0349,CUST0349,2025-06-09,Amit Kumar,Pune,Maharashtra,West,Tablet,Electronics,Pooja Das,8,25000,20000,7,186000,160000,26000,Cash,Delivered
+ORD0350,CUST0350,2025-02-26,Amit Kumar,Warangal,Telangana,South,Tablet,Electronics,Anjali Mehta,1,25000,20000,9,22750,20000,2750,Credit Card,Cancelled
+ORD0351,CUST0351,2025-12-23,Aisha Khan,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Karan Singh,3,800,450,22,1872,1350,522,Credit Card,Cancelled
+ORD0352,CUST0352,2025-11-07,Anjali Rao,Warangal,Telangana,South,Smartphone,Electronics,Karan Singh,3,35000,28000,26,77700,84000,-6300,Credit Card,Cancelled
+ORD0353,CUST0353,2025-08-02,Rahul Sharma,Kolkata,West Bengal,East,Headphones,Accessories,Vikram Joshi,7,3000,1800,29,14910,12600,2310,Cash,Cancelled
+ORD0354,CUST0354,2024-12-09,Nikhil Jain,Pune,Maharashtra,West,Keyboard,Accessories,Karan Singh,4,1500,900,10,5400,3600,1800,Net Banking,In Transit
+ORD0355,CUST0355,2024-10-28,Deepika Roy,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Priya Nair,9,3000,1800,0,27000,16200,10800,Credit Card,Delivered
+ORD0356,CUST0356,2024-08-15,Vikram Singh,Pune,Maharashtra,West,Headphones,Accessories,Rahul Verma,9,3000,1800,4,25920,16200,9720,UPI,Returned
+ORD0357,CUST0357,2024-12-02,Meera Shah,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Rahul Verma,9,800,450,1,7128,4050,3078,Net Banking,Cancelled
+ORD0358,CUST0358,2025-12-18,Sneha Nair,Kolkata,West Bengal,East,Speaker,Electronics,Anjali Mehta,5,5000,3200,27,18250,16000,2250,Debit Card,In Transit
+ORD0359,CUST0359,2025-05-19,Aditya Mishra,Mumbai,Maharashtra,West,Laptop,Electronics,Priya Nair,7,65000,52000,0,455000,364000,91000,Debit Card,In Transit
+ORD0360,CUST0360,2024-03-04,Nikhil Jain,Ahmedabad,Gujarat,West,Speaker,Electronics,Priya Nair,7,5000,3200,15,29750,22400,7350,Net Banking,Cancelled
+ORD0361,CUST0361,2025-01-17,Suresh Iyer,Coimbatore,Tamil Nadu,South,Monitor,Office,Sneha Patil,1,18000,14000,7,16740,14000,2740,Debit Card,In Transit
+ORD0362,CUST0362,2024-05-03,Rohit Verma,Kolkata,West Bengal,East,Smartphone,Electronics,Karan Singh,2,35000,28000,0,70000,56000,14000,Debit Card,Returned
+ORD0363,CUST0363,2024-10-30,Aisha Khan,Warangal,Telangana,South,Smartwatch,Wearables,Priya Nair,10,12000,8500,26,88800,85000,3800,Credit Card,In Transit
+ORD0364,CUST0364,2024-12-30,Meera Shah,Warangal,Telangana,South,Speaker,Electronics,Pooja Das,1,5000,3200,26,3700,3200,500,UPI,In Transit
+ORD0365,CUST0365,2025-12-28,Anjali Rao,Mumbai,Maharashtra,West,Monitor,Office,Vikram Joshi,6,18000,14000,12,95040,84000,11040,Cash,Returned
+ORD0366,CUST0366,2024-04-12,Anjali Rao,Warangal,Telangana,South,Tablet,Electronics,Rahul Verma,8,25000,20000,5,190000,160000,30000,Credit Card,Delivered
+ORD0367,CUST0367,2024-02-25,Rahul Sharma,Hyderabad,Telangana,South,Smartphone,Electronics,Anjali Mehta,2,35000,28000,20,56000,56000,0,Debit Card,Delivered
+ORD0368,CUST0368,2024-09-20,Arjun Mehta,Surat,Gujarat,West,Speaker,Electronics,Amit Sharma,10,5000,3200,29,35500,32000,3500,Debit Card,Cancelled
+ORD0369,CUST0369,2025-03-17,Suresh Iyer,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Vikram Joshi,3,12000,8500,2,35280,25500,9780,Debit Card,In Transit
+ORD0370,CUST0370,2024-01-02,Arjun Mehta,Mysuru,Karnataka,South,Keyboard,Accessories,Amit Sharma,10,1500,900,12,13200,9000,4200,Cash,In Transit
+ORD0371,CUST0371,2024-06-07,Divya Menon,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Karan Singh,5,65000,52000,23,250250,260000,-9750,Cash,Cancelled
+ORD0372,CUST0372,2025-08-03,Deepika Roy,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Pooja Das,8,12000,8500,13,83520,68000,15520,Cash,In Transit
+ORD0373,CUST0373,2025-03-14,Rohan Kulkarni,Mumbai,Maharashtra,West,Speaker,Electronics,Vikram Joshi,6,5000,3200,15,25500,19200,6300,Credit Card,Returned
+ORD0374,CUST0374,2024-07-26,Neha Gupta,New Delhi,Delhi,North,Headphones,Accessories,Anjali Mehta,9,3000,1800,17,22410,16200,6210,Debit Card,Returned
+ORD0375,CUST0375,2024-04-18,Aisha Khan,Ahmedabad,Gujarat,West,Keyboard,Accessories,Karan Singh,4,1500,900,17,4980,3600,1380,Debit Card,Delivered
+ORD0376,CUST0376,2024-01-24,Amit Kumar,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Priya Nair,10,65000,52000,18,533000,520000,13000,Debit Card,Cancelled
+ORD0377,CUST0377,2024-08-13,Divya Menon,Warangal,Telangana,South,Speaker,Electronics,Vikram Joshi,6,5000,3200,9,27300,19200,8100,Net Banking,Delivered
+ORD0378,CUST0378,2024-10-31,Priya Patel,Mysuru,Karnataka,South,Tablet,Electronics,Karan Singh,10,25000,20000,16,210000,200000,10000,Cash,Delivered
+ORD0379,CUST0379,2024-08-14,Nikhil Jain,Mysuru,Karnataka,South,Printer,Office,Anjali Mehta,4,15000,11500,22,46800,46000,800,UPI,Delivered
+ORD0380,CUST0380,2024-12-28,Aisha Khan,Jaipur,Rajasthan,North,Smartwatch,Wearables,Arjun Rao,5,12000,8500,30,42000,42500,-500,Credit Card,Delivered
+ORD0381,CUST0381,2025-05-28,Nikhil Jain,Pune,Maharashtra,West,Speaker,Electronics,Neha Gupta,7,5000,3200,19,28350,22400,5950,Credit Card,Cancelled
+ORD0382,CUST0382,2024-06-01,Amit Kumar,Mumbai,Maharashtra,West,Monitor,Office,Sneha Patil,4,18000,14000,7,66960,56000,10960,Debit Card,Cancelled
+ORD0383,CUST0383,2025-11-25,Vikram Singh,Hyderabad,Telangana,South,Headphones,Accessories,Neha Gupta,6,3000,1800,14,15480,10800,4680,Net Banking,In Transit
+ORD0384,CUST0384,2024-03-08,Priya Patel,Chennai,Tamil Nadu,South,Tablet,Electronics,Amit Sharma,8,25000,20000,12,176000,160000,16000,Debit Card,Cancelled
+ORD0385,CUST0385,2025-12-07,Rohan Kulkarni,Bengaluru,Karnataka,South,Printer,Office,Amit Sharma,1,15000,11500,17,12450,11500,950,Net Banking,Returned
+ORD0386,CUST0386,2024-09-09,Nikhil Jain,Ahmedabad,Gujarat,West,Headphones,Accessories,Neha Gupta,5,3000,1800,20,12000,9000,3000,UPI,Delivered
+ORD0387,CUST0387,2025-02-23,Vikram Singh,Kolkata,West Bengal,East,Smartphone,Electronics,Arjun Rao,3,35000,28000,16,88200,84000,4200,Cash,Delivered
+ORD0388,CUST0388,2024-02-22,Kavya Reddy,Mumbai,Maharashtra,West,Monitor,Office,Neha Gupta,4,18000,14000,6,67680,56000,11680,Cash,In Transit
+ORD0389,CUST0389,2025-03-16,Sneha Nair,Coimbatore,Tamil Nadu,South,Speaker,Electronics,Karan Singh,8,5000,3200,23,30800,25600,5200,Net Banking,In Transit
+ORD0390,CUST0390,2025-03-20,Kavya Reddy,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Priya Nair,3,12000,8500,29,25560,25500,60,Net Banking,Returned
+ORD0391,CUST0391,2025-10-01,Rohit Verma,Bengaluru,Karnataka,South,Laptop,Electronics,Sneha Patil,1,65000,52000,6,61100,52000,9100,Net Banking,Delivered
+ORD0392,CUST0392,2024-06-24,Neha Gupta,Mysuru,Karnataka,South,Headphones,Accessories,Amit Sharma,9,3000,1800,24,20520,16200,4320,Credit Card,Delivered
+ORD0393,CUST0393,2025-01-18,Neha Gupta,Mysuru,Karnataka,South,Tablet,Electronics,Pooja Das,1,25000,20000,20,20000,20000,0,Credit Card,Delivered
+ORD0394,CUST0394,2024-05-12,Karan Joshi,New Delhi,Delhi,North,Tablet,Electronics,Sneha Patil,8,25000,20000,30,140000,160000,-20000,Cash,Cancelled
+ORD0395,CUST0395,2025-06-16,Suresh Iyer,Surat,Gujarat,West,Speaker,Electronics,Amit Sharma,10,5000,3200,24,38000,32000,6000,Credit Card,In Transit
+ORD0396,CUST0396,2024-03-31,Anjali Rao,Bengaluru,Karnataka,South,Smartphone,Electronics,Vikram Joshi,9,35000,28000,4,302400,252000,50400,Debit Card,Delivered
+ORD0397,CUST0397,2025-04-07,Kavya Reddy,Hyderabad,Telangana,South,Mouse,Accessories,Sneha Patil,7,800,450,24,4256,3150,1106,UPI,In Transit
+ORD0398,CUST0398,2025-06-17,Sneha Nair,Bengaluru,Karnataka,South,Smartphone,Electronics,Neha Gupta,2,35000,28000,14,60200,56000,4200,Cash,Delivered
+ORD0399,CUST0399,2025-05-25,Priya Patel,Kolkata,West Bengal,East,Tablet,Electronics,Rahul Verma,1,25000,20000,7,23250,20000,3250,Credit Card,Returned
+ORD0400,CUST0400,2024-12-13,Pooja Das,Hyderabad,Telangana,South,Mouse,Accessories,Vikram Joshi,3,800,450,15,2040,1350,690,UPI,Delivered
+ORD0401,CUST0401,2025-04-09,Arjun Mehta,New Delhi,Delhi,North,Speaker,Electronics,Arjun Rao,3,5000,3200,22,11700,9600,2100,UPI,Returned
+ORD0402,CUST0402,2025-06-17,Rohan Kulkarni,Bengaluru,Karnataka,South,Keyboard,Accessories,Vikram Joshi,9,1500,900,10,12150,8100,4050,Credit Card,Returned
+ORD0403,CUST0403,2025-10-20,Arjun Mehta,Coimbatore,Tamil Nadu,South,Monitor,Office,Neha Gupta,7,18000,14000,2,123480,98000,25480,UPI,In Transit
+ORD0404,CUST0404,2024-06-07,Anjali Rao,Surat,Gujarat,West,Keyboard,Accessories,Anjali Mehta,7,1500,900,6,9870,6300,3570,Cash,Cancelled
+ORD0405,CUST0405,2024-06-30,Aditya Mishra,Hyderabad,Telangana,South,Mouse,Accessories,Neha Gupta,2,800,450,8,1472,900,572,UPI,Returned
+ORD0406,CUST0406,2024-01-30,Arjun Mehta,Mumbai,Maharashtra,West,Headphones,Accessories,Sneha Patil,8,3000,1800,26,17760,14400,3360,Credit Card,Cancelled
+ORD0407,CUST0407,2025-05-30,Rohan Kulkarni,Ahmedabad,Gujarat,West,Laptop,Electronics,Rahul Verma,1,65000,52000,28,46800,52000,-5200,Credit Card,Delivered
+ORD0408,CUST0408,2025-10-21,Arjun Mehta,Jaipur,Rajasthan,North,Laptop,Electronics,Priya Nair,5,65000,52000,18,266500,260000,6500,Net Banking,Returned
+ORD0409,CUST0409,2025-12-12,Kavya Reddy,Surat,Gujarat,West,Headphones,Accessories,Sneha Patil,6,3000,1800,10,16200,10800,5400,UPI,Cancelled
+ORD0410,CUST0410,2025-10-18,Nikhil Jain,Pune,Maharashtra,West,Laptop,Electronics,Neha Gupta,5,65000,52000,1,321750,260000,61750,Net Banking,Returned
+ORD0411,CUST0411,2025-01-22,Deepika Roy,Hyderabad,Telangana,South,Mouse,Accessories,Karan Singh,5,800,450,23,3080,2250,830,Credit Card,Delivered
+ORD0412,CUST0412,2024-12-15,Aisha Khan,Mumbai,Maharashtra,West,Monitor,Office,Neha Gupta,10,18000,14000,3,174600,140000,34600,Net Banking,In Transit
+ORD0413,CUST0413,2024-01-23,Aisha Khan,Bengaluru,Karnataka,South,Keyboard,Accessories,Rahul Verma,9,1500,900,3,13095,8100,4995,Debit Card,In Transit
+ORD0414,CUST0414,2024-04-30,Rahul Sharma,Surat,Gujarat,West,Printer,Office,Pooja Das,1,15000,11500,10,13500,11500,2000,Cash,Cancelled
+ORD0415,CUST0415,2025-06-15,Suresh Iyer,Warangal,Telangana,South,Smartphone,Electronics,Sneha Patil,3,35000,28000,30,73500,84000,-10500,Debit Card,In Transit
+ORD0416,CUST0416,2025-05-31,Amit Kumar,Bengaluru,Karnataka,South,Laptop,Electronics,Arjun Rao,3,65000,52000,24,148200,156000,-7800,Net Banking,In Transit
+ORD0417,CUST0417,2025-07-22,Rohan Kulkarni,Jaipur,Rajasthan,North,Monitor,Office,Pooja Das,5,18000,14000,5,85500,70000,15500,Cash,Cancelled
+ORD0418,CUST0418,2024-02-25,Suresh Iyer,Mumbai,Maharashtra,West,Headphones,Accessories,Anjali Mehta,2,3000,1800,19,4860,3600,1260,Net Banking,In Transit
+ORD0419,CUST0419,2024-05-15,Aditya Mishra,Jaipur,Rajasthan,North,Smartwatch,Wearables,Rahul Verma,3,12000,8500,29,25560,25500,60,Credit Card,Returned
+ORD0420,CUST0420,2024-10-17,Priya Patel,Kolkata,West Bengal,East,Mouse,Accessories,Amit Sharma,5,800,450,24,3040,2250,790,UPI,In Transit
+ORD0421,CUST0421,2025-05-06,Pooja Das,Bengaluru,Karnataka,South,Headphones,Accessories,Neha Gupta,7,3000,1800,22,16380,12600,3780,UPI,In Transit
+ORD0422,CUST0422,2025-08-10,Rohit Verma,Mumbai,Maharashtra,West,Laptop,Electronics,Rahul Verma,2,65000,52000,5,123500,104000,19500,UPI,In Transit
+ORD0423,CUST0423,2024-07-27,Meera Shah,New Delhi,Delhi,North,Keyboard,Accessories,Karan Singh,3,1500,900,25,3375,2700,675,Net Banking,In Transit
+ORD0424,CUST0424,2025-08-02,Arjun Mehta,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Pooja Das,4,3000,1800,1,11880,7200,4680,Net Banking,Returned
+ORD0425,CUST0425,2024-09-26,Aditya Mishra,Kolkata,West Bengal,East,Smartphone,Electronics,Pooja Das,5,35000,28000,0,175000,140000,35000,UPI,Delivered
+ORD0426,CUST0426,2024-01-04,Priya Patel,Mysuru,Karnataka,South,Laptop,Electronics,Priya Nair,6,65000,52000,22,304200,312000,-7800,Net Banking,Cancelled
+ORD0427,CUST0427,2025-06-01,Rahul Sharma,Pune,Maharashtra,West,Smartwatch,Wearables,Neha Gupta,10,12000,8500,23,92400,85000,7400,UPI,Returned
+ORD0428,CUST0428,2025-04-18,Divya Menon,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Priya Nair,8,25000,20000,10,180000,160000,20000,UPI,Cancelled
+ORD0429,CUST0429,2025-12-22,Aisha Khan,Chennai,Tamil Nadu,South,Printer,Office,Anjali Mehta,7,15000,11500,2,102900,80500,22400,Debit Card,In Transit
+ORD0430,CUST0430,2025-02-11,Anjali Rao,Bengaluru,Karnataka,South,Monitor,Office,Sneha Patil,8,18000,14000,25,108000,112000,-4000,Credit Card,In Transit
+ORD0431,CUST0431,2024-05-14,Sneha Nair,Pune,Maharashtra,West,Speaker,Electronics,Arjun Rao,5,5000,3200,25,18750,16000,2750,Net Banking,Cancelled
+ORD0432,CUST0432,2025-07-15,Rohit Verma,Coimbatore,Tamil Nadu,South,Printer,Office,Priya Nair,10,15000,11500,30,105000,115000,-10000,Net Banking,In Transit
+ORD0433,CUST0433,2024-03-18,Meera Shah,New Delhi,Delhi,North,Smartphone,Electronics,Amit Sharma,7,35000,28000,3,237650,196000,41650,Debit Card,In Transit
+ORD0434,CUST0434,2024-03-20,Suresh Iyer,New Delhi,Delhi,North,Headphones,Accessories,Sneha Patil,6,3000,1800,12,15840,10800,5040,Credit Card,Returned
+ORD0435,CUST0435,2024-12-14,Arjun Mehta,Hyderabad,Telangana,South,Laptop,Electronics,Pooja Das,2,65000,52000,15,110500,104000,6500,Credit Card,In Transit
+ORD0436,CUST0436,2024-01-14,Sneha Nair,Kolkata,West Bengal,East,Laptop,Electronics,Rahul Verma,4,65000,52000,2,254800,208000,46800,Credit Card,Delivered
+ORD0437,CUST0437,2024-01-16,Nikhil Jain,Coimbatore,Tamil Nadu,South,Printer,Office,Pooja Das,7,15000,11500,13,91350,80500,10850,UPI,Returned
+ORD0438,CUST0438,2024-09-11,Aisha Khan,Kolkata,West Bengal,East,Smartwatch,Wearables,Sneha Patil,3,12000,8500,15,30600,25500,5100,Debit Card,Delivered
+ORD0439,CUST0439,2025-08-06,Deepika Roy,Kolkata,West Bengal,East,Keyboard,Accessories,Pooja Das,5,1500,900,9,6825,4500,2325,UPI,Returned
+ORD0440,CUST0440,2024-04-27,Vikram Singh,Pune,Maharashtra,West,Smartphone,Electronics,Arjun Rao,1,35000,28000,7,32550,28000,4550,Cash,Returned
+ORD0441,CUST0441,2024-03-25,Rahul Sharma,Chennai,Tamil Nadu,South,Speaker,Electronics,Vikram Joshi,10,5000,3200,9,45500,32000,13500,Net Banking,In Transit
+ORD0442,CUST0442,2024-07-22,Vikram Singh,Bengaluru,Karnataka,South,Speaker,Electronics,Rahul Verma,2,5000,3200,19,8100,6400,1700,UPI,Delivered
+ORD0443,CUST0443,2024-03-30,Suresh Iyer,Bengaluru,Karnataka,South,Monitor,Office,Karan Singh,5,18000,14000,30,63000,70000,-7000,Net Banking,Delivered
+ORD0444,CUST0444,2025-07-04,Vikram Singh,Bengaluru,Karnataka,South,Printer,Office,Pooja Das,1,15000,11500,10,13500,11500,2000,Debit Card,In Transit
+ORD0445,CUST0445,2024-12-28,Meera Shah,Pune,Maharashtra,West,Printer,Office,Sneha Patil,8,15000,11500,23,92400,92000,400,Cash,Cancelled
+ORD0446,CUST0446,2024-04-14,Deepika Roy,Mumbai,Maharashtra,West,Laptop,Electronics,Karan Singh,3,65000,52000,20,156000,156000,0,Debit Card,Cancelled
+ORD0447,CUST0447,2024-09-12,Sneha Nair,Kolkata,West Bengal,East,Tablet,Electronics,Vikram Joshi,6,25000,20000,19,121500,120000,1500,Debit Card,Delivered
+ORD0448,CUST0448,2025-03-31,Divya Menon,Hyderabad,Telangana,South,Smartphone,Electronics,Pooja Das,9,35000,28000,11,280350,252000,28350,Cash,Cancelled
+ORD0449,CUST0449,2024-08-08,Rahul Sharma,Surat,Gujarat,West,Smartphone,Electronics,Pooja Das,3,35000,28000,24,79800,84000,-4200,Net Banking,Cancelled
+ORD0450,CUST0450,2024-03-20,Deepika Roy,Chennai,Tamil Nadu,South,Keyboard,Accessories,Neha Gupta,5,1500,900,10,6750,4500,2250,UPI,Delivered
+ORD0451,CUST0451,2025-04-06,Meera Shah,Bengaluru,Karnataka,South,Laptop,Electronics,Pooja Das,9,65000,52000,2,573300,468000,105300,Credit Card,Returned
+ORD0452,CUST0452,2025-06-25,Sneha Nair,Kolkata,West Bengal,East,Smartphone,Electronics,Amit Sharma,10,35000,28000,28,252000,280000,-28000,Debit Card,Returned
+ORD0453,CUST0453,2025-08-02,Rohit Verma,Mysuru,Karnataka,South,Headphones,Accessories,Anjali Mehta,9,3000,1800,27,19710,16200,3510,Debit Card,In Transit
+ORD0454,CUST0454,2025-04-04,Priya Patel,Surat,Gujarat,West,Smartphone,Electronics,Karan Singh,6,35000,28000,8,193200,168000,25200,UPI,In Transit
+ORD0455,CUST0455,2024-02-05,Amit Kumar,Mysuru,Karnataka,South,Monitor,Office,Arjun Rao,1,18000,14000,6,16920,14000,2920,Credit Card,Delivered
+ORD0456,CUST0456,2024-06-13,Aditya Mishra,Kolkata,West Bengal,East,Smartwatch,Wearables,Pooja Das,4,12000,8500,26,35520,34000,1520,Cash,Cancelled
+ORD0457,CUST0457,2025-01-15,Sneha Nair,Mumbai,Maharashtra,West,Headphones,Accessories,Sneha Patil,6,3000,1800,16,15120,10800,4320,Debit Card,Cancelled
+ORD0458,CUST0458,2025-04-10,Neha Gupta,Hyderabad,Telangana,South,Printer,Office,Priya Nair,3,15000,11500,15,38250,34500,3750,Debit Card,Delivered
+ORD0459,CUST0459,2025-06-17,Priya Patel,Kolkata,West Bengal,East,Laptop,Electronics,Sneha Patil,5,65000,52000,15,276250,260000,16250,Cash,In Transit
+ORD0460,CUST0460,2025-06-18,Sneha Nair,Jaipur,Rajasthan,North,Laptop,Electronics,Pooja Das,10,65000,52000,3,630500,520000,110500,UPI,In Transit
+ORD0461,CUST0461,2024-06-22,Aditya Mishra,Ahmedabad,Gujarat,West,Mouse,Accessories,Neha Gupta,2,800,450,18,1312,900,412,Net Banking,In Transit
+ORD0462,CUST0462,2025-12-28,Anjali Rao,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Sneha Patil,3,800,450,4,2304,1350,954,UPI,In Transit
+ORD0463,CUST0463,2024-10-26,Priya Patel,Surat,Gujarat,West,Monitor,Office,Amit Sharma,6,18000,14000,25,81000,84000,-3000,Cash,Cancelled
+ORD0464,CUST0464,2024-01-04,Divya Menon,Warangal,Telangana,South,Smartwatch,Wearables,Neha Gupta,10,12000,8500,6,112800,85000,27800,Net Banking,Delivered
+ORD0465,CUST0465,2024-10-09,Rahul Sharma,Bengaluru,Karnataka,South,Headphones,Accessories,Anjali Mehta,2,3000,1800,22,4680,3600,1080,Cash,In Transit
+ORD0466,CUST0466,2025-02-05,Suresh Iyer,Jaipur,Rajasthan,North,Mouse,Accessories,Neha Gupta,10,800,450,26,5920,4500,1420,Credit Card,Delivered
+ORD0467,CUST0467,2024-12-23,Deepika Roy,Mysuru,Karnataka,South,Printer,Office,Priya Nair,1,15000,11500,3,14550,11500,3050,Debit Card,Cancelled
+ORD0468,CUST0468,2024-06-24,Suresh Iyer,Mysuru,Karnataka,South,Keyboard,Accessories,Rahul Verma,3,1500,900,24,3420,2700,720,Cash,Returned
+ORD0469,CUST0469,2025-07-04,Deepika Roy,Surat,Gujarat,West,Tablet,Electronics,Sneha Patil,6,25000,20000,18,123000,120000,3000,UPI,In Transit
+ORD0470,CUST0470,2025-10-21,Rohit Verma,New Delhi,Delhi,North,Mouse,Accessories,Karan Singh,7,800,450,5,5320,3150,2170,UPI,Returned
+ORD0471,CUST0471,2024-08-31,Rohan Kulkarni,Bengaluru,Karnataka,South,Mouse,Accessories,Sneha Patil,1,800,450,19,648,450,198,Cash,Returned
+ORD0472,CUST0472,2025-05-31,Aisha Khan,Warangal,Telangana,South,Printer,Office,Pooja Das,7,15000,11500,5,99750,80500,19250,Credit Card,Delivered
+ORD0473,CUST0473,2024-05-09,Neha Gupta,New Delhi,Delhi,North,Mouse,Accessories,Rahul Verma,2,800,450,7,1488,900,588,Cash,Cancelled
+ORD0474,CUST0474,2024-10-09,Suresh Iyer,Jaipur,Rajasthan,North,Tablet,Electronics,Neha Gupta,7,25000,20000,18,143500,140000,3500,UPI,Cancelled
+ORD0475,CUST0475,2025-03-14,Aditya Mishra,Mysuru,Karnataka,South,Mouse,Accessories,Sneha Patil,7,800,450,18,4592,3150,1442,UPI,Returned
+ORD0476,CUST0476,2024-10-31,Divya Menon,Hyderabad,Telangana,South,Keyboard,Accessories,Arjun Rao,7,1500,900,9,9555,6300,3255,Cash,In Transit
+ORD0477,CUST0477,2025-01-24,Nikhil Jain,Pune,Maharashtra,West,Tablet,Electronics,Sneha Patil,1,25000,20000,21,19750,20000,-250,UPI,Returned
+ORD0478,CUST0478,2025-04-30,Aisha Khan,Mumbai,Maharashtra,West,Tablet,Electronics,Pooja Das,5,25000,20000,5,118750,100000,18750,Credit Card,In Transit
+ORD0479,CUST0479,2025-09-08,Rahul Sharma,Pune,Maharashtra,West,Mouse,Accessories,Neha Gupta,2,800,450,13,1392,900,492,UPI,Delivered
+ORD0480,CUST0480,2025-02-26,Rahul Sharma,Surat,Gujarat,West,Headphones,Accessories,Pooja Das,4,3000,1800,2,11760,7200,4560,Credit Card,In Transit
+ORD0481,CUST0481,2025-08-04,Sneha Nair,Kolkata,West Bengal,East,Laptop,Electronics,Rahul Verma,9,65000,52000,17,485550,468000,17550,Debit Card,Delivered
+ORD0482,CUST0482,2025-09-11,Karan Joshi,New Delhi,Delhi,North,Speaker,Electronics,Neha Gupta,7,5000,3200,19,28350,22400,5950,Net Banking,In Transit
+ORD0483,CUST0483,2025-02-18,Aisha Khan,Chennai,Tamil Nadu,South,Tablet,Electronics,Sneha Patil,10,25000,20000,7,232500,200000,32500,Cash,Delivered
+ORD0484,CUST0484,2025-10-31,Aditya Mishra,Jaipur,Rajasthan,North,Smartphone,Electronics,Arjun Rao,7,35000,28000,12,215600,196000,19600,Net Banking,In Transit
+ORD0485,CUST0485,2025-04-27,Aditya Mishra,Coimbatore,Tamil Nadu,South,Printer,Office,Vikram Joshi,1,15000,11500,4,14400,11500,2900,Cash,Cancelled
+ORD0486,CUST0486,2024-08-28,Arjun Mehta,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Arjun Rao,4,65000,52000,11,231400,208000,23400,Credit Card,Cancelled
+ORD0487,CUST0487,2024-09-09,Rohit Verma,Mysuru,Karnataka,South,Mouse,Accessories,Pooja Das,3,800,450,20,1920,1350,570,Cash,Cancelled
+ORD0488,CUST0488,2024-09-29,Arjun Mehta,Ahmedabad,Gujarat,West,Headphones,Accessories,Rahul Verma,10,3000,1800,22,23400,18000,5400,Credit Card,Delivered
+ORD0489,CUST0489,2025-08-31,Divya Menon,Bengaluru,Karnataka,South,Mouse,Accessories,Rahul Verma,9,800,450,3,6984,4050,2934,Net Banking,Cancelled
+ORD0490,CUST0490,2024-12-06,Arjun Mehta,Chennai,Tamil Nadu,South,Mouse,Accessories,Vikram Joshi,8,800,450,25,4800,3600,1200,UPI,Delivered
+ORD0491,CUST0491,2025-05-24,Priya Patel,Ahmedabad,Gujarat,West,Tablet,Electronics,Neha Gupta,3,25000,20000,15,63750,60000,3750,Credit Card,Cancelled
+ORD0492,CUST0492,2024-10-21,Neha Gupta,Kolkata,West Bengal,East,Smartphone,Electronics,Anjali Mehta,7,35000,28000,2,240100,196000,44100,Debit Card,Returned
+ORD0493,CUST0493,2025-01-05,Nikhil Jain,Mysuru,Karnataka,South,Keyboard,Accessories,Vikram Joshi,1,1500,900,7,1395,900,495,Debit Card,In Transit
+ORD0494,CUST0494,2024-05-01,Neha Gupta,Kolkata,West Bengal,East,Smartphone,Electronics,Pooja Das,5,35000,28000,21,138250,140000,-1750,Debit Card,In Transit
+ORD0495,CUST0495,2024-05-25,Vikram Singh,Ahmedabad,Gujarat,West,Printer,Office,Vikram Joshi,3,15000,11500,17,37350,34500,2850,Debit Card,In Transit
+ORD0496,CUST0496,2024-02-20,Amit Kumar,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Vikram Joshi,10,12000,8500,19,97200,85000,12200,Credit Card,Returned
+ORD0497,CUST0497,2024-11-01,Anjali Rao,Jaipur,Rajasthan,North,Laptop,Electronics,Pooja Das,1,65000,52000,23,50050,52000,-1950,Credit Card,Delivered
+ORD0498,CUST0498,2024-08-01,Karan Joshi,Pune,Maharashtra,West,Mouse,Accessories,Vikram Joshi,10,800,450,4,7680,4500,3180,UPI,Cancelled
+ORD0499,CUST0499,2024-08-09,Amit Kumar,Kolkata,West Bengal,East,Speaker,Electronics,Pooja Das,1,5000,3200,7,4650,3200,1450,Credit Card,Returned
+ORD0500,CUST0500,2025-05-19,Deepika Roy,Bengaluru,Karnataka,South,Smartwatch,Wearables,Vikram Joshi,3,12000,8500,6,33840,25500,8340,Credit Card,Cancelled
+ORD0501,CUST0501,2024-03-23,Rohan Kulkarni,Jaipur,Rajasthan,North,Keyboard,Accessories,Karan Singh,2,1500,900,1,2970,1800,1170,Debit Card,Delivered
+ORD0502,CUST0502,2025-08-10,Divya Menon,Hyderabad,Telangana,South,Tablet,Electronics,Neha Gupta,7,25000,20000,6,164500,140000,24500,UPI,Delivered
+ORD0503,CUST0503,2024-07-13,Karan Joshi,Warangal,Telangana,South,Headphones,Accessories,Vikram Joshi,3,3000,1800,21,7110,5400,1710,Net Banking,Delivered
+ORD0504,CUST0504,2025-03-11,Rohit Verma,Mumbai,Maharashtra,West,Mouse,Accessories,Arjun Rao,6,800,450,0,4800,2700,2100,Debit Card,Returned
+ORD0505,CUST0505,2024-11-27,Rohan Kulkarni,Mumbai,Maharashtra,West,Speaker,Electronics,Anjali Mehta,5,5000,3200,28,18000,16000,2000,Cash,Delivered
+ORD0506,CUST0506,2025-07-17,Kavya Reddy,Mysuru,Karnataka,South,Headphones,Accessories,Anjali Mehta,4,3000,1800,14,10320,7200,3120,UPI,In Transit
+ORD0507,CUST0507,2024-07-13,Rohan Kulkarni,Hyderabad,Telangana,South,Tablet,Electronics,Neha Gupta,1,25000,20000,13,21750,20000,1750,Cash,In Transit
+ORD0508,CUST0508,2025-03-19,Anjali Rao,Kolkata,West Bengal,East,Smartphone,Electronics,Neha Gupta,6,35000,28000,25,157500,168000,-10500,Debit Card,Cancelled
+ORD0509,CUST0509,2025-07-22,Amit Kumar,Chennai,Tamil Nadu,South,Printer,Office,Sneha Patil,5,15000,11500,26,55500,57500,-2000,UPI,Delivered
+ORD0510,CUST0510,2024-10-06,Neha Gupta,Bengaluru,Karnataka,South,Speaker,Electronics,Vikram Joshi,7,5000,3200,2,34300,22400,11900,UPI,Delivered
+ORD0511,CUST0511,2024-05-26,Karan Joshi,Chennai,Tamil Nadu,South,Smartphone,Electronics,Neha Gupta,2,35000,28000,30,49000,56000,-7000,Debit Card,Delivered
+ORD0512,CUST0512,2025-04-27,Aditya Mishra,Mumbai,Maharashtra,West,Printer,Office,Anjali Mehta,1,15000,11500,27,10950,11500,-550,Cash,In Transit
+ORD0513,CUST0513,2024-02-10,Neha Gupta,Mumbai,Maharashtra,West,Smartphone,Electronics,Neha Gupta,10,35000,28000,18,287000,280000,7000,Debit Card,Returned
+ORD0514,CUST0514,2024-05-25,Neha Gupta,New Delhi,Delhi,North,Mouse,Accessories,Neha Gupta,5,800,450,12,3520,2250,1270,UPI,Cancelled
+ORD0515,CUST0515,2025-07-31,Amit Kumar,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Sneha Patil,9,25000,20000,17,186750,180000,6750,Net Banking,In Transit
+ORD0516,CUST0516,2024-08-29,Vikram Singh,Pune,Maharashtra,West,Monitor,Office,Vikram Joshi,2,18000,14000,23,27720,28000,-280,Cash,Returned
+ORD0517,CUST0517,2024-10-24,Deepika Roy,Kolkata,West Bengal,East,Smartwatch,Wearables,Neha Gupta,3,12000,8500,25,27000,25500,1500,Net Banking,Delivered
+ORD0518,CUST0518,2024-01-10,Neha Gupta,Hyderabad,Telangana,South,Headphones,Accessories,Karan Singh,8,3000,1800,12,21120,14400,6720,Credit Card,In Transit
+ORD0519,CUST0519,2024-11-30,Neha Gupta,Mysuru,Karnataka,South,Laptop,Electronics,Neha Gupta,1,65000,52000,17,53950,52000,1950,Debit Card,Returned
+ORD0520,CUST0520,2024-01-05,Neha Gupta,Mysuru,Karnataka,South,Tablet,Electronics,Karan Singh,2,25000,20000,22,39000,40000,-1000,Debit Card,In Transit
+ORD0521,CUST0521,2024-08-21,Kavya Reddy,Ahmedabad,Gujarat,West,Monitor,Office,Anjali Mehta,3,18000,14000,11,48060,42000,6060,Debit Card,Returned
+ORD0522,CUST0522,2024-05-26,Karan Joshi,Warangal,Telangana,South,Printer,Office,Neha Gupta,5,15000,11500,11,66750,57500,9250,Cash,Returned
+ORD0523,CUST0523,2025-02-22,Rohan Kulkarni,Surat,Gujarat,West,Printer,Office,Neha Gupta,2,15000,11500,0,30000,23000,7000,UPI,Cancelled
+ORD0524,CUST0524,2024-08-08,Arjun Mehta,Kolkata,West Bengal,East,Tablet,Electronics,Priya Nair,9,25000,20000,6,211500,180000,31500,Net Banking,Returned
+ORD0525,CUST0525,2025-05-28,Suresh Iyer,Kolkata,West Bengal,East,Headphones,Accessories,Rahul Verma,1,3000,1800,4,2880,1800,1080,Net Banking,Returned
+ORD0526,CUST0526,2025-08-16,Kavya Reddy,Chennai,Tamil Nadu,South,Headphones,Accessories,Sneha Patil,3,3000,1800,8,8280,5400,2880,Debit Card,Cancelled
+ORD0527,CUST0527,2025-03-02,Arjun Mehta,Hyderabad,Telangana,South,Speaker,Electronics,Priya Nair,9,5000,3200,2,44100,28800,15300,Net Banking,Returned
+ORD0528,CUST0528,2025-08-15,Pooja Das,Hyderabad,Telangana,South,Keyboard,Accessories,Anjali Mehta,8,1500,900,21,9480,7200,2280,Net Banking,Returned
+ORD0529,CUST0529,2024-08-02,Sneha Nair,Mysuru,Karnataka,South,Printer,Office,Anjali Mehta,10,15000,11500,13,130500,115000,15500,Net Banking,In Transit
+ORD0530,CUST0530,2024-12-17,Rahul Sharma,Warangal,Telangana,South,Mouse,Accessories,Vikram Joshi,3,800,450,16,2016,1350,666,Debit Card,Cancelled
+ORD0531,CUST0531,2025-11-13,Rahul Sharma,Warangal,Telangana,South,Keyboard,Accessories,Amit Sharma,4,1500,900,27,4380,3600,780,Net Banking,Returned
+ORD0532,CUST0532,2025-10-19,Rahul Sharma,New Delhi,Delhi,North,Keyboard,Accessories,Rahul Verma,9,1500,900,5,12825,8100,4725,UPI,In Transit
+ORD0533,CUST0533,2024-08-04,Aditya Mishra,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Pooja Das,8,12000,8500,5,91200,68000,23200,UPI,Returned
+ORD0534,CUST0534,2024-04-23,Anjali Rao,Bengaluru,Karnataka,South,Mouse,Accessories,Karan Singh,5,800,450,4,3840,2250,1590,Cash,Delivered
+ORD0535,CUST0535,2024-03-03,Karan Joshi,Surat,Gujarat,West,Smartwatch,Wearables,Neha Gupta,5,12000,8500,19,48600,42500,6100,Net Banking,In Transit
+ORD0536,CUST0536,2025-08-03,Rahul Sharma,Ahmedabad,Gujarat,West,Tablet,Electronics,Karan Singh,2,25000,20000,27,36500,40000,-3500,Credit Card,Delivered
+ORD0537,CUST0537,2025-07-27,Sneha Nair,Warangal,Telangana,South,Printer,Office,Neha Gupta,7,15000,11500,23,80850,80500,350,Cash,Returned
+ORD0538,CUST0538,2025-10-13,Vikram Singh,Warangal,Telangana,South,Printer,Office,Rahul Verma,9,15000,11500,29,95850,103500,-7650,Net Banking,In Transit
+ORD0539,CUST0539,2024-06-01,Meera Shah,New Delhi,Delhi,North,Printer,Office,Pooja Das,2,15000,11500,22,23400,23000,400,Net Banking,Returned
+ORD0540,CUST0540,2024-07-30,Aisha Khan,Chennai,Tamil Nadu,South,Headphones,Accessories,Neha Gupta,7,3000,1800,28,15120,12600,2520,Net Banking,Returned
+ORD0541,CUST0541,2025-09-05,Sneha Nair,Surat,Gujarat,West,Keyboard,Accessories,Priya Nair,5,1500,900,4,7200,4500,2700,Cash,Returned
+ORD0542,CUST0542,2025-10-26,Pooja Das,Jaipur,Rajasthan,North,Printer,Office,Arjun Rao,3,15000,11500,14,38700,34500,4200,Debit Card,Delivered
+ORD0543,CUST0543,2025-05-03,Rohit Verma,Hyderabad,Telangana,South,Headphones,Accessories,Arjun Rao,2,3000,1800,20,4800,3600,1200,Credit Card,In Transit
+ORD0544,CUST0544,2025-10-21,Amit Kumar,Warangal,Telangana,South,Smartwatch,Wearables,Amit Sharma,3,12000,8500,21,28440,25500,2940,Debit Card,Cancelled
+ORD0545,CUST0545,2025-07-18,Aisha Khan,Surat,Gujarat,West,Printer,Office,Anjali Mehta,1,15000,11500,30,10500,11500,-1000,UPI,Delivered
+ORD0546,CUST0546,2024-08-23,Suresh Iyer,Pune,Maharashtra,West,Tablet,Electronics,Pooja Das,10,25000,20000,15,212500,200000,12500,Debit Card,Delivered
+ORD0547,CUST0547,2025-03-13,Amit Kumar,Jaipur,Rajasthan,North,Laptop,Electronics,Amit Sharma,7,65000,52000,2,445900,364000,81900,Debit Card,Delivered
+ORD0548,CUST0548,2024-04-29,Meera Shah,Pune,Maharashtra,West,Laptop,Electronics,Rahul Verma,2,65000,52000,2,127400,104000,23400,Credit Card,Delivered
+ORD0549,CUST0549,2024-02-29,Divya Menon,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Karan Singh,7,1500,900,22,8190,6300,1890,Credit Card,Returned
+ORD0550,CUST0550,2024-04-03,Rahul Sharma,New Delhi,Delhi,North,Headphones,Accessories,Rahul Verma,2,3000,1800,13,5220,3600,1620,Net Banking,Delivered
+ORD0551,CUST0551,2024-05-04,Kavya Reddy,Ahmedabad,Gujarat,West,Keyboard,Accessories,Neha Gupta,2,1500,900,9,2730,1800,930,Cash,Cancelled
+ORD0552,CUST0552,2025-07-09,Neha Gupta,Surat,Gujarat,West,Smartphone,Electronics,Sneha Patil,6,35000,28000,8,193200,168000,25200,Cash,In Transit
+ORD0553,CUST0553,2024-08-01,Priya Patel,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Arjun Rao,1,65000,52000,28,46800,52000,-5200,UPI,Delivered
+ORD0554,CUST0554,2025-07-03,Pooja Das,Kolkata,West Bengal,East,Printer,Office,Vikram Joshi,9,15000,11500,30,94500,103500,-9000,UPI,Returned
+ORD0555,CUST0555,2025-01-21,Priya Patel,Ahmedabad,Gujarat,West,Laptop,Electronics,Pooja Das,7,65000,52000,12,400400,364000,36400,Debit Card,In Transit
+ORD0556,CUST0556,2024-04-19,Rohit Verma,New Delhi,Delhi,North,Tablet,Electronics,Anjali Mehta,6,25000,20000,28,108000,120000,-12000,Credit Card,Returned
+ORD0557,CUST0557,2024-10-02,Deepika Roy,Mumbai,Maharashtra,West,Speaker,Electronics,Arjun Rao,4,5000,3200,15,17000,12800,4200,Net Banking,Returned
+ORD0558,CUST0558,2025-05-02,Neha Gupta,New Delhi,Delhi,North,Printer,Office,Neha Gupta,1,15000,11500,7,13950,11500,2450,UPI,Returned
+ORD0559,CUST0559,2025-03-06,Pooja Das,Jaipur,Rajasthan,North,Printer,Office,Neha Gupta,4,15000,11500,18,49200,46000,3200,Net Banking,Cancelled
+ORD0560,CUST0560,2025-05-19,Vikram Singh,Jaipur,Rajasthan,North,Keyboard,Accessories,Amit Sharma,10,1500,900,26,11100,9000,2100,UPI,Returned
+ORD0561,CUST0561,2024-12-22,Divya Menon,New Delhi,Delhi,North,Monitor,Office,Karan Singh,6,18000,14000,21,85320,84000,1320,Net Banking,Delivered
+ORD0562,CUST0562,2024-11-19,Karan Joshi,Jaipur,Rajasthan,North,Tablet,Electronics,Amit Sharma,7,25000,20000,0,175000,140000,35000,Net Banking,Delivered
+ORD0563,CUST0563,2024-01-04,Deepika Roy,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Rahul Verma,1,65000,52000,17,53950,52000,1950,Credit Card,In Transit
+ORD0564,CUST0564,2025-03-12,Sneha Nair,Bengaluru,Karnataka,South,Speaker,Electronics,Sneha Patil,10,5000,3200,24,38000,32000,6000,Credit Card,Cancelled
+ORD0565,CUST0565,2024-10-03,Karan Joshi,Mumbai,Maharashtra,West,Smartphone,Electronics,Sneha Patil,7,35000,28000,5,232750,196000,36750,Credit Card,Delivered
+ORD0566,CUST0566,2024-02-06,Aditya Mishra,Surat,Gujarat,West,Laptop,Electronics,Priya Nair,9,65000,52000,19,473850,468000,5850,Cash,Returned
+ORD0567,CUST0567,2025-11-23,Neha Gupta,Ahmedabad,Gujarat,West,Monitor,Office,Amit Sharma,8,18000,14000,1,142560,112000,30560,Cash,Returned
+ORD0568,CUST0568,2024-06-05,Neha Gupta,Jaipur,Rajasthan,North,Tablet,Electronics,Amit Sharma,3,25000,20000,30,52500,60000,-7500,Credit Card,Cancelled
+ORD0569,CUST0569,2024-02-13,Divya Menon,Ahmedabad,Gujarat,West,Printer,Office,Vikram Joshi,8,15000,11500,23,92400,92000,400,UPI,Delivered
+ORD0570,CUST0570,2024-08-26,Nikhil Jain,Jaipur,Rajasthan,North,Tablet,Electronics,Pooja Das,10,25000,20000,4,240000,200000,40000,Cash,Delivered
+ORD0571,CUST0571,2025-03-22,Rohan Kulkarni,Pune,Maharashtra,West,Laptop,Electronics,Neha Gupta,2,65000,52000,11,115700,104000,11700,Cash,In Transit
+ORD0572,CUST0572,2025-12-09,Meera Shah,Coimbatore,Tamil Nadu,South,Monitor,Office,Vikram Joshi,6,18000,14000,4,103680,84000,19680,Debit Card,Cancelled
+ORD0573,CUST0573,2024-04-22,Neha Gupta,Kolkata,West Bengal,East,Speaker,Electronics,Neha Gupta,7,5000,3200,18,28700,22400,6300,UPI,In Transit
+ORD0574,CUST0574,2024-07-12,Deepika Roy,Bengaluru,Karnataka,South,Printer,Office,Amit Sharma,9,15000,11500,10,121500,103500,18000,Debit Card,In Transit
+ORD0575,CUST0575,2024-01-15,Vikram Singh,Surat,Gujarat,West,Smartphone,Electronics,Arjun Rao,6,35000,28000,9,191100,168000,23100,Net Banking,Returned
+ORD0576,CUST0576,2024-08-27,Vikram Singh,Mumbai,Maharashtra,West,Smartwatch,Wearables,Neha Gupta,8,12000,8500,23,73920,68000,5920,Debit Card,Returned
+ORD0577,CUST0577,2025-05-23,Nikhil Jain,Kolkata,West Bengal,East,Keyboard,Accessories,Vikram Joshi,5,1500,900,6,7050,4500,2550,Debit Card,In Transit
+ORD0578,CUST0578,2024-06-28,Divya Menon,Warangal,Telangana,South,Monitor,Office,Priya Nair,9,18000,14000,22,126360,126000,360,Credit Card,Delivered
+ORD0579,CUST0579,2025-08-20,Priya Patel,Ahmedabad,Gujarat,West,Printer,Office,Karan Singh,10,15000,11500,15,127500,115000,12500,Debit Card,Cancelled
+ORD0580,CUST0580,2024-12-12,Meera Shah,New Delhi,Delhi,North,Speaker,Electronics,Amit Sharma,6,5000,3200,29,21300,19200,2100,Debit Card,Returned
+ORD0581,CUST0581,2025-10-25,Vikram Singh,Chennai,Tamil Nadu,South,Monitor,Office,Vikram Joshi,8,18000,14000,25,108000,112000,-4000,Debit Card,Cancelled
+ORD0582,CUST0582,2025-07-09,Priya Patel,Ahmedabad,Gujarat,West,Speaker,Electronics,Pooja Das,9,5000,3200,11,40050,28800,11250,Credit Card,Delivered
+ORD0583,CUST0583,2024-11-10,Anjali Rao,New Delhi,Delhi,North,Mouse,Accessories,Karan Singh,6,800,450,24,3648,2700,948,Debit Card,In Transit
+ORD0584,CUST0584,2025-08-07,Vikram Singh,Ahmedabad,Gujarat,West,Laptop,Electronics,Priya Nair,9,65000,52000,9,532350,468000,64350,Cash,Delivered
+ORD0585,CUST0585,2024-05-19,Rahul Sharma,Bengaluru,Karnataka,South,Smartwatch,Wearables,Sneha Patil,1,12000,8500,6,11280,8500,2780,Cash,Returned
+ORD0586,CUST0586,2025-07-30,Arjun Mehta,Jaipur,Rajasthan,North,Smartwatch,Wearables,Pooja Das,1,12000,8500,3,11640,8500,3140,Debit Card,In Transit
+ORD0587,CUST0587,2025-06-25,Sneha Nair,Warangal,Telangana,South,Headphones,Accessories,Vikram Joshi,9,3000,1800,8,24840,16200,8640,Cash,Cancelled
+ORD0588,CUST0588,2024-07-21,Aditya Mishra,Mysuru,Karnataka,South,Laptop,Electronics,Arjun Rao,7,65000,52000,19,368550,364000,4550,Cash,Returned
+ORD0589,CUST0589,2024-01-09,Amit Kumar,Bengaluru,Karnataka,South,Monitor,Office,Vikram Joshi,5,18000,14000,30,63000,70000,-7000,Credit Card,In Transit
+ORD0590,CUST0590,2024-04-06,Aditya Mishra,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Sneha Patil,4,1500,900,1,5940,3600,2340,Cash,Cancelled
+ORD0591,CUST0591,2025-11-27,Meera Shah,Surat,Gujarat,West,Headphones,Accessories,Sneha Patil,6,3000,1800,29,12780,10800,1980,UPI,In Transit
+ORD0592,CUST0592,2024-12-22,Neha Gupta,New Delhi,Delhi,North,Printer,Office,Anjali Mehta,8,15000,11500,22,93600,92000,1600,Credit Card,Cancelled
+ORD0593,CUST0593,2024-01-25,Rohan Kulkarni,Jaipur,Rajasthan,North,Tablet,Electronics,Arjun Rao,5,25000,20000,7,116250,100000,16250,UPI,In Transit
+ORD0594,CUST0594,2025-05-02,Neha Gupta,Chennai,Tamil Nadu,South,Keyboard,Accessories,Sneha Patil,7,1500,900,23,8085,6300,1785,Net Banking,Cancelled
+ORD0595,CUST0595,2024-08-25,Suresh Iyer,New Delhi,Delhi,North,Smartphone,Electronics,Rahul Verma,2,35000,28000,13,60900,56000,4900,Net Banking,Delivered
+ORD0596,CUST0596,2025-06-10,Arjun Mehta,Chennai,Tamil Nadu,South,Laptop,Electronics,Vikram Joshi,2,65000,52000,29,92300,104000,-11700,Cash,Cancelled
+ORD0597,CUST0597,2024-01-22,Neha Gupta,Chennai,Tamil Nadu,South,Headphones,Accessories,Neha Gupta,6,3000,1800,13,15660,10800,4860,Credit Card,Cancelled
+ORD0598,CUST0598,2025-03-30,Pooja Das,Hyderabad,Telangana,South,Smartwatch,Wearables,Karan Singh,8,12000,8500,30,67200,68000,-800,Credit Card,Cancelled
+ORD0599,CUST0599,2024-09-03,Vikram Singh,Mysuru,Karnataka,South,Speaker,Electronics,Amit Sharma,2,5000,3200,19,8100,6400,1700,UPI,Cancelled
+ORD0600,CUST0600,2025-09-06,Rohan Kulkarni,Jaipur,Rajasthan,North,Printer,Office,Pooja Das,3,15000,11500,24,34200,34500,-300,Debit Card,In Transit
+ORD0601,CUST0601,2024-02-07,Amit Kumar,Jaipur,Rajasthan,North,Smartphone,Electronics,Karan Singh,9,35000,28000,25,236250,252000,-15750,UPI,Delivered
+ORD0602,CUST0602,2025-05-31,Nikhil Jain,Pune,Maharashtra,West,Monitor,Office,Anjali Mehta,9,18000,14000,15,137700,126000,11700,Debit Card,Returned
+ORD0603,CUST0603,2024-12-29,Suresh Iyer,New Delhi,Delhi,North,Smartphone,Electronics,Sneha Patil,9,35000,28000,29,223650,252000,-28350,UPI,Delivered
+ORD0604,CUST0604,2024-01-04,Rahul Sharma,Pune,Maharashtra,West,Laptop,Electronics,Pooja Das,5,65000,52000,0,325000,260000,65000,Credit Card,In Transit
+ORD0605,CUST0605,2024-09-30,Neha Gupta,Hyderabad,Telangana,South,Laptop,Electronics,Karan Singh,8,65000,52000,5,494000,416000,78000,Net Banking,Cancelled
+ORD0606,CUST0606,2025-02-12,Kavya Reddy,Hyderabad,Telangana,South,Smartwatch,Wearables,Amit Sharma,6,12000,8500,11,64080,51000,13080,Cash,Delivered
+ORD0607,CUST0607,2025-06-17,Divya Menon,Mysuru,Karnataka,South,Speaker,Electronics,Neha Gupta,4,5000,3200,26,14800,12800,2000,Cash,Returned
+ORD0608,CUST0608,2024-04-25,Rohit Verma,Mumbai,Maharashtra,West,Mouse,Accessories,Sneha Patil,3,800,450,11,2136,1350,786,Net Banking,Delivered
+ORD0609,CUST0609,2024-05-25,Rohit Verma,Coimbatore,Tamil Nadu,South,Printer,Office,Sneha Patil,6,15000,11500,6,84600,69000,15600,Credit Card,In Transit
+ORD0610,CUST0610,2025-09-24,Aditya Mishra,Chennai,Tamil Nadu,South,Speaker,Electronics,Priya Nair,1,5000,3200,13,4350,3200,1150,Credit Card,Cancelled
+ORD0611,CUST0611,2025-12-11,Rohan Kulkarni,Surat,Gujarat,West,Mouse,Accessories,Pooja Das,8,800,450,4,6144,3600,2544,Debit Card,Delivered
+ORD0612,CUST0612,2024-08-04,Aisha Khan,Kolkata,West Bengal,East,Smartwatch,Wearables,Sneha Patil,6,12000,8500,17,59760,51000,8760,Debit Card,In Transit
+ORD0613,CUST0613,2024-06-08,Divya Menon,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Pooja Das,5,12000,8500,3,58200,42500,15700,UPI,Cancelled
+ORD0614,CUST0614,2024-11-27,Pooja Das,Chennai,Tamil Nadu,South,Headphones,Accessories,Vikram Joshi,6,3000,1800,21,14220,10800,3420,Net Banking,In Transit
+ORD0615,CUST0615,2024-04-16,Rahul Sharma,Mumbai,Maharashtra,West,Speaker,Electronics,Amit Sharma,1,5000,3200,2,4900,3200,1700,Cash,Returned
+ORD0616,CUST0616,2024-09-26,Kavya Reddy,Chennai,Tamil Nadu,South,Laptop,Electronics,Arjun Rao,5,65000,52000,28,234000,260000,-26000,UPI,Cancelled
+ORD0617,CUST0617,2025-03-04,Meera Shah,Mumbai,Maharashtra,West,Speaker,Electronics,Arjun Rao,7,5000,3200,14,30100,22400,7700,Debit Card,Returned
+ORD0618,CUST0618,2025-09-21,Rohan Kulkarni,Jaipur,Rajasthan,North,Tablet,Electronics,Rahul Verma,7,25000,20000,10,157500,140000,17500,Debit Card,In Transit
+ORD0619,CUST0619,2025-09-12,Rohit Verma,Ahmedabad,Gujarat,West,Laptop,Electronics,Anjali Mehta,1,65000,52000,19,52650,52000,650,Credit Card,Delivered
+ORD0620,CUST0620,2024-04-08,Rohit Verma,Mumbai,Maharashtra,West,Headphones,Accessories,Karan Singh,3,3000,1800,8,8280,5400,2880,Net Banking,Returned
+ORD0621,CUST0621,2024-02-25,Aisha Khan,Hyderabad,Telangana,South,Smartphone,Electronics,Sneha Patil,6,35000,28000,7,195300,168000,27300,Cash,Returned
+ORD0622,CUST0622,2025-02-13,Aisha Khan,New Delhi,Delhi,North,Keyboard,Accessories,Priya Nair,4,1500,900,6,5640,3600,2040,Credit Card,Cancelled
+ORD0623,CUST0623,2024-11-04,Suresh Iyer,Ahmedabad,Gujarat,West,Tablet,Electronics,Karan Singh,6,25000,20000,12,132000,120000,12000,Debit Card,In Transit
+ORD0624,CUST0624,2024-05-31,Rahul Sharma,Warangal,Telangana,South,Smartwatch,Wearables,Arjun Rao,5,12000,8500,27,43800,42500,1300,Credit Card,Cancelled
+ORD0625,CUST0625,2025-07-30,Neha Gupta,Ahmedabad,Gujarat,West,Tablet,Electronics,Amit Sharma,9,25000,20000,14,193500,180000,13500,UPI,Returned
+ORD0626,CUST0626,2025-09-12,Priya Patel,Warangal,Telangana,South,Printer,Office,Arjun Rao,4,15000,11500,3,58200,46000,12200,Net Banking,Returned
+ORD0627,CUST0627,2025-04-16,Divya Menon,Jaipur,Rajasthan,North,Keyboard,Accessories,Neha Gupta,10,1500,900,30,10500,9000,1500,UPI,Cancelled
+ORD0628,CUST0628,2025-04-01,Vikram Singh,Ahmedabad,Gujarat,West,Mouse,Accessories,Sneha Patil,1,800,450,15,680,450,230,Cash,Returned
+ORD0629,CUST0629,2024-03-06,Karan Joshi,Surat,Gujarat,West,Headphones,Accessories,Vikram Joshi,7,3000,1800,12,18480,12600,5880,Net Banking,Returned
+ORD0630,CUST0630,2024-09-26,Kavya Reddy,Kolkata,West Bengal,East,Headphones,Accessories,Sneha Patil,4,3000,1800,20,9600,7200,2400,Cash,In Transit
+ORD0631,CUST0631,2025-08-25,Kavya Reddy,Ahmedabad,Gujarat,West,Keyboard,Accessories,Arjun Rao,4,1500,900,9,5460,3600,1860,UPI,Delivered
+ORD0632,CUST0632,2024-10-23,Priya Patel,Mumbai,Maharashtra,West,Keyboard,Accessories,Karan Singh,6,1500,900,4,8640,5400,3240,UPI,Returned
+ORD0633,CUST0633,2024-07-20,Suresh Iyer,Coimbatore,Tamil Nadu,South,Printer,Office,Priya Nair,10,15000,11500,1,148500,115000,33500,Credit Card,Returned
+ORD0634,CUST0634,2025-07-17,Aisha Khan,Jaipur,Rajasthan,North,Printer,Office,Vikram Joshi,10,15000,11500,13,130500,115000,15500,Net Banking,Returned
+ORD0635,CUST0635,2025-12-13,Kavya Reddy,Warangal,Telangana,South,Smartphone,Electronics,Anjali Mehta,10,35000,28000,4,336000,280000,56000,Net Banking,Delivered
+ORD0636,CUST0636,2024-03-12,Vikram Singh,Mumbai,Maharashtra,West,Printer,Office,Anjali Mehta,6,15000,11500,19,72900,69000,3900,UPI,In Transit
+ORD0637,CUST0637,2025-04-06,Nikhil Jain,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Vikram Joshi,6,65000,52000,10,351000,312000,39000,Cash,Delivered
+ORD0638,CUST0638,2025-08-20,Deepika Roy,Mysuru,Karnataka,South,Mouse,Accessories,Rahul Verma,10,800,450,3,7760,4500,3260,Net Banking,Delivered
+ORD0639,CUST0639,2025-07-30,Deepika Roy,New Delhi,Delhi,North,Monitor,Office,Pooja Das,9,18000,14000,10,145800,126000,19800,Cash,Cancelled
+ORD0640,CUST0640,2025-11-28,Deepika Roy,Jaipur,Rajasthan,North,Laptop,Electronics,Neha Gupta,8,65000,52000,22,405600,416000,-10400,UPI,In Transit
+ORD0641,CUST0641,2024-04-25,Arjun Mehta,Jaipur,Rajasthan,North,Keyboard,Accessories,Neha Gupta,9,1500,900,29,9585,8100,1485,Net Banking,In Transit
+ORD0642,CUST0642,2025-03-31,Aditya Mishra,Hyderabad,Telangana,South,Keyboard,Accessories,Neha Gupta,8,1500,900,7,11160,7200,3960,Net Banking,Returned
+ORD0643,CUST0643,2025-08-28,Deepika Roy,New Delhi,Delhi,North,Laptop,Electronics,Sneha Patil,10,65000,52000,24,494000,520000,-26000,Debit Card,Cancelled
+ORD0644,CUST0644,2025-05-29,Neha Gupta,Hyderabad,Telangana,South,Headphones,Accessories,Vikram Joshi,10,3000,1800,7,27900,18000,9900,UPI,In Transit
+ORD0645,CUST0645,2025-09-05,Arjun Mehta,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Vikram Joshi,8,35000,28000,27,204400,224000,-19600,Debit Card,In Transit
+ORD0646,CUST0646,2024-08-25,Rohan Kulkarni,Hyderabad,Telangana,South,Monitor,Office,Pooja Das,9,18000,14000,17,134460,126000,8460,Net Banking,Returned
+ORD0647,CUST0647,2025-12-15,Deepika Roy,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Karan Singh,10,12000,8500,14,103200,85000,18200,Net Banking,Cancelled
+ORD0648,CUST0648,2025-11-26,Rohan Kulkarni,Warangal,Telangana,South,Tablet,Electronics,Arjun Rao,4,25000,20000,4,96000,80000,16000,Debit Card,Delivered
+ORD0649,CUST0649,2025-06-22,Priya Patel,Mysuru,Karnataka,South,Speaker,Electronics,Neha Gupta,9,5000,3200,2,44100,28800,15300,Debit Card,Cancelled
+ORD0650,CUST0650,2025-04-20,Neha Gupta,Surat,Gujarat,West,Printer,Office,Arjun Rao,3,15000,11500,21,35550,34500,1050,Net Banking,Delivered
+ORD0651,CUST0651,2025-11-05,Arjun Mehta,Pune,Maharashtra,West,Headphones,Accessories,Neha Gupta,7,3000,1800,3,20370,12600,7770,Cash,Returned
+ORD0652,CUST0652,2025-01-31,Meera Shah,Kolkata,West Bengal,East,Keyboard,Accessories,Sneha Patil,9,1500,900,19,10935,8100,2835,Cash,Returned
+ORD0653,CUST0653,2025-08-18,Vikram Singh,Chennai,Tamil Nadu,South,Printer,Office,Amit Sharma,4,15000,11500,20,48000,46000,2000,Net Banking,Cancelled
+ORD0654,CUST0654,2024-01-11,Amit Kumar,Warangal,Telangana,South,Speaker,Electronics,Amit Sharma,7,5000,3200,14,30100,22400,7700,Debit Card,Cancelled
+ORD0655,CUST0655,2024-12-14,Amit Kumar,Mumbai,Maharashtra,West,Keyboard,Accessories,Vikram Joshi,1,1500,900,20,1200,900,300,Credit Card,Returned
+ORD0656,CUST0656,2025-07-03,Pooja Das,Mumbai,Maharashtra,West,Headphones,Accessories,Neha Gupta,6,3000,1800,21,14220,10800,3420,Net Banking,Delivered
+ORD0657,CUST0657,2025-03-21,Meera Shah,Ahmedabad,Gujarat,West,Mouse,Accessories,Priya Nair,3,800,450,14,2064,1350,714,Net Banking,In Transit
+ORD0658,CUST0658,2025-02-22,Priya Patel,Hyderabad,Telangana,South,Tablet,Electronics,Rahul Verma,6,25000,20000,6,141000,120000,21000,UPI,In Transit
+ORD0659,CUST0659,2024-10-01,Aditya Mishra,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Pooja Das,6,25000,20000,27,109500,120000,-10500,Net Banking,Cancelled
+ORD0660,CUST0660,2024-11-05,Suresh Iyer,Mumbai,Maharashtra,West,Monitor,Office,Neha Gupta,3,18000,14000,6,50760,42000,8760,Cash,In Transit
+ORD0661,CUST0661,2024-09-03,Nikhil Jain,New Delhi,Delhi,North,Smartphone,Electronics,Karan Singh,9,35000,28000,30,220500,252000,-31500,Debit Card,Cancelled
+ORD0662,CUST0662,2024-09-11,Rahul Sharma,Surat,Gujarat,West,Keyboard,Accessories,Anjali Mehta,4,1500,900,15,5100,3600,1500,Net Banking,In Transit
+ORD0663,CUST0663,2024-10-19,Deepika Roy,Mumbai,Maharashtra,West,Keyboard,Accessories,Rahul Verma,9,1500,900,27,9855,8100,1755,Credit Card,Returned
+ORD0664,CUST0664,2025-02-15,Rohit Verma,Mysuru,Karnataka,South,Keyboard,Accessories,Karan Singh,3,1500,900,1,4455,2700,1755,UPI,Delivered
+ORD0665,CUST0665,2025-03-27,Aditya Mishra,Kolkata,West Bengal,East,Smartwatch,Wearables,Rahul Verma,1,12000,8500,27,8760,8500,260,Debit Card,Cancelled
+ORD0666,CUST0666,2024-10-16,Meera Shah,New Delhi,Delhi,North,Printer,Office,Anjali Mehta,3,15000,11500,27,32850,34500,-1650,Credit Card,Returned
+ORD0667,CUST0667,2024-01-30,Priya Patel,Jaipur,Rajasthan,North,Speaker,Electronics,Anjali Mehta,3,5000,3200,2,14700,9600,5100,Debit Card,Cancelled
+ORD0668,CUST0668,2024-09-07,Kavya Reddy,Bengaluru,Karnataka,South,Speaker,Electronics,Amit Sharma,3,5000,3200,9,13650,9600,4050,Debit Card,Cancelled
+ORD0669,CUST0669,2025-05-24,Divya Menon,Jaipur,Rajasthan,North,Laptop,Electronics,Pooja Das,7,65000,52000,10,409500,364000,45500,Debit Card,In Transit
+ORD0670,CUST0670,2025-01-07,Rahul Sharma,Mumbai,Maharashtra,West,Mouse,Accessories,Anjali Mehta,10,800,450,1,7920,4500,3420,Cash,Returned
+ORD0671,CUST0671,2024-04-11,Suresh Iyer,Pune,Maharashtra,West,Printer,Office,Priya Nair,6,15000,11500,23,69300,69000,300,Debit Card,Returned
+ORD0672,CUST0672,2024-11-12,Rohit Verma,Jaipur,Rajasthan,North,Laptop,Electronics,Priya Nair,9,65000,52000,20,468000,468000,0,Credit Card,Returned
+ORD0673,CUST0673,2024-12-12,Meera Shah,Bengaluru,Karnataka,South,Speaker,Electronics,Arjun Rao,5,5000,3200,15,21250,16000,5250,Credit Card,In Transit
+ORD0674,CUST0674,2025-09-10,Pooja Das,Surat,Gujarat,West,Keyboard,Accessories,Neha Gupta,3,1500,900,14,3870,2700,1170,Credit Card,Returned
+ORD0675,CUST0675,2025-07-26,Kavya Reddy,Hyderabad,Telangana,South,Smartwatch,Wearables,Anjali Mehta,8,12000,8500,18,78720,68000,10720,Net Banking,In Transit
+ORD0676,CUST0676,2024-11-13,Anjali Rao,Hyderabad,Telangana,South,Mouse,Accessories,Priya Nair,10,800,450,3,7760,4500,3260,UPI,Delivered
+ORD0677,CUST0677,2024-07-23,Arjun Mehta,Ahmedabad,Gujarat,West,Laptop,Electronics,Rahul Verma,1,65000,52000,4,62400,52000,10400,Net Banking,Returned
+ORD0678,CUST0678,2024-09-23,Suresh Iyer,Mysuru,Karnataka,South,Printer,Office,Anjali Mehta,2,15000,11500,3,29100,23000,6100,UPI,Delivered
+ORD0679,CUST0679,2024-11-27,Rohit Verma,Pune,Maharashtra,West,Keyboard,Accessories,Amit Sharma,6,1500,900,4,8640,5400,3240,UPI,Returned
+ORD0680,CUST0680,2025-09-01,Priya Patel,Pune,Maharashtra,West,Mouse,Accessories,Neha Gupta,9,800,450,15,6120,4050,2070,Credit Card,Cancelled
+ORD0681,CUST0681,2025-05-09,Anjali Rao,Mysuru,Karnataka,South,Keyboard,Accessories,Arjun Rao,1,1500,900,15,1275,900,375,Debit Card,In Transit
+ORD0682,CUST0682,2025-10-14,Kavya Reddy,New Delhi,Delhi,North,Headphones,Accessories,Anjali Mehta,5,3000,1800,17,12450,9000,3450,Cash,In Transit
+ORD0683,CUST0683,2024-03-02,Sneha Nair,Chennai,Tamil Nadu,South,Laptop,Electronics,Pooja Das,2,65000,52000,17,107900,104000,3900,Debit Card,In Transit
+ORD0684,CUST0684,2025-01-12,Suresh Iyer,Ahmedabad,Gujarat,West,Smartphone,Electronics,Vikram Joshi,4,35000,28000,20,112000,112000,0,Cash,Cancelled
+ORD0685,CUST0685,2025-05-03,Vikram Singh,Hyderabad,Telangana,South,Smartphone,Electronics,Priya Nair,3,35000,28000,3,101850,84000,17850,Net Banking,Cancelled
+ORD0686,CUST0686,2024-04-03,Meera Shah,Mysuru,Karnataka,South,Speaker,Electronics,Rahul Verma,7,5000,3200,22,27300,22400,4900,Cash,In Transit
+ORD0687,CUST0687,2025-03-15,Karan Joshi,Jaipur,Rajasthan,North,Laptop,Electronics,Amit Sharma,8,65000,52000,23,400400,416000,-15600,Net Banking,In Transit
+ORD0688,CUST0688,2024-07-02,Meera Shah,Kolkata,West Bengal,East,Smartphone,Electronics,Anjali Mehta,8,35000,28000,27,204400,224000,-19600,Credit Card,Cancelled
+ORD0689,CUST0689,2025-01-04,Aisha Khan,Bengaluru,Karnataka,South,Monitor,Office,Arjun Rao,8,18000,14000,28,103680,112000,-8320,Net Banking,Delivered
+ORD0690,CUST0690,2024-08-17,Rohit Verma,Surat,Gujarat,West,Mouse,Accessories,Neha Gupta,5,800,450,10,3600,2250,1350,Cash,Cancelled
+ORD0691,CUST0691,2025-12-10,Sneha Nair,Surat,Gujarat,West,Smartphone,Electronics,Sneha Patil,5,35000,28000,0,175000,140000,35000,Cash,In Transit
+ORD0692,CUST0692,2025-03-02,Divya Menon,Bengaluru,Karnataka,South,Smartwatch,Wearables,Anjali Mehta,8,12000,8500,23,73920,68000,5920,Net Banking,In Transit
+ORD0693,CUST0693,2025-05-15,Meera Shah,Surat,Gujarat,West,Smartwatch,Wearables,Priya Nair,3,12000,8500,12,31680,25500,6180,Cash,Cancelled
+ORD0694,CUST0694,2024-06-27,Aisha Khan,Surat,Gujarat,West,Laptop,Electronics,Anjali Mehta,3,65000,52000,21,154050,156000,-1950,Cash,Cancelled
+ORD0695,CUST0695,2024-07-03,Priya Patel,Surat,Gujarat,West,Printer,Office,Sneha Patil,6,15000,11500,27,65700,69000,-3300,Net Banking,In Transit
+ORD0696,CUST0696,2025-10-13,Pooja Das,Ahmedabad,Gujarat,West,Headphones,Accessories,Arjun Rao,9,3000,1800,11,24030,16200,7830,Net Banking,Returned
+ORD0697,CUST0697,2024-01-08,Aditya Mishra,Surat,Gujarat,West,Mouse,Accessories,Pooja Das,3,800,450,24,1824,1350,474,UPI,Delivered
+ORD0698,CUST0698,2025-05-15,Sneha Nair,Chennai,Tamil Nadu,South,Keyboard,Accessories,Vikram Joshi,1,1500,900,16,1260,900,360,Net Banking,Cancelled
+ORD0699,CUST0699,2025-12-29,Suresh Iyer,Chennai,Tamil Nadu,South,Headphones,Accessories,Amit Sharma,1,3000,1800,4,2880,1800,1080,Net Banking,In Transit
+ORD0700,CUST0700,2025-04-16,Divya Menon,Ahmedabad,Gujarat,West,Mouse,Accessories,Karan Singh,10,800,450,23,6160,4500,1660,Debit Card,Cancelled
+ORD0701,CUST0701,2024-02-20,Neha Gupta,Jaipur,Rajasthan,North,Tablet,Electronics,Priya Nair,2,25000,20000,19,40500,40000,500,Debit Card,Cancelled
+ORD0702,CUST0702,2025-11-26,Aditya Mishra,Kolkata,West Bengal,East,Headphones,Accessories,Arjun Rao,8,3000,1800,21,18960,14400,4560,Net Banking,Returned
+ORD0703,CUST0703,2025-08-02,Aisha Khan,Bengaluru,Karnataka,South,Printer,Office,Rahul Verma,6,15000,11500,8,82800,69000,13800,UPI,Delivered
+ORD0704,CUST0704,2024-04-19,Neha Gupta,Mumbai,Maharashtra,West,Tablet,Electronics,Arjun Rao,6,25000,20000,27,109500,120000,-10500,Cash,Delivered
+ORD0705,CUST0705,2024-05-24,Pooja Das,Warangal,Telangana,South,Printer,Office,Anjali Mehta,4,15000,11500,27,43800,46000,-2200,Cash,Delivered
+ORD0706,CUST0706,2025-12-21,Vikram Singh,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Rahul Verma,7,1500,900,15,8925,6300,2625,Net Banking,Returned
+ORD0707,CUST0707,2024-03-10,Sneha Nair,Jaipur,Rajasthan,North,Smartwatch,Wearables,Sneha Patil,8,12000,8500,15,81600,68000,13600,Credit Card,In Transit
+ORD0708,CUST0708,2025-07-11,Kavya Reddy,Mumbai,Maharashtra,West,Smartwatch,Wearables,Anjali Mehta,4,12000,8500,15,40800,34000,6800,Cash,Delivered
+ORD0709,CUST0709,2024-02-12,Meera Shah,New Delhi,Delhi,North,Keyboard,Accessories,Sneha Patil,9,1500,900,18,11070,8100,2970,Cash,In Transit
+ORD0710,CUST0710,2024-07-08,Aditya Mishra,New Delhi,Delhi,North,Mouse,Accessories,Vikram Joshi,9,800,450,19,5832,4050,1782,UPI,Delivered
+ORD0711,CUST0711,2024-01-27,Arjun Mehta,Bengaluru,Karnataka,South,Printer,Office,Karan Singh,8,15000,11500,16,100800,92000,8800,Debit Card,Cancelled
+ORD0712,CUST0712,2025-07-22,Suresh Iyer,New Delhi,Delhi,North,Keyboard,Accessories,Anjali Mehta,8,1500,900,23,9240,7200,2040,UPI,Returned
+ORD0713,CUST0713,2025-08-17,Suresh Iyer,Bengaluru,Karnataka,South,Tablet,Electronics,Pooja Das,3,25000,20000,29,53250,60000,-6750,Cash,Delivered
+ORD0714,CUST0714,2024-12-05,Pooja Das,Chennai,Tamil Nadu,South,Printer,Office,Rahul Verma,3,15000,11500,24,34200,34500,-300,Credit Card,Returned
+ORD0715,CUST0715,2024-01-03,Arjun Mehta,Mumbai,Maharashtra,West,Headphones,Accessories,Sneha Patil,7,3000,1800,28,15120,12600,2520,Cash,Delivered
+ORD0716,CUST0716,2025-12-30,Anjali Rao,Mumbai,Maharashtra,West,Headphones,Accessories,Arjun Rao,4,3000,1800,17,9960,7200,2760,Credit Card,Delivered
+ORD0717,CUST0717,2024-11-25,Arjun Mehta,Kolkata,West Bengal,East,Laptop,Electronics,Rahul Verma,7,65000,52000,13,395850,364000,31850,Credit Card,Delivered
+ORD0718,CUST0718,2025-11-03,Vikram Singh,Mumbai,Maharashtra,West,Tablet,Electronics,Arjun Rao,2,25000,20000,25,37500,40000,-2500,Debit Card,In Transit
+ORD0719,CUST0719,2025-10-06,Aditya Mishra,Bengaluru,Karnataka,South,Mouse,Accessories,Arjun Rao,1,800,450,0,800,450,350,Cash,In Transit
+ORD0720,CUST0720,2025-03-03,Aisha Khan,Hyderabad,Telangana,South,Mouse,Accessories,Anjali Mehta,10,800,450,5,7600,4500,3100,Debit Card,Cancelled
+ORD0721,CUST0721,2024-05-02,Priya Patel,Kolkata,West Bengal,East,Monitor,Office,Neha Gupta,4,18000,14000,4,69120,56000,13120,Credit Card,In Transit
+ORD0722,CUST0722,2025-09-11,Priya Patel,Jaipur,Rajasthan,North,Printer,Office,Sneha Patil,1,15000,11500,24,11400,11500,-100,Cash,Cancelled
+ORD0723,CUST0723,2025-02-07,Vikram Singh,Hyderabad,Telangana,South,Tablet,Electronics,Anjali Mehta,3,25000,20000,27,54750,60000,-5250,Net Banking,Cancelled
+ORD0724,CUST0724,2025-01-12,Deepika Roy,New Delhi,Delhi,North,Smartphone,Electronics,Anjali Mehta,1,35000,28000,12,30800,28000,2800,Credit Card,In Transit
+ORD0725,CUST0725,2024-01-02,Meera Shah,Jaipur,Rajasthan,North,Keyboard,Accessories,Pooja Das,7,1500,900,6,9870,6300,3570,Net Banking,In Transit
+ORD0726,CUST0726,2024-01-22,Aisha Khan,Jaipur,Rajasthan,North,Smartphone,Electronics,Priya Nair,10,35000,28000,11,311500,280000,31500,Debit Card,Cancelled
+ORD0727,CUST0727,2024-09-23,Meera Shah,Jaipur,Rajasthan,North,Tablet,Electronics,Arjun Rao,6,25000,20000,24,114000,120000,-6000,Credit Card,Cancelled
+ORD0728,CUST0728,2024-04-12,Kavya Reddy,Hyderabad,Telangana,South,Laptop,Electronics,Neha Gupta,5,65000,52000,29,230750,260000,-29250,Net Banking,Delivered
+ORD0729,CUST0729,2025-03-30,Sneha Nair,Chennai,Tamil Nadu,South,Smartphone,Electronics,Neha Gupta,9,35000,28000,25,236250,252000,-15750,Net Banking,Returned
+ORD0730,CUST0730,2025-01-24,Meera Shah,Mysuru,Karnataka,South,Smartwatch,Wearables,Priya Nair,10,12000,8500,14,103200,85000,18200,Cash,Cancelled
+ORD0731,CUST0731,2025-09-25,Priya Patel,Bengaluru,Karnataka,South,Laptop,Electronics,Anjali Mehta,6,65000,52000,23,300300,312000,-11700,Credit Card,Delivered
+ORD0732,CUST0732,2024-01-06,Rahul Sharma,Jaipur,Rajasthan,North,Keyboard,Accessories,Priya Nair,9,1500,900,12,11880,8100,3780,Net Banking,Cancelled
+ORD0733,CUST0733,2025-08-15,Karan Joshi,Ahmedabad,Gujarat,West,Mouse,Accessories,Priya Nair,2,800,450,19,1296,900,396,Debit Card,Cancelled
+ORD0734,CUST0734,2024-04-30,Priya Patel,New Delhi,Delhi,North,Tablet,Electronics,Rahul Verma,4,25000,20000,28,72000,80000,-8000,UPI,Cancelled
+ORD0735,CUST0735,2024-09-18,Kavya Reddy,New Delhi,Delhi,North,Smartwatch,Wearables,Arjun Rao,2,12000,8500,20,19200,17000,2200,UPI,Delivered
+ORD0736,CUST0736,2024-05-02,Vikram Singh,Ahmedabad,Gujarat,West,Headphones,Accessories,Neha Gupta,7,3000,1800,3,20370,12600,7770,Net Banking,In Transit
+ORD0737,CUST0737,2025-07-03,Aisha Khan,Hyderabad,Telangana,South,Tablet,Electronics,Pooja Das,7,25000,20000,28,126000,140000,-14000,Net Banking,In Transit
+ORD0738,CUST0738,2025-05-25,Divya Menon,Surat,Gujarat,West,Monitor,Office,Vikram Joshi,9,18000,14000,7,150660,126000,24660,Cash,In Transit
+ORD0739,CUST0739,2025-08-19,Amit Kumar,Bengaluru,Karnataka,South,Printer,Office,Arjun Rao,7,15000,11500,18,86100,80500,5600,Debit Card,Cancelled
+ORD0740,CUST0740,2024-03-18,Nikhil Jain,Bengaluru,Karnataka,South,Smartphone,Electronics,Neha Gupta,7,35000,28000,30,171500,196000,-24500,Net Banking,Delivered
+ORD0741,CUST0741,2024-01-03,Amit Kumar,Surat,Gujarat,West,Smartwatch,Wearables,Vikram Joshi,10,12000,8500,27,87600,85000,2600,Credit Card,Returned
+ORD0742,CUST0742,2024-02-23,Rahul Sharma,Surat,Gujarat,West,Speaker,Electronics,Anjali Mehta,1,5000,3200,18,4100,3200,900,Cash,Returned
+ORD0743,CUST0743,2025-07-18,Nikhil Jain,Bengaluru,Karnataka,South,Speaker,Electronics,Amit Sharma,10,5000,3200,0,50000,32000,18000,Net Banking,Returned
+ORD0744,CUST0744,2024-01-01,Sneha Nair,Bengaluru,Karnataka,South,Smartwatch,Wearables,Arjun Rao,7,12000,8500,27,61320,59500,1820,Credit Card,In Transit
+ORD0745,CUST0745,2025-04-09,Nikhil Jain,Chennai,Tamil Nadu,South,Monitor,Office,Amit Sharma,1,18000,14000,6,16920,14000,2920,Debit Card,In Transit
+ORD0746,CUST0746,2024-03-03,Rahul Sharma,Kolkata,West Bengal,East,Tablet,Electronics,Priya Nair,1,25000,20000,7,23250,20000,3250,Debit Card,Cancelled
+ORD0747,CUST0747,2025-02-09,Nikhil Jain,Chennai,Tamil Nadu,South,Laptop,Electronics,Neha Gupta,5,65000,52000,8,299000,260000,39000,Net Banking,In Transit
+ORD0748,CUST0748,2024-08-29,Rahul Sharma,Surat,Gujarat,West,Laptop,Electronics,Arjun Rao,2,65000,52000,28,93600,104000,-10400,Credit Card,In Transit
+ORD0749,CUST0749,2024-09-17,Kavya Reddy,Mysuru,Karnataka,South,Tablet,Electronics,Vikram Joshi,5,25000,20000,17,103750,100000,3750,Cash,Cancelled
+ORD0750,CUST0750,2024-05-22,Aditya Mishra,Ahmedabad,Gujarat,West,Laptop,Electronics,Rahul Verma,2,65000,52000,17,107900,104000,3900,Net Banking,Cancelled
+ORD0751,CUST0751,2024-12-05,Priya Patel,Kolkata,West Bengal,East,Speaker,Electronics,Sneha Patil,5,5000,3200,23,19250,16000,3250,Cash,Returned
+ORD0752,CUST0752,2025-09-23,Rohan Kulkarni,Jaipur,Rajasthan,North,Printer,Office,Sneha Patil,5,15000,11500,14,64500,57500,7000,Net Banking,Returned
+ORD0753,CUST0753,2025-11-06,Neha Gupta,Mumbai,Maharashtra,West,Tablet,Electronics,Pooja Das,2,25000,20000,10,45000,40000,5000,UPI,Cancelled
+ORD0754,CUST0754,2024-06-18,Priya Patel,Chennai,Tamil Nadu,South,Mouse,Accessories,Priya Nair,5,800,450,30,2800,2250,550,Debit Card,In Transit
+ORD0755,CUST0755,2024-02-15,Divya Menon,Pune,Maharashtra,West,Tablet,Electronics,Pooja Das,10,25000,20000,10,225000,200000,25000,Cash,Delivered
+ORD0756,CUST0756,2025-12-14,Priya Patel,Jaipur,Rajasthan,North,Headphones,Accessories,Vikram Joshi,10,3000,1800,23,23100,18000,5100,Cash,Returned
+ORD0757,CUST0757,2025-11-16,Rohit Verma,Mumbai,Maharashtra,West,Speaker,Electronics,Neha Gupta,4,5000,3200,7,18600,12800,5800,Cash,Delivered
+ORD0758,CUST0758,2025-06-09,Suresh Iyer,New Delhi,Delhi,North,Laptop,Electronics,Pooja Das,5,65000,52000,30,227500,260000,-32500,Credit Card,In Transit
+ORD0759,CUST0759,2024-10-30,Priya Patel,Warangal,Telangana,South,Headphones,Accessories,Vikram Joshi,3,3000,1800,8,8280,5400,2880,Net Banking,Cancelled
+ORD0760,CUST0760,2025-08-09,Neha Gupta,Ahmedabad,Gujarat,West,Laptop,Electronics,Neha Gupta,7,65000,52000,8,418600,364000,54600,UPI,Returned
+ORD0761,CUST0761,2024-11-18,Rahul Sharma,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Vikram Joshi,5,1500,900,18,6150,4500,1650,Credit Card,In Transit
+ORD0762,CUST0762,2025-10-07,Meera Shah,Hyderabad,Telangana,South,Keyboard,Accessories,Priya Nair,8,1500,900,27,8760,7200,1560,Net Banking,Cancelled
+ORD0763,CUST0763,2024-07-22,Priya Patel,Mumbai,Maharashtra,West,Headphones,Accessories,Karan Singh,4,3000,1800,2,11760,7200,4560,Cash,Delivered
+ORD0764,CUST0764,2024-11-15,Aisha Khan,Mysuru,Karnataka,South,Monitor,Office,Sneha Patil,3,18000,14000,20,43200,42000,1200,Debit Card,Returned
+ORD0765,CUST0765,2024-08-04,Aditya Mishra,Mumbai,Maharashtra,West,Headphones,Accessories,Sneha Patil,2,3000,1800,22,4680,3600,1080,Cash,Delivered
+ORD0766,CUST0766,2025-01-09,Kavya Reddy,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Arjun Rao,6,3000,1800,2,17640,10800,6840,Credit Card,Returned
+ORD0767,CUST0767,2025-03-06,Rahul Sharma,Chennai,Tamil Nadu,South,Keyboard,Accessories,Neha Gupta,8,1500,900,7,11160,7200,3960,Cash,Cancelled
+ORD0768,CUST0768,2024-06-04,Aditya Mishra,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Sneha Patil,1,65000,52000,9,59150,52000,7150,Debit Card,Returned
+ORD0769,CUST0769,2025-05-01,Neha Gupta,Pune,Maharashtra,West,Speaker,Electronics,Anjali Mehta,3,5000,3200,9,13650,9600,4050,Net Banking,Delivered
+ORD0770,CUST0770,2025-08-31,Divya Menon,Hyderabad,Telangana,South,Mouse,Accessories,Sneha Patil,5,800,450,3,3880,2250,1630,Debit Card,In Transit
+ORD0771,CUST0771,2025-10-30,Nikhil Jain,Warangal,Telangana,South,Headphones,Accessories,Amit Sharma,5,3000,1800,20,12000,9000,3000,Credit Card,Returned
+ORD0772,CUST0772,2025-09-05,Divya Menon,Mysuru,Karnataka,South,Printer,Office,Priya Nair,9,15000,11500,16,113400,103500,9900,Debit Card,Delivered
+ORD0773,CUST0773,2025-08-02,Kavya Reddy,Hyderabad,Telangana,South,Speaker,Electronics,Anjali Mehta,10,5000,3200,17,41500,32000,9500,UPI,Returned
+ORD0774,CUST0774,2024-11-05,Priya Patel,Chennai,Tamil Nadu,South,Tablet,Electronics,Priya Nair,2,25000,20000,29,35500,40000,-4500,Net Banking,Delivered
+ORD0775,CUST0775,2025-08-06,Sneha Nair,Warangal,Telangana,South,Printer,Office,Arjun Rao,5,15000,11500,17,62250,57500,4750,Credit Card,Cancelled
+ORD0776,CUST0776,2024-11-09,Rahul Sharma,Jaipur,Rajasthan,North,Mouse,Accessories,Vikram Joshi,2,800,450,13,1392,900,492,Net Banking,Returned
+ORD0777,CUST0777,2025-02-07,Meera Shah,Chennai,Tamil Nadu,South,Monitor,Office,Arjun Rao,8,18000,14000,2,141120,112000,29120,Debit Card,In Transit
+ORD0778,CUST0778,2025-03-27,Meera Shah,Bengaluru,Karnataka,South,Printer,Office,Karan Singh,8,15000,11500,18,98400,92000,6400,Debit Card,In Transit
+ORD0779,CUST0779,2024-05-20,Pooja Das,Pune,Maharashtra,West,Laptop,Electronics,Priya Nair,4,65000,52000,6,244400,208000,36400,Credit Card,Cancelled
+ORD0780,CUST0780,2025-11-18,Meera Shah,Jaipur,Rajasthan,North,Tablet,Electronics,Anjali Mehta,3,25000,20000,30,52500,60000,-7500,Cash,Delivered
+ORD0781,CUST0781,2024-04-14,Rohan Kulkarni,Mumbai,Maharashtra,West,Tablet,Electronics,Arjun Rao,10,25000,20000,26,185000,200000,-15000,UPI,Returned
+ORD0782,CUST0782,2024-05-18,Aditya Mishra,Chennai,Tamil Nadu,South,Smartphone,Electronics,Rahul Verma,10,35000,28000,21,276500,280000,-3500,Debit Card,Cancelled
+ORD0783,CUST0783,2024-06-01,Anjali Rao,Surat,Gujarat,West,Smartwatch,Wearables,Arjun Rao,6,12000,8500,8,66240,51000,15240,UPI,Delivered
+ORD0784,CUST0784,2025-06-28,Kavya Reddy,Mysuru,Karnataka,South,Monitor,Office,Anjali Mehta,6,18000,14000,23,83160,84000,-840,Net Banking,In Transit
+ORD0785,CUST0785,2025-07-30,Pooja Das,Surat,Gujarat,West,Laptop,Electronics,Amit Sharma,2,65000,52000,14,111800,104000,7800,UPI,Cancelled
+ORD0786,CUST0786,2025-10-06,Divya Menon,Mysuru,Karnataka,South,Keyboard,Accessories,Pooja Das,5,1500,900,15,6375,4500,1875,Debit Card,Cancelled
+ORD0787,CUST0787,2025-05-14,Vikram Singh,Hyderabad,Telangana,South,Smartphone,Electronics,Amit Sharma,5,35000,28000,7,162750,140000,22750,Cash,Delivered
+ORD0788,CUST0788,2024-08-23,Suresh Iyer,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Anjali Mehta,5,12000,8500,15,51000,42500,8500,Cash,In Transit
+ORD0789,CUST0789,2025-06-08,Nikhil Jain,Mumbai,Maharashtra,West,Mouse,Accessories,Anjali Mehta,7,800,450,8,5152,3150,2002,UPI,In Transit
+ORD0790,CUST0790,2025-11-19,Pooja Das,New Delhi,Delhi,North,Laptop,Electronics,Neha Gupta,3,65000,52000,18,159900,156000,3900,Credit Card,Returned
+ORD0791,CUST0791,2025-12-31,Rohit Verma,New Delhi,Delhi,North,Mouse,Accessories,Vikram Joshi,6,800,450,1,4752,2700,2052,UPI,Delivered
+ORD0792,CUST0792,2024-05-16,Kavya Reddy,Chennai,Tamil Nadu,South,Speaker,Electronics,Pooja Das,4,5000,3200,21,15800,12800,3000,Net Banking,Delivered
+ORD0793,CUST0793,2024-01-20,Aisha Khan,Pune,Maharashtra,West,Laptop,Electronics,Neha Gupta,8,65000,52000,23,400400,416000,-15600,Debit Card,Returned
+ORD0794,CUST0794,2025-10-31,Anjali Rao,New Delhi,Delhi,North,Speaker,Electronics,Sneha Patil,1,5000,3200,17,4150,3200,950,Credit Card,Delivered
+ORD0795,CUST0795,2024-12-23,Aisha Khan,Coimbatore,Tamil Nadu,South,Smartwatch,Wearables,Neha Gupta,4,12000,8500,22,37440,34000,3440,Credit Card,Cancelled
+ORD0796,CUST0796,2025-12-09,Arjun Mehta,Pune,Maharashtra,West,Mouse,Accessories,Priya Nair,3,800,450,20,1920,1350,570,Cash,Cancelled
+ORD0797,CUST0797,2024-03-24,Rohan Kulkarni,Mysuru,Karnataka,South,Smartwatch,Wearables,Priya Nair,3,12000,8500,21,28440,25500,2940,Credit Card,Cancelled
+ORD0798,CUST0798,2025-05-19,Amit Kumar,Warangal,Telangana,South,Tablet,Electronics,Neha Gupta,5,25000,20000,10,112500,100000,12500,Net Banking,Cancelled
+ORD0799,CUST0799,2025-04-28,Kavya Reddy,Jaipur,Rajasthan,North,Mouse,Accessories,Pooja Das,4,800,450,26,2368,1800,568,Debit Card,In Transit
+ORD0800,CUST0800,2024-05-31,Karan Joshi,Chennai,Tamil Nadu,South,Smartphone,Electronics,Neha Gupta,4,35000,28000,26,103600,112000,-8400,Debit Card,Returned
+ORD0801,CUST0801,2025-02-14,Arjun Mehta,Hyderabad,Telangana,South,Headphones,Accessories,Rahul Verma,7,3000,1800,26,15540,12600,2940,Debit Card,In Transit
+ORD0802,CUST0802,2025-10-19,Rahul Sharma,New Delhi,Delhi,North,Mouse,Accessories,Rahul Verma,3,800,450,21,1896,1350,546,Debit Card,Delivered
+ORD0803,CUST0803,2024-09-23,Pooja Das,Bengaluru,Karnataka,South,Smartphone,Electronics,Amit Sharma,9,35000,28000,8,289800,252000,37800,Credit Card,Delivered
+ORD0804,CUST0804,2025-11-17,Amit Kumar,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Karan Singh,4,35000,28000,5,133000,112000,21000,Debit Card,Cancelled
+ORD0805,CUST0805,2024-12-02,Vikram Singh,Ahmedabad,Gujarat,West,Laptop,Electronics,Pooja Das,9,65000,52000,22,456300,468000,-11700,Cash,Returned
+ORD0806,CUST0806,2025-05-12,Priya Patel,Kolkata,West Bengal,East,Monitor,Office,Anjali Mehta,1,18000,14000,26,13320,14000,-680,UPI,Delivered
+ORD0807,CUST0807,2025-05-05,Karan Joshi,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Amit Sharma,8,12000,8500,1,95040,68000,27040,UPI,Cancelled
+ORD0808,CUST0808,2025-03-20,Rohan Kulkarni,Bengaluru,Karnataka,South,Laptop,Electronics,Pooja Das,3,65000,52000,16,163800,156000,7800,Credit Card,Cancelled
+ORD0809,CUST0809,2025-12-16,Suresh Iyer,Chennai,Tamil Nadu,South,Monitor,Office,Vikram Joshi,8,18000,14000,18,118080,112000,6080,Cash,In Transit
+ORD0810,CUST0810,2025-09-07,Karan Joshi,Warangal,Telangana,South,Keyboard,Accessories,Amit Sharma,10,1500,900,20,12000,9000,3000,Net Banking,Cancelled
+ORD0811,CUST0811,2025-04-22,Pooja Das,Hyderabad,Telangana,South,Tablet,Electronics,Rahul Verma,5,25000,20000,4,120000,100000,20000,Credit Card,Returned
+ORD0812,CUST0812,2025-08-18,Divya Menon,Coimbatore,Tamil Nadu,South,Speaker,Electronics,Amit Sharma,9,5000,3200,27,32850,28800,4050,Net Banking,Returned
+ORD0813,CUST0813,2024-04-20,Aisha Khan,Mysuru,Karnataka,South,Laptop,Electronics,Karan Singh,3,65000,52000,15,165750,156000,9750,Credit Card,Delivered
+ORD0814,CUST0814,2025-11-17,Deepika Roy,Kolkata,West Bengal,East,Smartwatch,Wearables,Amit Sharma,10,12000,8500,25,90000,85000,5000,Debit Card,Delivered
+ORD0815,CUST0815,2024-01-24,Anjali Rao,Kolkata,West Bengal,East,Laptop,Electronics,Pooja Das,5,65000,52000,3,315250,260000,55250,Credit Card,Cancelled
+ORD0816,CUST0816,2024-07-03,Aisha Khan,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Vikram Joshi,7,3000,1800,11,18690,12600,6090,Cash,In Transit
+ORD0817,CUST0817,2025-05-01,Rahul Sharma,Chennai,Tamil Nadu,South,Speaker,Electronics,Arjun Rao,4,5000,3200,9,18200,12800,5400,UPI,In Transit
+ORD0818,CUST0818,2025-02-20,Aisha Khan,Mysuru,Karnataka,South,Smartphone,Electronics,Priya Nair,4,35000,28000,21,110600,112000,-1400,Net Banking,Returned
+ORD0819,CUST0819,2025-10-02,Vikram Singh,Jaipur,Rajasthan,North,Headphones,Accessories,Vikram Joshi,10,3000,1800,27,21900,18000,3900,Net Banking,Returned
+ORD0820,CUST0820,2024-06-16,Meera Shah,Kolkata,West Bengal,East,Headphones,Accessories,Amit Sharma,9,3000,1800,7,25110,16200,8910,Net Banking,In Transit
+ORD0821,CUST0821,2025-08-15,Arjun Mehta,Chennai,Tamil Nadu,South,Monitor,Office,Arjun Rao,5,18000,14000,30,63000,70000,-7000,UPI,Returned
+ORD0822,CUST0822,2024-02-04,Arjun Mehta,New Delhi,Delhi,North,Printer,Office,Arjun Rao,10,15000,11500,17,124500,115000,9500,Credit Card,In Transit
+ORD0823,CUST0823,2024-08-04,Vikram Singh,Hyderabad,Telangana,South,Printer,Office,Rahul Verma,6,15000,11500,20,72000,69000,3000,UPI,Delivered
+ORD0824,CUST0824,2024-10-23,Amit Kumar,Pune,Maharashtra,West,Speaker,Electronics,Neha Gupta,10,5000,3200,24,38000,32000,6000,Credit Card,In Transit
+ORD0825,CUST0825,2025-02-17,Nikhil Jain,Surat,Gujarat,West,Smartphone,Electronics,Priya Nair,7,35000,28000,25,183750,196000,-12250,Net Banking,Returned
+ORD0826,CUST0826,2024-08-28,Suresh Iyer,Kolkata,West Bengal,East,Speaker,Electronics,Karan Singh,1,5000,3200,3,4850,3200,1650,Debit Card,Delivered
+ORD0827,CUST0827,2024-09-20,Sneha Nair,New Delhi,Delhi,North,Mouse,Accessories,Arjun Rao,7,800,450,20,4480,3150,1330,UPI,Delivered
+ORD0828,CUST0828,2025-07-12,Rohan Kulkarni,Coimbatore,Tamil Nadu,South,Tablet,Electronics,Karan Singh,6,25000,20000,20,120000,120000,0,UPI,Cancelled
+ORD0829,CUST0829,2024-11-22,Kavya Reddy,Warangal,Telangana,South,Monitor,Office,Rahul Verma,2,18000,14000,6,33840,28000,5840,Net Banking,Cancelled
+ORD0830,CUST0830,2024-07-28,Karan Joshi,Bengaluru,Karnataka,South,Smartphone,Electronics,Vikram Joshi,5,35000,28000,30,122500,140000,-17500,UPI,In Transit
+ORD0831,CUST0831,2024-09-07,Deepika Roy,Coimbatore,Tamil Nadu,South,Printer,Office,Karan Singh,1,15000,11500,14,12900,11500,1400,UPI,Delivered
+ORD0832,CUST0832,2024-01-08,Pooja Das,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Anjali Mehta,9,12000,8500,24,82080,76500,5580,UPI,Returned
+ORD0833,CUST0833,2025-07-01,Amit Kumar,Hyderabad,Telangana,South,Monitor,Office,Rahul Verma,8,18000,14000,4,138240,112000,26240,Net Banking,Delivered
+ORD0834,CUST0834,2024-02-12,Rahul Sharma,Ahmedabad,Gujarat,West,Smartphone,Electronics,Anjali Mehta,2,35000,28000,11,62300,56000,6300,Net Banking,Returned
+ORD0835,CUST0835,2025-05-26,Arjun Mehta,Mysuru,Karnataka,South,Printer,Office,Vikram Joshi,7,15000,11500,21,82950,80500,2450,Debit Card,In Transit
+ORD0836,CUST0836,2024-12-28,Rahul Sharma,Coimbatore,Tamil Nadu,South,Speaker,Electronics,Karan Singh,7,5000,3200,25,26250,22400,3850,Debit Card,Cancelled
+ORD0837,CUST0837,2025-09-23,Aditya Mishra,Hyderabad,Telangana,South,Headphones,Accessories,Vikram Joshi,2,3000,1800,17,4980,3600,1380,Net Banking,In Transit
+ORD0838,CUST0838,2024-10-19,Pooja Das,Kolkata,West Bengal,East,Mouse,Accessories,Rahul Verma,1,800,450,14,688,450,238,Credit Card,Returned
+ORD0839,CUST0839,2024-07-01,Kavya Reddy,Mumbai,Maharashtra,West,Keyboard,Accessories,Amit Sharma,8,1500,900,16,10080,7200,2880,Cash,Returned
+ORD0840,CUST0840,2024-06-05,Vikram Singh,Ahmedabad,Gujarat,West,Printer,Office,Arjun Rao,10,15000,11500,17,124500,115000,9500,Cash,In Transit
+ORD0841,CUST0841,2024-04-05,Deepika Roy,Mysuru,Karnataka,South,Printer,Office,Neha Gupta,2,15000,11500,3,29100,23000,6100,Net Banking,In Transit
+ORD0842,CUST0842,2024-02-09,Aisha Khan,Jaipur,Rajasthan,North,Tablet,Electronics,Pooja Das,3,25000,20000,30,52500,60000,-7500,UPI,Delivered
+ORD0843,CUST0843,2025-09-15,Pooja Das,Chennai,Tamil Nadu,South,Keyboard,Accessories,Anjali Mehta,5,1500,900,13,6525,4500,2025,UPI,Returned
+ORD0844,CUST0844,2025-04-23,Divya Menon,Hyderabad,Telangana,South,Tablet,Electronics,Karan Singh,2,25000,20000,27,36500,40000,-3500,Debit Card,Cancelled
+ORD0845,CUST0845,2025-10-26,Divya Menon,Kolkata,West Bengal,East,Speaker,Electronics,Sneha Patil,10,5000,3200,7,46500,32000,14500,Net Banking,Cancelled
+ORD0846,CUST0846,2025-12-19,Arjun Mehta,Jaipur,Rajasthan,North,Speaker,Electronics,Sneha Patil,9,5000,3200,5,42750,28800,13950,Net Banking,In Transit
+ORD0847,CUST0847,2025-06-02,Rahul Sharma,Jaipur,Rajasthan,North,Smartphone,Electronics,Priya Nair,6,35000,28000,1,207900,168000,39900,UPI,In Transit
+ORD0848,CUST0848,2024-01-14,Aisha Khan,Jaipur,Rajasthan,North,Tablet,Electronics,Priya Nair,4,25000,20000,24,76000,80000,-4000,Net Banking,Returned
+ORD0849,CUST0849,2025-08-30,Anjali Rao,Mumbai,Maharashtra,West,Tablet,Electronics,Pooja Das,1,25000,20000,28,18000,20000,-2000,Debit Card,Cancelled
+ORD0850,CUST0850,2024-01-18,Amit Kumar,Mysuru,Karnataka,South,Printer,Office,Amit Sharma,4,15000,11500,22,46800,46000,800,Debit Card,Returned
+ORD0851,CUST0851,2025-08-09,Rohit Verma,Jaipur,Rajasthan,North,Headphones,Accessories,Rahul Verma,5,3000,1800,0,15000,9000,6000,Debit Card,Delivered
+ORD0852,CUST0852,2024-01-21,Pooja Das,Chennai,Tamil Nadu,South,Tablet,Electronics,Priya Nair,3,25000,20000,6,70500,60000,10500,Credit Card,Returned
+ORD0853,CUST0853,2024-04-04,Amit Kumar,Mumbai,Maharashtra,West,Headphones,Accessories,Anjali Mehta,1,3000,1800,22,2340,1800,540,Credit Card,Cancelled
+ORD0854,CUST0854,2025-10-12,Sneha Nair,Warangal,Telangana,South,Headphones,Accessories,Priya Nair,5,3000,1800,8,13800,9000,4800,Cash,Returned
+ORD0855,CUST0855,2024-02-05,Rohit Verma,Mumbai,Maharashtra,West,Mouse,Accessories,Pooja Das,2,800,450,13,1392,900,492,UPI,Cancelled
+ORD0856,CUST0856,2024-11-08,Sneha Nair,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Anjali Mehta,5,35000,28000,1,173250,140000,33250,Net Banking,Cancelled
+ORD0857,CUST0857,2024-10-02,Deepika Roy,Ahmedabad,Gujarat,West,Headphones,Accessories,Priya Nair,2,3000,1800,12,5280,3600,1680,UPI,Cancelled
+ORD0858,CUST0858,2024-03-08,Aditya Mishra,Surat,Gujarat,West,Monitor,Office,Rahul Verma,6,18000,14000,13,93960,84000,9960,Credit Card,In Transit
+ORD0859,CUST0859,2025-12-05,Aditya Mishra,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Arjun Rao,6,1500,900,20,7200,5400,1800,Credit Card,Returned
+ORD0860,CUST0860,2025-04-25,Meera Shah,Kolkata,West Bengal,East,Tablet,Electronics,Vikram Joshi,2,25000,20000,1,49500,40000,9500,Debit Card,In Transit
+ORD0861,CUST0861,2025-11-16,Pooja Das,Hyderabad,Telangana,South,Tablet,Electronics,Anjali Mehta,4,25000,20000,0,100000,80000,20000,Credit Card,Cancelled
+ORD0862,CUST0862,2025-01-11,Nikhil Jain,Kolkata,West Bengal,East,Mouse,Accessories,Amit Sharma,8,800,450,3,6208,3600,2608,Debit Card,In Transit
+ORD0863,CUST0863,2025-09-19,Rahul Sharma,Jaipur,Rajasthan,North,Headphones,Accessories,Rahul Verma,1,3000,1800,2,2940,1800,1140,Net Banking,Cancelled
+ORD0864,CUST0864,2025-09-11,Vikram Singh,Hyderabad,Telangana,South,Headphones,Accessories,Pooja Das,5,3000,1800,23,11550,9000,2550,Cash,Delivered
+ORD0865,CUST0865,2024-03-12,Divya Menon,Mysuru,Karnataka,South,Speaker,Electronics,Anjali Mehta,1,5000,3200,6,4700,3200,1500,Credit Card,Cancelled
+ORD0866,CUST0866,2025-11-03,Karan Joshi,Pune,Maharashtra,West,Mouse,Accessories,Pooja Das,4,800,450,28,2304,1800,504,UPI,Returned
+ORD0867,CUST0867,2024-10-26,Rahul Sharma,Chennai,Tamil Nadu,South,Laptop,Electronics,Sneha Patil,1,65000,52000,21,51350,52000,-650,Debit Card,Delivered
+ORD0868,CUST0868,2025-04-14,Karan Joshi,Mysuru,Karnataka,South,Smartwatch,Wearables,Anjali Mehta,7,12000,8500,15,71400,59500,11900,Credit Card,Delivered
+ORD0869,CUST0869,2024-07-31,Vikram Singh,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Vikram Joshi,4,12000,8500,7,44640,34000,10640,Credit Card,Returned
+ORD0870,CUST0870,2024-09-22,Rohan Kulkarni,Surat,Gujarat,West,Smartwatch,Wearables,Arjun Rao,3,12000,8500,24,27360,25500,1860,UPI,Cancelled
+ORD0871,CUST0871,2025-03-04,Aisha Khan,Surat,Gujarat,West,Keyboard,Accessories,Priya Nair,6,1500,900,21,7110,5400,1710,UPI,Delivered
+ORD0872,CUST0872,2025-10-22,Divya Menon,Mysuru,Karnataka,South,Headphones,Accessories,Pooja Das,4,3000,1800,23,9240,7200,2040,UPI,Returned
+ORD0873,CUST0873,2024-08-10,Rahul Sharma,Pune,Maharashtra,West,Smartwatch,Wearables,Pooja Das,1,12000,8500,2,11760,8500,3260,UPI,In Transit
+ORD0874,CUST0874,2024-05-17,Neha Gupta,Hyderabad,Telangana,South,Headphones,Accessories,Priya Nair,4,3000,1800,16,10080,7200,2880,Cash,Delivered
+ORD0875,CUST0875,2025-10-26,Suresh Iyer,Surat,Gujarat,West,Speaker,Electronics,Pooja Das,6,5000,3200,12,26400,19200,7200,UPI,In Transit
+ORD0876,CUST0876,2025-03-21,Suresh Iyer,Warangal,Telangana,South,Speaker,Electronics,Amit Sharma,1,5000,3200,17,4150,3200,950,Debit Card,In Transit
+ORD0877,CUST0877,2025-12-22,Arjun Mehta,Mumbai,Maharashtra,West,Tablet,Electronics,Anjali Mehta,4,25000,20000,29,71000,80000,-9000,Cash,Returned
+ORD0878,CUST0878,2024-11-22,Deepika Roy,Hyderabad,Telangana,South,Headphones,Accessories,Karan Singh,8,3000,1800,29,17040,14400,2640,Cash,Delivered
+ORD0879,CUST0879,2024-01-29,Arjun Mehta,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Karan Singh,3,1500,900,15,3825,2700,1125,UPI,Returned
+ORD0880,CUST0880,2025-04-16,Amit Kumar,Jaipur,Rajasthan,North,Smartphone,Electronics,Rahul Verma,6,35000,28000,5,199500,168000,31500,UPI,Cancelled
+ORD0881,CUST0881,2024-09-12,Rohan Kulkarni,Coimbatore,Tamil Nadu,South,Keyboard,Accessories,Rahul Verma,2,1500,900,4,2880,1800,1080,Credit Card,Delivered
+ORD0882,CUST0882,2025-02-02,Anjali Rao,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Karan Singh,10,65000,52000,27,474500,520000,-45500,Credit Card,Cancelled
+ORD0883,CUST0883,2024-03-25,Rohit Verma,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Sneha Patil,6,800,450,8,4416,2700,1716,Credit Card,In Transit
+ORD0884,CUST0884,2025-07-04,Meera Shah,Jaipur,Rajasthan,North,Tablet,Electronics,Arjun Rao,10,25000,20000,2,245000,200000,45000,Cash,In Transit
+ORD0885,CUST0885,2025-05-14,Suresh Iyer,New Delhi,Delhi,North,Printer,Office,Amit Sharma,8,15000,11500,21,94800,92000,2800,Net Banking,Cancelled
+ORD0886,CUST0886,2024-01-06,Rohan Kulkarni,Jaipur,Rajasthan,North,Mouse,Accessories,Priya Nair,3,800,450,18,1968,1350,618,Credit Card,Returned
+ORD0887,CUST0887,2025-07-30,Neha Gupta,Pune,Maharashtra,West,Printer,Office,Vikram Joshi,10,15000,11500,5,142500,115000,27500,Net Banking,Returned
+ORD0888,CUST0888,2024-12-29,Amit Kumar,Mysuru,Karnataka,South,Smartwatch,Wearables,Pooja Das,9,12000,8500,24,82080,76500,5580,Cash,In Transit
+ORD0889,CUST0889,2025-11-17,Rohit Verma,Chennai,Tamil Nadu,South,Printer,Office,Priya Nair,10,15000,11500,12,132000,115000,17000,Credit Card,Cancelled
+ORD0890,CUST0890,2025-08-31,Vikram Singh,Surat,Gujarat,West,Laptop,Electronics,Rahul Verma,5,65000,52000,4,312000,260000,52000,Credit Card,In Transit
+ORD0891,CUST0891,2024-08-22,Arjun Mehta,Ahmedabad,Gujarat,West,Speaker,Electronics,Rahul Verma,10,5000,3200,18,41000,32000,9000,UPI,In Transit
+ORD0892,CUST0892,2024-06-18,Nikhil Jain,Warangal,Telangana,South,Printer,Office,Amit Sharma,5,15000,11500,12,66000,57500,8500,Debit Card,Delivered
+ORD0893,CUST0893,2025-07-11,Amit Kumar,Ahmedabad,Gujarat,West,Laptop,Electronics,Karan Singh,1,65000,52000,7,60450,52000,8450,Cash,Delivered
+ORD0894,CUST0894,2024-01-31,Aditya Mishra,Chennai,Tamil Nadu,South,Smartwatch,Wearables,Arjun Rao,4,12000,8500,12,42240,34000,8240,UPI,Cancelled
+ORD0895,CUST0895,2025-01-01,Neha Gupta,Surat,Gujarat,West,Printer,Office,Vikram Joshi,5,15000,11500,5,71250,57500,13750,Debit Card,Returned
+ORD0896,CUST0896,2025-08-13,Sneha Nair,Warangal,Telangana,South,Monitor,Office,Anjali Mehta,1,18000,14000,28,12960,14000,-1040,Credit Card,Returned
+ORD0897,CUST0897,2025-07-31,Rohan Kulkarni,Mysuru,Karnataka,South,Laptop,Electronics,Vikram Joshi,4,65000,52000,12,228800,208000,20800,Net Banking,Delivered
+ORD0898,CUST0898,2024-10-22,Aisha Khan,Mysuru,Karnataka,South,Laptop,Electronics,Karan Singh,7,65000,52000,11,404950,364000,40950,Debit Card,Cancelled
+ORD0899,CUST0899,2024-05-27,Priya Patel,Hyderabad,Telangana,South,Speaker,Electronics,Anjali Mehta,3,5000,3200,17,12450,9600,2850,Net Banking,In Transit
+ORD0900,CUST0900,2025-10-26,Aditya Mishra,Surat,Gujarat,West,Keyboard,Accessories,Sneha Patil,4,1500,900,17,4980,3600,1380,UPI,Delivered
+ORD0901,CUST0901,2024-09-11,Meera Shah,Pune,Maharashtra,West,Keyboard,Accessories,Pooja Das,7,1500,900,9,9555,6300,3255,Cash,Returned
+ORD0902,CUST0902,2024-03-31,Aditya Mishra,Jaipur,Rajasthan,North,Headphones,Accessories,Priya Nair,4,3000,1800,1,11880,7200,4680,Cash,Delivered
+ORD0903,CUST0903,2025-12-27,Divya Menon,Surat,Gujarat,West,Tablet,Electronics,Pooja Das,8,25000,20000,9,182000,160000,22000,UPI,Cancelled
+ORD0904,CUST0904,2025-09-05,Divya Menon,New Delhi,Delhi,North,Monitor,Office,Priya Nair,6,18000,14000,23,83160,84000,-840,Net Banking,In Transit
+ORD0905,CUST0905,2024-01-11,Pooja Das,Kolkata,West Bengal,East,Mouse,Accessories,Amit Sharma,8,800,450,1,6336,3600,2736,Credit Card,Cancelled
+ORD0906,CUST0906,2024-08-23,Arjun Mehta,Kolkata,West Bengal,East,Keyboard,Accessories,Sneha Patil,10,1500,900,6,14100,9000,5100,UPI,Cancelled
+ORD0907,CUST0907,2025-05-18,Neha Gupta,Surat,Gujarat,West,Keyboard,Accessories,Neha Gupta,3,1500,900,14,3870,2700,1170,Credit Card,Delivered
+ORD0908,CUST0908,2024-01-26,Rahul Sharma,Mumbai,Maharashtra,West,Smartwatch,Wearables,Amit Sharma,7,12000,8500,3,81480,59500,21980,Cash,Cancelled
+ORD0909,CUST0909,2024-07-21,Vikram Singh,Ahmedabad,Gujarat,West,Keyboard,Accessories,Amit Sharma,7,1500,900,5,9975,6300,3675,Credit Card,Delivered
+ORD0910,CUST0910,2024-12-07,Divya Menon,Chennai,Tamil Nadu,South,Mouse,Accessories,Pooja Das,9,800,450,15,6120,4050,2070,Credit Card,Cancelled
+ORD0911,CUST0911,2024-12-17,Rohit Verma,Jaipur,Rajasthan,North,Mouse,Accessories,Pooja Das,4,800,450,16,2688,1800,888,Cash,Cancelled
+ORD0912,CUST0912,2025-03-09,Suresh Iyer,Mumbai,Maharashtra,West,Headphones,Accessories,Vikram Joshi,2,3000,1800,24,4560,3600,960,UPI,Returned
+ORD0913,CUST0913,2025-07-25,Arjun Mehta,Pune,Maharashtra,West,Speaker,Electronics,Karan Singh,5,5000,3200,3,24250,16000,8250,UPI,In Transit
+ORD0914,CUST0914,2025-03-13,Sneha Nair,Kolkata,West Bengal,East,Headphones,Accessories,Karan Singh,9,3000,1800,24,20520,16200,4320,Credit Card,Returned
+ORD0915,CUST0915,2025-10-10,Aisha Khan,Pune,Maharashtra,West,Speaker,Electronics,Priya Nair,10,5000,3200,2,49000,32000,17000,Debit Card,In Transit
+ORD0916,CUST0916,2024-05-01,Priya Patel,Kolkata,West Bengal,East,Laptop,Electronics,Priya Nair,2,65000,52000,16,109200,104000,5200,UPI,Delivered
+ORD0917,CUST0917,2025-11-28,Rohan Kulkarni,Hyderabad,Telangana,South,Headphones,Accessories,Priya Nair,5,3000,1800,19,12150,9000,3150,Cash,Cancelled
+ORD0918,CUST0918,2024-10-16,Sneha Nair,Jaipur,Rajasthan,North,Monitor,Office,Pooja Das,5,18000,14000,13,78300,70000,8300,UPI,Returned
+ORD0919,CUST0919,2024-10-21,Rohit Verma,Pune,Maharashtra,West,Monitor,Office,Priya Nair,8,18000,14000,30,100800,112000,-11200,Net Banking,Delivered
+ORD0920,CUST0920,2024-06-07,Karan Joshi,Ahmedabad,Gujarat,West,Speaker,Electronics,Karan Singh,3,5000,3200,12,13200,9600,3600,Debit Card,Cancelled
+ORD0921,CUST0921,2025-05-01,Vikram Singh,Kolkata,West Bengal,East,Headphones,Accessories,Neha Gupta,3,3000,1800,29,6390,5400,990,UPI,Cancelled
+ORD0922,CUST0922,2025-09-21,Divya Menon,Mysuru,Karnataka,South,Headphones,Accessories,Arjun Rao,3,3000,1800,13,7830,5400,2430,Cash,In Transit
+ORD0923,CUST0923,2024-08-21,Amit Kumar,Bengaluru,Karnataka,South,Headphones,Accessories,Pooja Das,5,3000,1800,5,14250,9000,5250,Cash,In Transit
+ORD0924,CUST0924,2024-07-22,Anjali Rao,Mumbai,Maharashtra,West,Printer,Office,Anjali Mehta,9,15000,11500,18,110700,103500,7200,UPI,Returned
+ORD0925,CUST0925,2024-09-16,Deepika Roy,New Delhi,Delhi,North,Headphones,Accessories,Anjali Mehta,2,3000,1800,7,5580,3600,1980,Debit Card,Delivered
+ORD0926,CUST0926,2024-12-31,Rohit Verma,Kolkata,West Bengal,East,Monitor,Office,Anjali Mehta,7,18000,14000,6,118440,98000,20440,Credit Card,Returned
+ORD0927,CUST0927,2024-04-03,Rahul Sharma,Warangal,Telangana,South,Headphones,Accessories,Neha Gupta,6,3000,1800,10,16200,10800,5400,Debit Card,Delivered
+ORD0928,CUST0928,2024-11-18,Vikram Singh,Hyderabad,Telangana,South,Speaker,Electronics,Neha Gupta,8,5000,3200,19,32400,25600,6800,Credit Card,In Transit
+ORD0929,CUST0929,2024-03-02,Rohan Kulkarni,Mysuru,Karnataka,South,Smartwatch,Wearables,Sneha Patil,4,12000,8500,2,47040,34000,13040,Net Banking,In Transit
+ORD0930,CUST0930,2024-04-22,Meera Shah,Ahmedabad,Gujarat,West,Tablet,Electronics,Anjali Mehta,5,25000,20000,12,110000,100000,10000,Credit Card,Returned
+ORD0931,CUST0931,2024-12-25,Aditya Mishra,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Karan Singh,6,3000,1800,14,15480,10800,4680,UPI,In Transit
+ORD0932,CUST0932,2025-03-10,Rohan Kulkarni,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Karan Singh,10,65000,52000,23,500500,520000,-19500,Cash,Delivered
+ORD0933,CUST0933,2025-09-20,Divya Menon,Pune,Maharashtra,West,Tablet,Electronics,Sneha Patil,6,25000,20000,18,123000,120000,3000,Cash,Cancelled
+ORD0934,CUST0934,2024-10-22,Kavya Reddy,Mumbai,Maharashtra,West,Headphones,Accessories,Amit Sharma,8,3000,1800,4,23040,14400,8640,Credit Card,Delivered
+ORD0935,CUST0935,2025-02-01,Sneha Nair,New Delhi,Delhi,North,Smartphone,Electronics,Karan Singh,2,35000,28000,6,65800,56000,9800,Credit Card,Cancelled
+ORD0936,CUST0936,2024-01-05,Neha Gupta,Coimbatore,Tamil Nadu,South,Headphones,Accessories,Amit Sharma,9,3000,1800,27,19710,16200,3510,UPI,Cancelled
+ORD0937,CUST0937,2025-04-13,Deepika Roy,Ahmedabad,Gujarat,West,Speaker,Electronics,Karan Singh,4,5000,3200,3,19400,12800,6600,Net Banking,Cancelled
+ORD0938,CUST0938,2024-09-16,Rahul Sharma,Chennai,Tamil Nadu,South,Tablet,Electronics,Amit Sharma,9,25000,20000,9,204750,180000,24750,UPI,Delivered
+ORD0939,CUST0939,2024-11-21,Aditya Mishra,Chennai,Tamil Nadu,South,Keyboard,Accessories,Karan Singh,9,1500,900,12,11880,8100,3780,Credit Card,Delivered
+ORD0940,CUST0940,2025-03-06,Meera Shah,New Delhi,Delhi,North,Speaker,Electronics,Neha Gupta,4,5000,3200,29,14200,12800,1400,Debit Card,Delivered
+ORD0941,CUST0941,2025-11-17,Neha Gupta,Bengaluru,Karnataka,South,Mouse,Accessories,Neha Gupta,8,800,450,6,6016,3600,2416,Credit Card,Returned
+ORD0942,CUST0942,2024-05-20,Pooja Das,Bengaluru,Karnataka,South,Laptop,Electronics,Anjali Mehta,4,65000,52000,28,187200,208000,-20800,Net Banking,Delivered
+ORD0943,CUST0943,2025-03-21,Sneha Nair,Pune,Maharashtra,West,Smartwatch,Wearables,Anjali Mehta,10,12000,8500,0,120000,85000,35000,UPI,Returned
+ORD0944,CUST0944,2025-03-19,Pooja Das,Pune,Maharashtra,West,Smartwatch,Wearables,Pooja Das,9,12000,8500,29,76680,76500,180,Cash,In Transit
+ORD0945,CUST0945,2025-05-10,Aditya Mishra,Surat,Gujarat,West,Mouse,Accessories,Neha Gupta,3,800,450,13,2088,1350,738,Debit Card,Cancelled
+ORD0946,CUST0946,2025-01-31,Suresh Iyer,Ahmedabad,Gujarat,West,Tablet,Electronics,Vikram Joshi,5,25000,20000,4,120000,100000,20000,Debit Card,Returned
+ORD0947,CUST0947,2025-08-08,Rohit Verma,New Delhi,Delhi,North,Printer,Office,Karan Singh,10,15000,11500,18,123000,115000,8000,Credit Card,Returned
+ORD0948,CUST0948,2025-04-02,Meera Shah,Chennai,Tamil Nadu,South,Speaker,Electronics,Amit Sharma,1,5000,3200,28,3600,3200,400,Debit Card,Returned
+ORD0949,CUST0949,2025-04-01,Deepika Roy,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Anjali Mehta,9,35000,28000,8,289800,252000,37800,UPI,Cancelled
+ORD0950,CUST0950,2024-12-25,Neha Gupta,Ahmedabad,Gujarat,West,Monitor,Office,Sneha Patil,7,18000,14000,25,94500,98000,-3500,Net Banking,Delivered
+ORD0951,CUST0951,2024-05-05,Suresh Iyer,Mysuru,Karnataka,South,Laptop,Electronics,Sneha Patil,5,65000,52000,18,266500,260000,6500,Cash,Delivered
+ORD0952,CUST0952,2025-01-26,Kavya Reddy,Mysuru,Karnataka,South,Keyboard,Accessories,Sneha Patil,6,1500,900,7,8370,5400,2970,Net Banking,Cancelled
+ORD0953,CUST0953,2025-10-13,Aisha Khan,Kolkata,West Bengal,East,Smartwatch,Wearables,Pooja Das,6,12000,8500,16,60480,51000,9480,Cash,Delivered
+ORD0954,CUST0954,2025-01-10,Meera Shah,Jaipur,Rajasthan,North,Printer,Office,Anjali Mehta,4,15000,11500,15,51000,46000,5000,Debit Card,In Transit
+ORD0955,CUST0955,2024-10-10,Vikram Singh,Mumbai,Maharashtra,West,Speaker,Electronics,Pooja Das,3,5000,3200,13,13050,9600,3450,UPI,Delivered
+ORD0956,CUST0956,2024-12-15,Rahul Sharma,Pune,Maharashtra,West,Smartphone,Electronics,Priya Nair,1,35000,28000,7,32550,28000,4550,Credit Card,In Transit
+ORD0957,CUST0957,2025-01-28,Pooja Das,Ahmedabad,Gujarat,West,Speaker,Electronics,Karan Singh,6,5000,3200,26,22200,19200,3000,Debit Card,Cancelled
+ORD0958,CUST0958,2024-09-26,Kavya Reddy,Mysuru,Karnataka,South,Mouse,Accessories,Karan Singh,8,800,450,26,4736,3600,1136,UPI,In Transit
+ORD0959,CUST0959,2025-02-12,Nikhil Jain,Pune,Maharashtra,West,Speaker,Electronics,Anjali Mehta,8,5000,3200,20,32000,25600,6400,Cash,Cancelled
+ORD0960,CUST0960,2024-12-22,Aditya Mishra,New Delhi,Delhi,North,Mouse,Accessories,Rahul Verma,4,800,450,20,2560,1800,760,UPI,In Transit
+ORD0961,CUST0961,2024-11-06,Priya Patel,Coimbatore,Tamil Nadu,South,Mouse,Accessories,Arjun Rao,5,800,450,19,3240,2250,990,Net Banking,Delivered
+ORD0962,CUST0962,2024-04-04,Rohit Verma,Bengaluru,Karnataka,South,Speaker,Electronics,Pooja Das,1,5000,3200,10,4500,3200,1300,Cash,Returned
+ORD0963,CUST0963,2024-03-30,Deepika Roy,Chennai,Tamil Nadu,South,Monitor,Office,Rahul Verma,10,18000,14000,21,142200,140000,2200,Debit Card,Delivered
+ORD0964,CUST0964,2025-05-22,Priya Patel,Surat,Gujarat,West,Keyboard,Accessories,Anjali Mehta,10,1500,900,3,14550,9000,5550,Credit Card,In Transit
+ORD0965,CUST0965,2025-09-03,Aisha Khan,Surat,Gujarat,West,Printer,Office,Vikram Joshi,8,15000,11500,6,112800,92000,20800,UPI,In Transit
+ORD0966,CUST0966,2024-05-29,Amit Kumar,Ahmedabad,Gujarat,West,Smartphone,Electronics,Rahul Verma,6,35000,28000,29,149100,168000,-18900,Net Banking,In Transit
+ORD0967,CUST0967,2025-04-20,Aditya Mishra,Bengaluru,Karnataka,South,Keyboard,Accessories,Rahul Verma,9,1500,900,8,12420,8100,4320,Debit Card,Delivered
+ORD0968,CUST0968,2025-03-18,Rohan Kulkarni,New Delhi,Delhi,North,Headphones,Accessories,Anjali Mehta,3,3000,1800,27,6570,5400,1170,Debit Card,Delivered
+ORD0969,CUST0969,2025-11-09,Vikram Singh,Pune,Maharashtra,West,Monitor,Office,Karan Singh,5,18000,14000,26,66600,70000,-3400,UPI,Delivered
+ORD0970,CUST0970,2025-12-20,Nikhil Jain,Bengaluru,Karnataka,South,Printer,Office,Anjali Mehta,3,15000,11500,8,41400,34500,6900,Debit Card,Delivered
+ORD0971,CUST0971,2025-09-17,Suresh Iyer,Ahmedabad,Gujarat,West,Keyboard,Accessories,Karan Singh,9,1500,900,8,12420,8100,4320,Debit Card,Returned
+ORD0972,CUST0972,2025-03-31,Karan Joshi,Surat,Gujarat,West,Mouse,Accessories,Vikram Joshi,6,800,450,10,4320,2700,1620,Credit Card,In Transit
+ORD0973,CUST0973,2024-10-14,Meera Shah,Warangal,Telangana,South,Smartphone,Electronics,Rahul Verma,2,35000,28000,16,58800,56000,2800,Net Banking,In Transit
+ORD0974,CUST0974,2025-04-02,Nikhil Jain,Mysuru,Karnataka,South,Laptop,Electronics,Neha Gupta,1,65000,52000,9,59150,52000,7150,Cash,Returned
+ORD0975,CUST0975,2025-11-29,Aisha Khan,Chennai,Tamil Nadu,South,Printer,Office,Karan Singh,4,15000,11500,22,46800,46000,800,Cash,In Transit
+ORD0976,CUST0976,2025-08-19,Divya Menon,Bengaluru,Karnataka,South,Printer,Office,Karan Singh,6,15000,11500,24,68400,69000,-600,Net Banking,In Transit
+ORD0977,CUST0977,2025-03-18,Rahul Sharma,Hyderabad,Telangana,South,Smartwatch,Wearables,Amit Sharma,9,12000,8500,1,106920,76500,30420,Debit Card,Cancelled
+ORD0978,CUST0978,2025-06-20,Aditya Mishra,Kolkata,West Bengal,East,Tablet,Electronics,Anjali Mehta,7,25000,20000,22,136500,140000,-3500,Net Banking,In Transit
+ORD0979,CUST0979,2025-04-23,Vikram Singh,Mysuru,Karnataka,South,Tablet,Electronics,Pooja Das,2,25000,20000,24,38000,40000,-2000,Cash,Returned
+ORD0980,CUST0980,2025-05-05,Vikram Singh,Warangal,Telangana,South,Smartphone,Electronics,Anjali Mehta,10,35000,28000,7,325500,280000,45500,Net Banking,Delivered
+ORD0981,CUST0981,2024-05-31,Rohan Kulkarni,Hyderabad,Telangana,South,Printer,Office,Karan Singh,10,15000,11500,12,132000,115000,17000,Net Banking,In Transit
+ORD0982,CUST0982,2025-12-11,Vikram Singh,Pune,Maharashtra,West,Speaker,Electronics,Amit Sharma,2,5000,3200,12,8800,6400,2400,Cash,Cancelled
+ORD0983,CUST0983,2024-12-25,Vikram Singh,Pune,Maharashtra,West,Laptop,Electronics,Vikram Joshi,2,65000,52000,28,93600,104000,-10400,Credit Card,In Transit
+ORD0984,CUST0984,2024-05-17,Arjun Mehta,Pune,Maharashtra,West,Mouse,Accessories,Vikram Joshi,3,800,450,0,2400,1350,1050,UPI,Cancelled
+ORD0985,CUST0985,2025-07-04,Priya Patel,Mysuru,Karnataka,South,Mouse,Accessories,Pooja Das,10,800,450,12,7040,4500,2540,Credit Card,Returned
+ORD0986,CUST0986,2025-12-11,Arjun Mehta,Hyderabad,Telangana,South,Printer,Office,Anjali Mehta,6,15000,11500,0,90000,69000,21000,Net Banking,Cancelled
+ORD0987,CUST0987,2024-10-21,Vikram Singh,Surat,Gujarat,West,Keyboard,Accessories,Priya Nair,7,1500,900,5,9975,6300,3675,Credit Card,Returned
+ORD0988,CUST0988,2024-11-17,Pooja Das,Pune,Maharashtra,West,Tablet,Electronics,Arjun Rao,7,25000,20000,27,127750,140000,-12250,Net Banking,In Transit
+ORD0989,CUST0989,2025-01-05,Rohan Kulkarni,Jaipur,Rajasthan,North,Laptop,Electronics,Pooja Das,9,65000,52000,15,497250,468000,29250,Debit Card,In Transit
+ORD0990,CUST0990,2024-09-06,Amit Kumar,Jaipur,Rajasthan,North,Headphones,Accessories,Vikram Joshi,5,3000,1800,30,10500,9000,1500,UPI,In Transit
+ORD0991,CUST0991,2024-08-13,Priya Patel,Mysuru,Karnataka,South,Printer,Office,Pooja Das,9,15000,11500,0,135000,103500,31500,Cash,Cancelled
+ORD0992,CUST0992,2025-09-18,Aditya Mishra,Coimbatore,Tamil Nadu,South,Laptop,Electronics,Pooja Das,1,65000,52000,6,61100,52000,9100,Cash,Returned
+ORD0993,CUST0993,2024-08-12,Rohit Verma,Kolkata,West Bengal,East,Tablet,Electronics,Amit Sharma,9,25000,20000,14,193500,180000,13500,Credit Card,Delivered
+ORD0994,CUST0994,2025-08-17,Pooja Das,Ahmedabad,Gujarat,West,Keyboard,Accessories,Arjun Rao,10,1500,900,6,14100,9000,5100,Credit Card,In Transit
+ORD0995,CUST0995,2025-08-08,Karan Joshi,Mumbai,Maharashtra,West,Mouse,Accessories,Neha Gupta,9,800,450,3,6984,4050,2934,UPI,Returned
+ORD0996,CUST0996,2024-07-20,Sneha Nair,Coimbatore,Tamil Nadu,South,Smartphone,Electronics,Priya Nair,5,35000,28000,5,166250,140000,26250,UPI,Returned
+ORD0997,CUST0997,2025-01-28,Karan Joshi,Mysuru,Karnataka,South,Tablet,Electronics,Anjali Mehta,3,25000,20000,14,64500,60000,4500,Cash,In Transit
+ORD0998,CUST0998,2024-09-18,Neha Gupta,Pune,Maharashtra,West,Headphones,Accessories,Vikram Joshi,8,3000,1800,2,23520,14400,9120,Cash,In Transit
+ORD0999,CUST0999,2025-08-27,Rohit Verma,Ahmedabad,Gujarat,West,Smartwatch,Wearables,Vikram Joshi,9,12000,8500,4,103680,76500,27180,Net Banking,Returned
+ORD1000,CUST1000,2025-10-26,Pooja Das,Ahmedabad,Gujarat,West,Laptop,Electronics,Anjali Mehta,8,65000,52000,27,379600,416000,-36400,Net Banking,Cancelled
